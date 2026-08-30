@@ -1,0 +1,11 @@
+{
+  "features": [
+    "requests",
+    "data_uploaded_mb",
+    "activity_hour"
+  ],
+  "contamination": 0.2,
+  "random_state": 42,
+  "predicted_anomalies": 240,
+  "predicted_normal": 960
+}

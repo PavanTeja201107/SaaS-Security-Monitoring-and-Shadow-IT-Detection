@@ -1,0 +1,1201 @@
+event_id,timestamp,user_id,application,application_category,requests,data_uploaded_mb,device,location,approved,ground_truth
+SAAS-01075,2025-06-01T08:25:30,user_025,Microsoft 365,Productivity,41,1.25,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00895,2025-06-01T08:33:02,user_047,OneDrive,Storage,64,784.71,Managed macOS Laptop,Pune,True,1
+SAAS-00298,2025-06-01T08:35:56,user_030,Slack,Collaboration,705,6.54,Managed Windows Laptop,Hyderabad,True,1
+SAAS-01057,2025-06-01T08:55:58,user_011,Slack,Collaboration,53,4.09,Managed macOS Laptop,Pune,True,0
+SAAS-00316,2025-06-01T09:09:11,user_011,Salesforce,CRM,69,12.38,Managed macOS Laptop,Pune,True,0
+SAAS-01059,2025-06-01T09:36:59,user_049,Zoom,Communication,604,3.51,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00494,2025-06-01T10:14:00,user_043,Slack,Collaboration,25,30.4,Managed macOS Laptop,Pune,True,0
+SAAS-01100,2025-06-01T11:07:30,user_034,Microsoft 365,Productivity,59,3.93,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01054,2025-06-01T11:32:19,user_044,OneDrive,Storage,39,6.4,Managed Windows Laptop,Chennai,True,0
+SAAS-01131,2025-06-01T12:35:50,user_029,Google Workspace,Productivity,65,11.46,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00874,2025-06-01T12:45:31,user_049,Zoom,Communication,73,4.76,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01193,2025-06-01T12:52:26,user_012,Google Workspace,Productivity,56,755.0,Managed Windows Laptop,Chennai,True,1
+SAAS-00420,2025-06-01T13:00:09,user_049,Trello,Project Management,89,12.14,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01079,2025-06-01T13:13:49,user_039,Microsoft 365,Productivity,49,4.44,Managed macOS Laptop,Pune,True,0
+SAAS-01005,2025-06-01T13:42:59,user_034,GitHub,Development,53,9.94,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01084,2025-06-01T13:51:38,user_035,Salesforce,CRM,62,4.61,Managed macOS Laptop,Pune,True,0
+SAAS-01133,2025-06-01T14:02:34,user_039,OneDrive,Storage,331,2.56,Managed macOS Laptop,Pune,True,1
+SAAS-01127,2025-06-01T14:14:30,user_049,Google Workspace,Productivity,83,3.04,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00559,2025-06-01T14:16:46,user_008,Dropbox,Storage,41,4.67,Managed Windows Laptop,Chennai,False,1
+SAAS-00270,2025-06-01T14:26:52,user_002,Slack,Collaboration,45,15.66,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00536,2025-06-01T14:27:30,user_004,WeTransfer,File Transfer,64,2.26,Managed Windows Laptop,Chennai,False,1
+SAAS-00339,2025-06-01T14:38:22,user_043,GitHub,Development,60,4.12,Managed macOS Laptop,Pune,True,0
+SAAS-00887,2025-06-01T15:26:15,user_034,Dropbox,Storage,25,1.26,Managed Windows Laptop,Hyderabad,False,1
+SAAS-01074,2025-06-01T15:50:44,user_050,GitHub,Development,71,0.78,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00938,2025-06-01T15:51:43,user_028,Claude,AI Assistant,90,12.72,Managed Windows Laptop,Chennai,False,1
+SAAS-01068,2025-06-01T15:54:03,user_025,Microsoft 365,Productivity,44,225.92,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00621,2025-06-01T16:16:55,user_038,DeepSeek,AI Assistant,61,19.38,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00547,2025-06-01T16:22:50,user_017,Microsoft 365,Productivity,71,15.79,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00538,2025-06-01T16:30:59,user_028,GitHub,Development,39,4.09,Managed Windows Laptop,Chennai,True,0
+SAAS-00729,2025-06-01T17:15:54,user_047,Slack,Collaboration,52,5.05,Managed macOS Laptop,Pune,True,0
+SAAS-00474,2025-06-01T17:40:00,user_022,GitHub,Development,38,3.53,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00955,2025-06-01T17:52:33,user_003,Jira,Project Management,88,7.21,Managed macOS Laptop,Pune,True,0
+SAAS-00433,2025-06-01T17:54:36,user_026,Salesforce,CRM,51,17.13,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00682,2025-06-01T22:36:12,user_033,Slack,Collaboration,49,9.6,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00810,2025-06-02T02:46:05,user_041,Salesforce,CRM,25,6.0,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00853,2025-06-02T08:23:43,user_041,Dropbox,Storage,69,10.48,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00520,2025-06-02T08:24:54,user_036,Salesforce,CRM,74,4.44,Managed Windows Laptop,Chennai,True,0
+SAAS-00248,2025-06-02T08:28:24,user_042,Salesforce,CRM,43,11.17,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01175,2025-06-02T08:32:55,user_046,OneDrive,Storage,40,17.64,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00245,2025-06-02T08:41:50,user_039,Microsoft 365,Productivity,53,602.05,Managed macOS Laptop,Pune,True,1
+SAAS-01011,2025-06-02T08:43:09,user_009,Dropbox,Storage,52,9.99,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00311,2025-06-02T08:46:43,user_013,Salesforce,CRM,53,4.74,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00999,2025-06-02T08:53:10,user_031,Salesforce,CRM,85,7.9,Managed macOS Laptop,Pune,True,0
+SAAS-01139,2025-06-02T09:15:52,user_009,Jira,Project Management,45,13.11,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00919,2025-06-02T09:20:27,user_025,OneDrive,Storage,34,6.26,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00046,2025-06-02T09:25:23,user_023,Notion,Productivity,78,7.81,Managed macOS Laptop,Pune,False,1
+SAAS-01155,2025-06-02T09:37:55,user_050,GitHub,Development,59,9.44,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00848,2025-06-02T09:47:08,user_042,Zoom,Communication,73,623.71,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00363,2025-06-02T09:52:44,user_034,Slack,Collaboration,53,7.71,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00350,2025-06-02T10:05:19,user_046,OneDrive,Storage,55,12.25,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00485,2025-06-02T10:26:20,user_031,Zoom,Communication,53,232.59,Managed macOS Laptop,Pune,True,1
+SAAS-00530,2025-06-02T10:58:15,user_006,Slack,Collaboration,68,6.99,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00054,2025-06-02T11:00:00,user_027,GitHub,Development,390,9.65,Managed macOS Laptop,Pune,True,1
+SAAS-00035,2025-06-02T11:27:47,user_019,Microsoft 365,Productivity,81,7.05,Managed macOS Laptop,Pune,True,0
+SAAS-00357,2025-06-02T12:00:18,user_004,Dropbox,Storage,62,25.54,Managed Windows Laptop,Chennai,False,1
+SAAS-01146,2025-06-02T12:18:33,user_041,Notion,Productivity,58,6.71,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00204,2025-06-02T12:28:15,user_038,Salesforce,CRM,54,8.57,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00518,2025-06-02T12:30:28,user_040,Microsoft 365,Productivity,53,9.87,Managed Windows Laptop,Chennai,True,0
+SAAS-00304,2025-06-02T12:35:36,user_034,Salesforce,CRM,23,14.54,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01066,2025-06-02T12:50:29,user_021,OneDrive,Storage,74,8.68,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00345,2025-06-02T12:54:24,user_016,Dropbox,Storage,33,28.82,Managed Windows Laptop,Chennai,False,1
+SAAS-00179,2025-06-02T13:17:27,user_045,Notion,Productivity,47,12.72,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00841,2025-06-02T13:25:29,user_049,OneDrive,Storage,66,11.57,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00213,2025-06-02T14:02:06,user_010,Salesforce,CRM,93,8.82,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00492,2025-06-02T14:12:14,user_030,Zoom,Communication,12,3.05,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01169,2025-06-02T14:26:23,user_027,ChatGPT,AI Assistant,53,32.45,Managed macOS Laptop,Pune,False,1
+SAAS-00738,2025-06-02T14:34:17,user_022,Salesforce,CRM,79,1.61,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00662,2025-06-02T14:42:32,user_028,Slack,Collaboration,24,11.98,Managed Windows Laptop,Chennai,True,0
+SAAS-00883,2025-06-02T14:45:59,user_040,WeTransfer,File Transfer,65,16.33,Managed Windows Laptop,Chennai,False,1
+SAAS-00611,2025-06-02T14:46:24,user_013,Trello,Project Management,43,4.84,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00787,2025-06-02T14:49:50,user_050,Trello,Project Management,57,12.73,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00267,2025-06-02T15:05:27,user_038,Zoom,Communication,69,8.16,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00466,2025-06-02T15:25:18,user_040,Google Workspace,Productivity,59,4.12,Managed Windows Laptop,Chennai,True,0
+SAAS-00774,2025-06-02T15:42:40,user_041,Trello,Project Management,21,11.92,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00579,2025-06-02T15:58:40,user_002,Salesforce,CRM,36,12.19,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00444,2025-06-02T16:00:10,user_044,Microsoft 365,Productivity,44,1.36,Managed Windows Laptop,Chennai,True,0
+SAAS-00470,2025-06-02T16:47:26,user_024,OneDrive,Storage,68,6.29,Managed Windows Laptop,Chennai,True,0
+SAAS-00360,2025-06-02T16:54:27,user_007,GitHub,Development,34,3.53,Managed macOS Laptop,Pune,True,0
+SAAS-01082,2025-06-02T17:31:23,user_032,Google Workspace,Productivity,68,10.35,Managed Windows Laptop,Chennai,True,0
+SAAS-00916,2025-06-02T17:32:13,user_025,Salesforce,CRM,39,9.97,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00196,2025-06-02T18:06:45,user_031,Slack,Collaboration,405,7.78,Managed macOS Laptop,Pune,True,1
+SAAS-00818,2025-06-02T18:08:39,user_028,Slack,Collaboration,60,7.79,Managed Windows Laptop,Chennai,True,0
+SAAS-00768,2025-06-02T18:10:22,user_049,Jira,Project Management,32,6.35,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00280,2025-06-02T18:10:25,user_009,GitHub,Development,67,847.4,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00493,2025-06-02T18:28:59,user_007,Zoom,Communication,43,9.36,Managed macOS Laptop,Pune,True,0
+SAAS-00616,2025-06-02T18:55:19,user_047,Zoom,Communication,54,3.77,Managed macOS Laptop,Pune,True,0
+SAAS-00141,2025-06-03T08:01:07,user_004,OneDrive,Storage,38,4.93,Managed Windows Laptop,Chennai,True,0
+SAAS-00368,2025-06-03T08:14:03,user_043,Zoom,Communication,45,2.85,Managed macOS Laptop,Pune,True,0
+SAAS-00803,2025-06-03T08:25:40,user_041,Salesforce,CRM,31,8.29,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00858,2025-06-03T08:41:26,user_025,GitHub,Development,92,1.57,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00239,2025-06-03T08:50:35,user_017,Jira,Project Management,51,0.93,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00585,2025-06-03T09:33:39,user_044,GitHub,Development,54,15.12,Managed Windows Laptop,Chennai,True,0
+SAAS-00437,2025-06-03T10:15:48,user_029,GitHub,Development,50,6.37,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01191,2025-06-03T10:16:00,user_042,Microsoft 365,Productivity,43,3.54,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00007,2025-06-03T10:27:09,user_027,Google Workspace,Productivity,73,4.35,Managed macOS Laptop,Pune,True,0
+SAAS-00498,2025-06-03T11:43:53,user_029,OneDrive,Storage,41,3.05,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01106,2025-06-03T11:44:42,user_023,Gemini,AI Assistant,69,26.18,Managed macOS Laptop,Pune,False,1
+SAAS-00370,2025-06-03T11:50:16,user_041,Notion,Productivity,70,6.86,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00728,2025-06-03T12:31:34,user_047,Google Workspace,Productivity,40,7.44,Managed macOS Laptop,Pune,True,0
+SAAS-00601,2025-06-03T12:34:06,user_008,Google Workspace,Productivity,492,2.49,Managed Windows Laptop,Chennai,True,1
+SAAS-00073,2025-06-03T12:48:30,user_010,Microsoft 365,Productivity,50,0.46,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00519,2025-06-03T12:59:14,user_040,Zoom,Communication,48,13.27,Managed Windows Laptop,Chennai,True,0
+SAAS-00002,2025-06-03T13:45:35,user_035,DeepSeek,AI Assistant,42,20.66,Managed macOS Laptop,Pune,False,1
+SAAS-00055,2025-06-03T13:49:28,user_042,OneDrive,Storage,50,12.36,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00380,2025-06-03T14:39:28,user_041,OneDrive,Storage,60,14.55,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00356,2025-06-03T15:02:16,user_035,Trello,Project Management,58,30.76,Managed macOS Laptop,Pune,False,1
+SAAS-01065,2025-06-03T15:08:59,user_037,Zoom,Communication,76,3.68,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00527,2025-06-03T15:12:04,user_026,OneDrive,Storage,11,16.84,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00390,2025-06-03T15:30:27,user_027,Google Workspace,Productivity,40,15.07,Managed macOS Laptop,Pune,True,0
+SAAS-00172,2025-06-03T15:43:11,user_021,Jira,Project Management,75,7.17,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00990,2025-06-03T16:01:59,user_011,Salesforce,CRM,65,10.77,Managed macOS Laptop,Pune,True,0
+SAAS-00896,2025-06-03T16:09:08,user_037,OneDrive,Storage,29,9.78,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00619,2025-06-03T16:16:46,user_001,Zoom,Communication,42,17.1,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00202,2025-06-03T16:16:58,user_039,Slack,Collaboration,63,13.64,Managed macOS Laptop,Pune,True,0
+SAAS-00452,2025-06-03T16:32:56,user_029,Jira,Project Management,50,1.95,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00700,2025-06-03T16:33:04,user_030,GitHub,Development,43,4.37,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00460,2025-06-03T16:45:06,user_041,Salesforce,CRM,31,16.9,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00765,2025-06-03T16:45:19,user_010,Notion,Productivity,69,6.49,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00183,2025-06-03T16:50:56,user_037,Microsoft 365,Productivity,59,14.08,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00012,2025-06-03T17:00:46,user_002,OneDrive,Storage,52,23.2,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00192,2025-06-03T17:03:34,user_033,Slack,Collaboration,63,8.04,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00762,2025-06-03T17:03:57,user_046,Microsoft 365,Productivity,58,13.26,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00211,2025-06-03T17:06:35,user_025,OneDrive,Storage,41,4.58,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00167,2025-06-03T17:28:37,user_031,Microsoft 365,Productivity,16,6.1,Managed macOS Laptop,Pune,True,0
+SAAS-00570,2025-06-03T17:55:16,user_045,Notion,Productivity,52,12.26,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00749,2025-06-03T17:58:36,user_008,Zoom,Communication,42,3.27,Managed Windows Laptop,Chennai,True,0
+SAAS-00592,2025-06-03T18:09:51,user_036,Microsoft 365,Productivity,68,3.2,Managed Windows Laptop,Chennai,True,0
+SAAS-00005,2025-06-03T18:36:58,user_039,OneDrive,Storage,33,2.94,Managed macOS Laptop,Pune,True,0
+SAAS-00484,2025-06-03T18:39:31,user_005,Google Workspace,Productivity,30,7.0,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00786,2025-06-03T18:47:40,user_024,Jira,Project Management,27,6.22,Managed Windows Laptop,Chennai,True,0
+SAAS-00911,2025-06-04T04:47:57,user_038,Jira,Project Management,44,7.1,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00756,2025-06-04T04:53:21,user_046,Salesforce,CRM,42,11.32,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00488,2025-06-04T08:02:35,user_038,ChatGPT,AI Assistant,35,14.47,Managed Windows Laptop,Hyderabad,False,1
+SAAS-01044,2025-06-04T08:11:56,user_024,Google Workspace,Productivity,41,6.04,Managed Windows Laptop,Chennai,True,0
+SAAS-00994,2025-06-04T08:21:06,user_042,Slack,Collaboration,28,3.58,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00824,2025-06-04T08:36:07,user_013,Microsoft 365,Productivity,67,1.3,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00725,2025-06-04T08:38:41,user_022,Google Workspace,Productivity,35,12.71,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00290,2025-06-04T08:51:57,user_033,Notion,Productivity,54,4.7,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01055,2025-06-04T09:03:26,user_004,Slack,Collaboration,50,7.09,Managed Windows Laptop,Chennai,True,0
+SAAS-00525,2025-06-04T09:04:56,user_025,OneDrive,Storage,64,1.38,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00244,2025-06-04T09:11:45,user_012,GitHub,Development,83,5.69,Managed Windows Laptop,Chennai,True,0
+SAAS-00563,2025-06-04T09:14:17,user_010,Salesforce,CRM,73,10.35,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00372,2025-06-04T09:31:21,user_010,Google Workspace,Productivity,42,7.19,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00683,2025-06-04T09:40:07,user_035,Jira,Project Management,89,6.05,Managed macOS Laptop,Pune,True,0
+SAAS-00489,2025-06-04T09:41:59,user_020,Dropbox,Storage,33,2.43,Managed Windows Laptop,Chennai,False,1
+SAAS-00269,2025-06-04T09:55:22,user_028,OneDrive,Storage,22,23.33,Managed Windows Laptop,Chennai,True,0
+SAAS-01058,2025-06-04T10:41:50,user_041,Slack,Collaboration,65,13.61,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00397,2025-06-04T10:52:08,user_027,Zoom,Communication,74,13.25,Managed macOS Laptop,Pune,True,0
+SAAS-00001,2025-06-04T11:09:18,user_020,GitHub,Development,20,11.73,Managed Windows Laptop,Chennai,True,0
+SAAS-00922,2025-06-04T11:25:01,user_019,Microsoft 365,Productivity,46,6.6,Managed macOS Laptop,Pune,True,0
+SAAS-01012,2025-06-04T11:34:51,user_040,OneDrive,Storage,76,8.53,Managed Windows Laptop,Chennai,True,0
+SAAS-00115,2025-06-04T11:40:59,user_009,GitHub,Development,38,4.51,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00138,2025-06-04T12:03:38,user_006,Zoom,Communication,73,6.61,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00504,2025-06-04T12:25:48,user_016,OneDrive,Storage,37,3.09,Managed Windows Laptop,Chennai,True,0
+SAAS-00036,2025-06-04T12:27:59,user_031,Microsoft 365,Productivity,38,8.78,Managed macOS Laptop,Pune,True,0
+SAAS-00554,2025-06-04T12:30:05,user_015,OneDrive,Storage,35,9.84,Managed macOS Laptop,Pune,True,0
+SAAS-01028,2025-06-04T13:02:29,user_028,GitHub,Development,58,5.42,Managed Windows Laptop,Chennai,True,0
+SAAS-01124,2025-06-04T13:28:11,user_003,Slack,Collaboration,70,2.48,Managed macOS Laptop,Pune,True,0
+SAAS-00523,2025-06-04T14:20:36,user_036,Notion,Productivity,70,7.9,Managed Windows Laptop,Chennai,False,1
+SAAS-00861,2025-06-04T14:35:22,user_031,Slack,Collaboration,33,21.26,Managed macOS Laptop,Pune,True,0
+SAAS-00476,2025-06-04T14:59:38,user_024,GitHub,Development,55,22.04,Managed Windows Laptop,Chennai,True,0
+SAAS-01053,2025-06-04T15:00:18,user_027,DeepSeek,AI Assistant,47,25.49,Managed macOS Laptop,Pune,False,1
+SAAS-01067,2025-06-04T15:00:41,user_026,Slack,Collaboration,35,12.46,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00851,2025-06-04T15:03:27,user_006,Zoom,Communication,647,18.55,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00603,2025-06-04T15:04:47,user_008,Zoom,Communication,38,10.18,Managed Windows Laptop,Chennai,True,0
+SAAS-00164,2025-06-04T15:11:35,user_041,Jira,Project Management,35,1.27,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00767,2025-06-04T15:45:53,user_030,OneDrive,Storage,49,21.03,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00813,2025-06-04T15:52:07,user_038,Jira,Project Management,82,9.66,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00048,2025-06-04T16:05:20,user_019,ChatGPT,AI Assistant,73,34.71,Managed macOS Laptop,Pune,False,1
+SAAS-00326,2025-06-04T16:59:10,user_042,Google Workspace,Productivity,560,9.26,Managed Windows Laptop,Hyderabad,True,1
+SAAS-01035,2025-06-04T17:00:25,user_047,Jira,Project Management,85,4.18,Managed macOS Laptop,Pune,True,0
+SAAS-01056,2025-06-04T17:24:58,user_034,Jira,Project Management,52,11.96,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00524,2025-06-04T17:41:20,user_037,GitHub,Development,47,12.4,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00600,2025-06-04T18:34:27,user_007,Microsoft 365,Productivity,42,9.6,Managed macOS Laptop,Pune,True,0
+SAAS-00686,2025-06-04T18:45:54,user_044,Google Workspace,Productivity,63,2.28,Managed Windows Laptop,Chennai,True,0
+SAAS-00085,2025-06-04T18:47:18,user_042,Jira,Project Management,58,9.17,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00331,2025-06-05T04:49:16,user_047,Salesforce,CRM,46,23.27,Managed macOS Laptop,Pune,True,1
+SAAS-00722,2025-06-05T08:07:22,user_005,DeepSeek,AI Assistant,68,13.12,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00790,2025-06-05T08:09:06,user_010,Dropbox,Storage,75,12.48,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00509,2025-06-05T08:40:10,user_002,Salesforce,CRM,73,6.2,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00014,2025-06-05T09:22:33,user_042,Gemini,AI Assistant,34,32.51,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00457,2025-06-05T09:59:28,user_018,Google Workspace,Productivity,90,3.08,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00113,2025-06-05T10:11:44,user_047,Google Workspace,Productivity,44,5.64,Managed macOS Laptop,Pune,True,0
+SAAS-00510,2025-06-05T10:12:19,user_022,Google Workspace,Productivity,59,27.6,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01177,2025-06-05T10:17:41,user_036,Salesforce,CRM,36,11.8,Managed Windows Laptop,Chennai,True,0
+SAAS-00421,2025-06-05T10:18:20,user_030,WeTransfer,File Transfer,68,8.04,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00879,2025-06-05T10:41:30,user_043,Microsoft 365,Productivity,37,7.88,Managed macOS Laptop,Pune,True,0
+SAAS-00406,2025-06-05T11:01:40,user_006,OneDrive,Storage,57,6.16,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00482,2025-06-05T11:24:31,user_028,Gemini,AI Assistant,70,31.01,Managed Windows Laptop,Chennai,False,1
+SAAS-00983,2025-06-05T11:26:08,user_050,Salesforce,CRM,58,18.44,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01034,2025-06-05T11:35:59,user_050,Salesforce,CRM,37,5.16,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00973,2025-06-05T12:19:19,user_050,Dropbox,Storage,51,6.75,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00671,2025-06-05T12:36:45,user_009,DeepSeek,AI Assistant,44,23.04,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00451,2025-06-05T12:43:49,user_034,GitHub,Development,59,2.26,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00812,2025-06-05T12:49:30,user_001,OneDrive,Storage,75,15.52,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00143,2025-06-05T13:04:10,user_036,Slack,Collaboration,40,8.09,Managed Windows Laptop,Chennai,True,0
+SAAS-00704,2025-06-05T13:08:55,user_017,Slack,Collaboration,38,2.67,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00342,2025-06-05T13:18:38,user_011,OneDrive,Storage,44,28.4,Managed macOS Laptop,Pune,True,0
+SAAS-00321,2025-06-05T13:32:09,user_003,GitHub,Development,630,6.65,Managed macOS Laptop,Pune,True,1
+SAAS-00162,2025-06-05T13:36:13,user_004,Microsoft 365,Productivity,35,18.15,Managed Windows Laptop,Chennai,True,0
+SAAS-01013,2025-06-05T13:38:37,user_010,GitHub,Development,48,2.11,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00066,2025-06-05T13:43:58,user_017,Slack,Collaboration,69,5.28,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00090,2025-06-05T14:21:54,user_008,Google Workspace,Productivity,66,7.42,Managed Windows Laptop,Chennai,True,0
+SAAS-00996,2025-06-05T14:39:21,user_014,Slack,Collaboration,57,4.4,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00076,2025-06-05T14:40:06,user_035,Salesforce,CRM,26,8.79,Managed macOS Laptop,Pune,True,0
+SAAS-00750,2025-06-05T14:55:00,user_028,Notion,Productivity,45,12.62,Managed Windows Laptop,Chennai,False,1
+SAAS-00231,2025-06-05T15:04:31,user_044,Slack,Collaboration,47,15.81,Managed Windows Laptop,Chennai,True,0
+SAAS-01188,2025-06-05T15:35:31,user_038,Salesforce,CRM,40,16.87,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01043,2025-06-05T16:22:17,user_002,Salesforce,CRM,45,6.84,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00953,2025-06-05T16:35:25,user_031,Gemini,AI Assistant,52,32.36,Managed macOS Laptop,Pune,False,1
+SAAS-00124,2025-06-05T16:38:26,user_048,Microsoft 365,Productivity,76,8.57,Managed Windows Laptop,Chennai,True,0
+SAAS-00531,2025-06-05T17:13:33,user_035,DeepSeek,AI Assistant,73,12.67,Managed macOS Laptop,Pune,False,1
+SAAS-00221,2025-06-05T17:45:38,user_036,Google Workspace,Productivity,647,2.99,Managed Windows Laptop,Chennai,True,1
+SAAS-00694,2025-06-05T17:53:50,user_022,Zoom,Communication,46,15.05,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00340,2025-06-05T18:07:42,user_020,Google Workspace,Productivity,91,7.29,Managed Windows Laptop,Chennai,True,0
+SAAS-01163,2025-06-05T18:17:21,user_002,OneDrive,Storage,74,14.4,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00354,2025-06-05T18:19:48,user_008,Jira,Project Management,80,14.34,Managed Windows Laptop,Chennai,True,0
+SAAS-00741,2025-06-05T18:55:45,user_034,ChatGPT,AI Assistant,38,31.38,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00094,2025-06-06T00:30:56,user_034,OneDrive,Storage,39,1.62,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00151,2025-06-06T04:25:21,user_026,OneDrive,Storage,73,1.58,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00613,2025-06-06T08:13:27,user_035,Salesforce,CRM,45,12.65,Managed macOS Laptop,Pune,True,0
+SAAS-00464,2025-06-06T08:18:30,user_039,Slack,Collaboration,63,10.24,Managed macOS Laptop,Pune,True,0
+SAAS-00190,2025-06-06T08:24:23,user_036,Slack,Collaboration,68,5.21,Managed Windows Laptop,Chennai,True,0
+SAAS-00256,2025-06-06T08:37:40,user_034,Zoom,Communication,68,12.9,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01008,2025-06-06T08:45:33,user_047,Salesforce,CRM,43,13.05,Managed macOS Laptop,Pune,True,0
+SAAS-00352,2025-06-06T08:56:16,user_033,Zoom,Communication,53,3.77,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01152,2025-06-06T08:58:53,user_010,Salesforce,CRM,55,3.71,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00890,2025-06-06T09:00:28,user_011,Dropbox,Storage,92,4.73,Managed macOS Laptop,Pune,False,1
+SAAS-00505,2025-06-06T09:08:47,user_023,Salesforce,CRM,59,21.15,Managed macOS Laptop,Pune,True,0
+SAAS-00119,2025-06-06T09:11:33,user_005,Google Workspace,Productivity,30,2.11,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00873,2025-06-06T09:43:38,user_009,Google Workspace,Productivity,39,5.07,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00557,2025-06-06T09:45:15,user_016,Salesforce,CRM,47,1.75,Managed Windows Laptop,Chennai,True,0
+SAAS-00026,2025-06-06T09:46:56,user_001,GitHub,Development,36,3.16,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00821,2025-06-06T09:48:07,user_007,Microsoft 365,Productivity,54,1.72,Managed macOS Laptop,Pune,True,0
+SAAS-00287,2025-06-06T09:48:49,user_025,WeTransfer,File Transfer,49,6.36,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00713,2025-06-06T10:14:03,user_042,DeepSeek,AI Assistant,64,32.91,Managed Windows Laptop,Hyderabad,False,1
+SAAS-01001,2025-06-06T10:15:12,user_047,Slack,Collaboration,91,654.69,Managed macOS Laptop,Pune,True,1
+SAAS-00648,2025-06-06T10:20:00,user_029,Google Workspace,Productivity,70,13.56,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00655,2025-06-06T10:36:31,user_041,ChatGPT,AI Assistant,28,20.2,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01070,2025-06-06T10:45:12,user_036,Zoom,Communication,58,484.35,Managed Windows Laptop,Chennai,True,1
+SAAS-00278,2025-06-06T10:49:22,user_024,Notion,Productivity,72,7.0,Managed Windows Laptop,Chennai,False,1
+SAAS-00018,2025-06-06T10:55:31,user_018,GitHub,Development,53,7.27,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00791,2025-06-06T11:12:13,user_050,Slack,Collaboration,70,1.29,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00328,2025-06-06T11:41:09,user_040,Salesforce,CRM,53,4.4,Managed Windows Laptop,Chennai,True,0
+SAAS-00145,2025-06-06T11:45:12,user_045,GitHub,Development,41,4.57,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00490,2025-06-06T12:04:08,user_034,Google Workspace,Productivity,31,9.21,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00105,2025-06-06T12:26:49,user_006,GitHub,Development,43,17.3,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00558,2025-06-06T12:45:20,user_026,Salesforce,CRM,50,4.41,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00633,2025-06-06T12:55:38,user_020,Google Workspace,Productivity,64,2.06,Managed Windows Laptop,Chennai,True,0
+SAAS-00775,2025-06-06T13:07:51,user_044,OneDrive,Storage,39,1.71,Managed Windows Laptop,Chennai,True,0
+SAAS-01174,2025-06-06T13:32:21,user_016,OneDrive,Storage,34,2.25,Managed Windows Laptop,Chennai,True,0
+SAAS-00182,2025-06-06T14:08:01,user_043,Salesforce,CRM,58,4.01,Managed macOS Laptop,Pune,True,0
+SAAS-01128,2025-06-06T14:15:16,user_039,WeTransfer,File Transfer,47,25.45,Managed macOS Laptop,Pune,False,1
+SAAS-00237,2025-06-06T14:34:08,user_041,GitHub,Development,72,3.54,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00333,2025-06-06T14:36:47,user_047,Google Workspace,Productivity,42,585.37,Managed macOS Laptop,Pune,True,1
+SAAS-00659,2025-06-06T14:53:57,user_027,GitHub,Development,677,5.77,Managed macOS Laptop,Pune,True,1
+SAAS-00222,2025-06-06T15:05:29,user_036,Slack,Collaboration,53,3.54,Managed Windows Laptop,Chennai,True,0
+SAAS-00216,2025-06-06T15:15:18,user_004,Google Workspace,Productivity,51,3.85,Managed Windows Laptop,Chennai,True,0
+SAAS-00249,2025-06-06T15:17:47,user_032,Jira,Project Management,39,559.73,Managed Windows Laptop,Chennai,True,1
+SAAS-00555,2025-06-06T15:53:13,user_009,Jira,Project Management,50,519.55,Managed macOS Laptop,Bengaluru,True,1
+SAAS-01020,2025-06-06T15:58:29,user_047,OneDrive,Storage,53,8.74,Managed macOS Laptop,Pune,True,0
+SAAS-00408,2025-06-06T17:01:01,user_015,OneDrive,Storage,60,23.16,Managed macOS Laptop,Pune,True,0
+SAAS-00305,2025-06-06T17:09:01,user_006,GitHub,Development,68,9.82,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00794,2025-06-06T17:32:01,user_049,Dropbox,Storage,57,5.11,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01085,2025-06-06T17:35:50,user_040,Slack,Collaboration,43,9.02,Managed Windows Laptop,Chennai,True,0
+SAAS-00240,2025-06-06T18:58:15,user_016,Claude,AI Assistant,42,28.77,Managed Windows Laptop,Chennai,False,1
+SAAS-00412,2025-06-07T04:18:44,user_015,Zoom,Communication,32,12.06,Managed macOS Laptop,Pune,True,1
+SAAS-00820,2025-06-07T08:17:35,user_021,GitHub,Development,71,11.19,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00583,2025-06-07T08:28:40,user_024,Jira,Project Management,55,4.0,Managed Windows Laptop,Chennai,True,0
+SAAS-00770,2025-06-07T08:45:22,user_003,OneDrive,Storage,53,7.64,Managed macOS Laptop,Pune,True,0
+SAAS-00897,2025-06-07T09:27:28,user_020,Jira,Project Management,463,3.14,Managed Windows Laptop,Chennai,True,1
+SAAS-00771,2025-06-07T09:44:29,user_017,Salesforce,CRM,24,5.12,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00160,2025-06-07T09:45:59,user_017,Microsoft 365,Productivity,48,11.7,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00282,2025-06-07T10:29:33,user_020,Salesforce,CRM,51,12.96,Managed Windows Laptop,Chennai,True,0
+SAAS-01134,2025-06-07T10:32:37,user_033,Google Workspace,Productivity,74,6.45,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00432,2025-06-07T10:36:11,user_026,Google Workspace,Productivity,83,9.77,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00289,2025-06-07T11:10:33,user_041,Slack,Collaboration,98,3.05,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00122,2025-06-07T11:11:47,user_021,Trello,Project Management,51,5.56,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00146,2025-06-07T11:20:33,user_050,Salesforce,CRM,761,27.98,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00148,2025-06-07T11:26:49,user_035,OneDrive,Storage,46,7.87,Managed macOS Laptop,Pune,True,0
+SAAS-00461,2025-06-07T11:31:41,user_049,Zoom,Communication,32,7.19,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00914,2025-06-07T11:38:30,user_001,Slack,Collaboration,72,4.81,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00317,2025-06-07T12:01:29,user_005,Slack,Collaboration,36,886.52,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00862,2025-06-07T12:26:04,user_010,Microsoft 365,Productivity,55,7.67,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00473,2025-06-07T12:48:08,user_014,Slack,Collaboration,68,5.31,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00233,2025-06-07T13:32:46,user_005,Dropbox,Storage,46,23.82,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00960,2025-06-07T13:51:10,user_047,Salesforce,CRM,89,5.72,Managed macOS Laptop,Pune,True,0
+SAAS-00194,2025-06-07T14:09:42,user_046,Claude,AI Assistant,35,20.58,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00597,2025-06-07T14:12:07,user_003,OneDrive,Storage,61,3.5,Managed macOS Laptop,Pune,True,0
+SAAS-00006,2025-06-07T14:25:05,user_048,Slack,Collaboration,24,3.78,Managed Windows Laptop,Chennai,True,0
+SAAS-00175,2025-06-07T14:37:28,user_011,GitHub,Development,56,5.58,Managed macOS Laptop,Pune,True,0
+SAAS-00096,2025-06-07T15:38:36,user_024,Google Workspace,Productivity,96,19.2,Managed Windows Laptop,Chennai,True,0
+SAAS-01010,2025-06-07T16:04:23,user_043,Jira,Project Management,61,16.49,Managed macOS Laptop,Pune,True,0
+SAAS-00301,2025-06-07T16:41:14,user_006,Slack,Collaboration,48,3.53,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01199,2025-06-07T16:48:24,user_016,Zoom,Communication,63,10.27,Managed Windows Laptop,Chennai,True,0
+SAAS-00972,2025-06-07T18:06:39,user_014,OneDrive,Storage,44,8.3,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00315,2025-06-07T18:07:52,user_002,Zoom,Communication,48,5.4,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00116,2025-06-08T08:25:59,user_041,Gemini,AI Assistant,55,16.35,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01080,2025-06-08T08:33:23,user_029,GitHub,Development,111,9.39,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00967,2025-06-08T08:34:31,user_006,Microsoft 365,Productivity,45,17.86,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00431,2025-06-08T09:00:30,user_035,Slack,Collaboration,66,4.16,Managed macOS Laptop,Pune,True,0
+SAAS-00870,2025-06-08T09:07:55,user_033,Salesforce,CRM,43,6.8,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01030,2025-06-08T09:19:44,user_045,Claude,AI Assistant,40,22.27,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01016,2025-06-08T09:24:43,user_040,Salesforce,CRM,41,4.81,Managed Windows Laptop,Chennai,True,0
+SAAS-00043,2025-06-08T09:34:52,user_012,OneDrive,Storage,75,5.66,Managed Windows Laptop,Chennai,True,0
+SAAS-00475,2025-06-08T09:37:40,user_018,Microsoft 365,Productivity,21,3.4,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00752,2025-06-08T09:42:29,user_009,Salesforce,CRM,32,8.44,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01072,2025-06-08T09:47:56,user_027,Gemini,AI Assistant,63,33.91,Managed macOS Laptop,Pune,False,1
+SAAS-00025,2025-06-08T09:49:05,user_024,Gemini,AI Assistant,67,14.8,Managed Windows Laptop,Chennai,False,1
+SAAS-00373,2025-06-08T10:21:43,user_005,Google Workspace,Productivity,61,3.63,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00971,2025-06-08T10:27:07,user_031,Google Workspace,Productivity,63,711.74,Managed macOS Laptop,Pune,True,1
+SAAS-00632,2025-06-08T10:56:46,user_007,OneDrive,Storage,68,2.56,Managed macOS Laptop,Pune,True,0
+SAAS-00123,2025-06-08T11:08:01,user_014,Microsoft 365,Productivity,64,9.38,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00535,2025-06-08T11:16:08,user_031,Trello,Project Management,44,9.62,Managed macOS Laptop,Pune,False,1
+SAAS-01147,2025-06-08T11:17:40,user_015,Gemini,AI Assistant,29,11.19,Managed macOS Laptop,Pune,False,1
+SAAS-00279,2025-06-08T11:49:52,user_015,GitHub,Development,80,9.29,Managed macOS Laptop,Pune,True,0
+SAAS-01125,2025-06-08T12:01:48,user_012,OneDrive,Storage,38,3.3,Managed Windows Laptop,Chennai,True,0
+SAAS-00912,2025-06-08T12:25:19,user_028,GitHub,Development,54,8.13,Managed Windows Laptop,Chennai,True,0
+SAAS-00939,2025-06-08T12:54:09,user_040,OneDrive,Storage,69,6.87,Managed Windows Laptop,Chennai,True,0
+SAAS-00300,2025-06-08T13:08:28,user_026,Microsoft 365,Productivity,35,8.47,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00478,2025-06-08T13:08:50,user_047,Zoom,Communication,51,9.24,Managed macOS Laptop,Pune,True,0
+SAAS-00472,2025-06-08T13:25:30,user_026,Microsoft 365,Productivity,65,7.12,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00944,2025-06-08T13:41:02,user_016,Slack,Collaboration,49,13.95,Managed Windows Laptop,Chennai,True,0
+SAAS-00067,2025-06-08T13:49:58,user_020,Salesforce,CRM,66,11.2,Managed Windows Laptop,Chennai,True,0
+SAAS-00901,2025-06-08T14:00:01,user_031,Jira,Project Management,8,8.64,Managed macOS Laptop,Pune,True,0
+SAAS-01114,2025-06-08T14:03:18,user_040,Google Workspace,Productivity,70,11.41,Managed Windows Laptop,Chennai,True,0
+SAAS-00970,2025-06-08T14:04:15,user_011,Salesforce,CRM,31,5.4,Managed macOS Laptop,Pune,True,0
+SAAS-00948,2025-06-08T14:28:19,user_023,Jira,Project Management,44,2.14,Managed macOS Laptop,Pune,True,0
+SAAS-00888,2025-06-08T14:31:52,user_004,Slack,Collaboration,50,3.74,Managed Windows Laptop,Chennai,True,0
+SAAS-00265,2025-06-08T14:41:59,user_028,Slack,Collaboration,59,14.45,Managed Windows Laptop,Chennai,True,0
+SAAS-00071,2025-06-08T15:09:26,user_040,Microsoft 365,Productivity,16,8.97,Managed Windows Laptop,Chennai,True,0
+SAAS-00868,2025-06-08T15:12:21,user_036,GitHub,Development,54,4.4,Managed Windows Laptop,Chennai,True,0
+SAAS-00785,2025-06-08T15:34:09,user_024,Salesforce,CRM,58,3.9,Managed Windows Laptop,Chennai,True,0
+SAAS-00596,2025-06-08T15:38:57,user_017,Salesforce,CRM,80,13.61,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00027,2025-06-08T16:08:16,user_044,GitHub,Development,61,9.33,Managed Windows Laptop,Chennai,True,0
+SAAS-00815,2025-06-08T16:13:49,user_019,Google Workspace,Productivity,63,7.75,Managed macOS Laptop,Pune,True,0
+SAAS-00364,2025-06-08T16:29:49,user_019,GitHub,Development,59,16.27,Managed macOS Laptop,Pune,True,0
+SAAS-00545,2025-06-08T16:49:16,user_047,Notion,Productivity,79,16.22,Managed macOS Laptop,Pune,False,1
+SAAS-01117,2025-06-08T17:02:03,user_035,Salesforce,CRM,44,10.4,Managed macOS Laptop,Pune,True,0
+SAAS-00706,2025-06-08T17:14:16,user_037,Trello,Project Management,42,3.95,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00112,2025-06-08T17:36:37,user_044,Jira,Project Management,22,3.88,Managed Windows Laptop,Chennai,True,0
+SAAS-00702,2025-06-08T18:20:17,user_015,OneDrive,Storage,36,8.06,Managed macOS Laptop,Pune,True,0
+SAAS-00880,2025-06-08T18:29:26,user_024,Dropbox,Storage,44,2.79,Managed Windows Laptop,Chennai,False,1
+SAAS-01196,2025-06-08T18:30:11,user_049,Google Workspace,Productivity,45,17.17,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00434,2025-06-08T18:30:37,user_043,Slack,Collaboration,48,13.25,Managed macOS Laptop,Pune,True,0
+SAAS-00158,2025-06-09T04:38:24,user_022,Salesforce,CRM,62,11.1,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00925,2025-06-09T08:45:00,user_007,Slack,Collaboration,65,1.39,Managed macOS Laptop,Pune,True,0
+SAAS-00200,2025-06-09T08:55:29,user_045,GitHub,Development,82,8.96,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00954,2025-06-09T08:58:42,user_014,ChatGPT,AI Assistant,82,24.32,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00374,2025-06-09T09:06:52,user_017,GitHub,Development,67,14.18,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00761,2025-06-09T09:07:35,user_006,Microsoft 365,Productivity,31,3.99,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00088,2025-06-09T09:51:12,user_005,Microsoft 365,Productivity,88,11.27,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00871,2025-06-09T10:08:22,user_049,OneDrive,Storage,52,6.24,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00207,2025-06-09T10:09:55,user_016,Salesforce,CRM,103,9.84,Managed Windows Laptop,Chennai,True,0
+SAAS-01038,2025-06-09T10:25:06,user_019,Jira,Project Management,28,10.27,Managed macOS Laptop,Pune,True,0
+SAAS-00751,2025-06-09T10:25:43,user_003,Jira,Project Management,46,661.46,Managed macOS Laptop,Pune,True,1
+SAAS-00136,2025-06-09T10:32:31,user_037,OneDrive,Storage,46,29.41,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00093,2025-06-09T10:39:10,user_019,Salesforce,CRM,69,13.72,Managed macOS Laptop,Pune,True,0
+SAAS-01102,2025-06-09T10:44:50,user_016,Google Workspace,Productivity,77,14.68,Managed Windows Laptop,Chennai,True,0
+SAAS-01190,2025-06-09T11:05:17,user_035,Jira,Project Management,62,2.93,Managed macOS Laptop,Pune,True,0
+SAAS-00155,2025-06-09T11:15:40,user_038,Jira,Project Management,46,11.72,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00959,2025-06-09T11:20:10,user_013,OneDrive,Storage,68,5.6,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00715,2025-06-09T11:22:41,user_016,Slack,Collaboration,65,4.4,Managed Windows Laptop,Chennai,True,0
+SAAS-01086,2025-06-09T11:27:33,user_027,Microsoft 365,Productivity,44,10.23,Managed macOS Laptop,Pune,True,0
+SAAS-01099,2025-06-09T11:55:52,user_017,Jira,Project Management,53,11.49,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00707,2025-06-09T12:04:41,user_030,GitHub,Development,79,9.82,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00945,2025-06-09T12:07:21,user_019,Salesforce,CRM,36,7.46,Managed macOS Laptop,Pune,True,0
+SAAS-00020,2025-06-09T12:43:43,user_047,Gemini,AI Assistant,47,33.5,Managed macOS Laptop,Pune,False,1
+SAAS-00565,2025-06-09T13:02:16,user_029,Slack,Collaboration,55,6.18,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00718,2025-06-09T13:20:01,user_036,Jira,Project Management,38,9.48,Managed Windows Laptop,Chennai,True,0
+SAAS-01064,2025-06-09T13:41:10,user_034,Slack,Collaboration,68,3.29,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00312,2025-06-09T13:45:16,user_019,Zoom,Communication,45,15.24,Managed macOS Laptop,Pune,True,0
+SAAS-00934,2025-06-09T13:50:22,user_016,Jira,Project Management,51,5.84,Managed Windows Laptop,Chennai,True,0
+SAAS-01185,2025-06-09T14:10:20,user_022,GitHub,Development,33,21.78,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00740,2025-06-09T14:19:20,user_044,GitHub,Development,56,252.86,Managed Windows Laptop,Chennai,True,1
+SAAS-01179,2025-06-09T14:44:08,user_011,Salesforce,CRM,62,11.5,Managed macOS Laptop,Pune,True,0
+SAAS-01076,2025-06-09T15:49:12,user_021,Slack,Collaboration,33,9.24,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00029,2025-06-09T15:58:31,user_048,Microsoft 365,Productivity,45,10.44,Managed Windows Laptop,Chennai,True,0
+SAAS-00508,2025-06-09T16:06:18,user_017,Slack,Collaboration,60,3.12,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00726,2025-06-09T16:08:47,user_015,Microsoft 365,Productivity,58,8.15,Managed macOS Laptop,Pune,True,0
+SAAS-00587,2025-06-09T17:55:04,user_043,Google Workspace,Productivity,625,4.34,Managed macOS Laptop,Pune,True,1
+SAAS-00755,2025-06-09T18:12:42,user_045,Slack,Collaboration,70,481.34,Managed macOS Laptop,Bengaluru,True,1
+SAAS-01149,2025-06-09T18:15:52,user_012,Salesforce,CRM,35,18.3,Managed Windows Laptop,Chennai,True,0
+SAAS-00264,2025-06-09T18:17:33,user_027,Salesforce,CRM,94,6.82,Managed macOS Laptop,Pune,True,0
+SAAS-00260,2025-06-09T18:26:09,user_039,Jira,Project Management,60,11.14,Managed macOS Laptop,Pune,True,0
+SAAS-00522,2025-06-09T23:15:17,user_036,Microsoft 365,Productivity,80,2.6,Managed Windows Laptop,Chennai,True,1
+SAAS-00402,2025-06-10T01:21:31,user_036,Microsoft 365,Productivity,28,6.27,Managed Windows Laptop,Chennai,True,1
+SAAS-01093,2025-06-10T03:46:41,user_013,OneDrive,Storage,42,17.32,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00804,2025-06-10T04:36:47,user_050,Zoom,Communication,100,5.53,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00529,2025-06-10T08:26:15,user_004,Google Workspace,Productivity,42,4.13,Managed Windows Laptop,Chennai,True,0
+SAAS-00836,2025-06-10T08:41:39,user_045,OneDrive,Storage,63,7.96,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00336,2025-06-10T08:45:45,user_027,Microsoft 365,Productivity,49,6.77,Managed macOS Laptop,Pune,True,0
+SAAS-00177,2025-06-10T08:50:43,user_004,Salesforce,CRM,36,13.61,Managed Windows Laptop,Chennai,True,0
+SAAS-00045,2025-06-10T09:01:08,user_038,GitHub,Development,17,3.57,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00942,2025-06-10T09:01:20,user_024,Zoom,Communication,69,2.96,Managed Windows Laptop,Chennai,True,0
+SAAS-00227,2025-06-10T09:17:16,user_050,GitHub,Development,51,9.98,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00835,2025-06-10T10:34:16,user_001,OneDrive,Storage,53,1.48,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00943,2025-06-10T10:49:54,user_012,Microsoft 365,Productivity,32,11.42,Managed Windows Laptop,Chennai,True,0
+SAAS-00483,2025-06-10T10:55:03,user_011,Google Workspace,Productivity,388,9.12,Managed macOS Laptop,Pune,True,1
+SAAS-00687,2025-06-10T11:04:07,user_031,Microsoft 365,Productivity,96,3.39,Managed macOS Laptop,Pune,True,0
+SAAS-01160,2025-06-10T11:06:55,user_048,Notion,Productivity,58,8.21,Managed Windows Laptop,Chennai,False,1
+SAAS-00781,2025-06-10T11:24:30,user_011,Slack,Collaboration,37,1.43,Managed macOS Laptop,Pune,True,0
+SAAS-00393,2025-06-10T11:35:51,user_025,Claude,AI Assistant,74,24.42,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00998,2025-06-10T11:52:00,user_005,Slack,Collaboration,81,16.98,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00274,2025-06-10T11:53:55,user_008,Microsoft 365,Productivity,17,9.8,Managed Windows Laptop,Chennai,True,0
+SAAS-00697,2025-06-10T11:58:59,user_039,OneDrive,Storage,54,1.95,Managed macOS Laptop,Pune,True,0
+SAAS-00668,2025-06-10T12:21:07,user_047,GitHub,Development,46,4.56,Managed macOS Laptop,Pune,True,0
+SAAS-00843,2025-06-10T12:37:35,user_025,Jira,Project Management,84,9.57,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00106,2025-06-10T12:43:14,user_012,Zoom,Communication,470,24.57,Managed Windows Laptop,Chennai,True,1
+SAAS-00102,2025-06-10T13:11:52,user_020,Slack,Collaboration,60,12.57,Managed Windows Laptop,Chennai,True,0
+SAAS-00242,2025-06-10T13:55:32,user_041,GitHub,Development,37,5.7,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00017,2025-06-10T14:03:55,user_038,Jira,Project Management,46,751.42,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00208,2025-06-10T14:10:48,user_014,Microsoft 365,Productivity,48,8.18,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00392,2025-06-10T14:33:56,user_006,Slack,Collaboration,68,4.82,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00807,2025-06-10T14:40:40,user_042,Salesforce,CRM,65,7.27,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00435,2025-06-10T14:46:53,user_021,Jira,Project Management,62,6.1,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00830,2025-06-10T15:18:43,user_006,Slack,Collaboration,58,5.07,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00210,2025-06-10T15:29:26,user_007,Gemini,AI Assistant,45,32.67,Managed macOS Laptop,Pune,False,1
+SAAS-01170,2025-06-10T16:14:58,user_021,Microsoft 365,Productivity,67,11.92,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00772,2025-06-10T16:20:55,user_013,OneDrive,Storage,715,11.79,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00263,2025-06-10T17:14:08,user_001,Salesforce,CRM,54,12.87,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00773,2025-06-10T17:44:48,user_031,Jira,Project Management,54,340.88,Managed macOS Laptop,Pune,True,1
+SAAS-00137,2025-06-10T18:26:42,user_021,Microsoft 365,Productivity,57,0.6,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00015,2025-06-10T18:36:04,user_006,Microsoft 365,Productivity,60,5.69,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00246,2025-06-10T18:41:11,user_032,Zoom,Communication,778,11.75,Managed Windows Laptop,Chennai,True,1
+SAAS-01027,2025-06-11T01:47:25,user_008,Zoom,Communication,45,3.84,Managed Windows Laptop,Chennai,True,1
+SAAS-01173,2025-06-11T02:01:10,user_011,Zoom,Communication,40,6.88,Managed macOS Laptop,Pune,True,1
+SAAS-00805,2025-06-11T08:44:32,user_015,Zoom,Communication,19,13.76,Managed macOS Laptop,Pune,True,0
+SAAS-00209,2025-06-11T09:23:56,user_004,Jira,Project Management,59,11.26,Managed Windows Laptop,Chennai,True,0
+SAAS-00849,2025-06-11T09:49:11,user_009,Google Workspace,Productivity,44,21.61,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00615,2025-06-11T10:28:48,user_044,Microsoft 365,Productivity,46,4.62,Managed Windows Laptop,Chennai,True,0
+SAAS-00191,2025-06-11T10:30:21,user_026,Jira,Project Management,66,23.6,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00844,2025-06-11T10:32:26,user_018,Jira,Project Management,35,2.3,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00400,2025-06-11T10:52:30,user_021,Salesforce,CRM,21,5.5,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00664,2025-06-11T11:14:30,user_003,Slack,Collaboration,70,15.5,Managed macOS Laptop,Pune,True,0
+SAAS-00429,2025-06-11T11:26:48,user_038,GitHub,Development,36,10.62,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01078,2025-06-11T11:39:00,user_022,Gemini,AI Assistant,63,13.21,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00409,2025-06-11T11:43:45,user_018,Microsoft 365,Productivity,45,1.8,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00679,2025-06-11T11:44:14,user_007,Salesforce,CRM,36,3.07,Managed macOS Laptop,Pune,True,0
+SAAS-00806,2025-06-11T11:50:09,user_034,GitHub,Development,411,7.41,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00394,2025-06-11T12:00:53,user_020,Google Workspace,Productivity,469,11.4,Managed Windows Laptop,Chennai,True,1
+SAAS-00842,2025-06-11T12:04:17,user_043,Jira,Project Management,45,3.65,Managed macOS Laptop,Pune,True,0
+SAAS-00034,2025-06-11T12:17:13,user_024,Salesforce,CRM,46,15.52,Managed Windows Laptop,Chennai,True,0
+SAAS-01046,2025-06-11T12:59:31,user_029,Claude,AI Assistant,8,22.51,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00782,2025-06-11T13:09:28,user_035,Zoom,Communication,87,5.7,Managed macOS Laptop,Pune,True,0
+SAAS-00252,2025-06-11T13:15:22,user_002,ChatGPT,AI Assistant,47,33.32,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00980,2025-06-11T13:42:34,user_049,Slack,Collaboration,39,6.25,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00295,2025-06-11T13:46:10,user_005,ChatGPT,AI Assistant,57,11.76,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00251,2025-06-11T14:57:35,user_045,GitHub,Development,43,11.37,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00132,2025-06-11T14:58:28,user_021,Salesforce,CRM,63,6.29,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01120,2025-06-11T15:12:09,user_020,Microsoft 365,Productivity,59,6.48,Managed Windows Laptop,Chennai,True,0
+SAAS-00769,2025-06-11T15:30:04,user_016,OneDrive,Storage,42,4.32,Managed Windows Laptop,Chennai,True,0
+SAAS-00937,2025-06-11T15:58:56,user_002,Dropbox,Storage,35,10.03,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00576,2025-06-11T16:07:19,user_044,Google Workspace,Productivity,45,8.89,Managed Windows Laptop,Chennai,True,0
+SAAS-00053,2025-06-11T16:16:07,user_021,Google Workspace,Productivity,31,13.18,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00564,2025-06-11T16:34:00,user_002,Microsoft 365,Productivity,82,14.56,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00809,2025-06-11T16:34:56,user_035,Microsoft 365,Productivity,76,265.58,Managed macOS Laptop,Pune,True,1
+SAAS-00838,2025-06-11T16:37:39,user_049,Salesforce,CRM,40,12.42,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00391,2025-06-11T17:01:31,user_034,Slack,Collaboration,34,14.05,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00203,2025-06-11T17:25:02,user_021,DeepSeek,AI Assistant,56,14.83,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01032,2025-06-11T17:26:12,user_032,Jira,Project Management,55,22.69,Managed Windows Laptop,Chennai,True,0
+SAAS-01023,2025-06-11T17:42:16,user_029,OneDrive,Storage,51,9.47,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00644,2025-06-11T17:43:58,user_040,GitHub,Development,65,2.18,Managed Windows Laptop,Chennai,True,0
+SAAS-01069,2025-06-11T18:19:58,user_017,Slack,Collaboration,57,10.17,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00974,2025-06-11T18:25:02,user_012,Salesforce,CRM,57,1.49,Managed Windows Laptop,Chennai,True,0
+SAAS-00247,2025-06-11T18:29:09,user_034,GitHub,Development,25,9.28,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00696,2025-06-11T18:45:55,user_048,Trello,Project Management,66,3.63,Managed Windows Laptop,Chennai,False,1
+SAAS-00584,2025-06-12T08:22:42,user_026,Jira,Project Management,99,4.56,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00180,2025-06-12T08:41:36,user_014,Slack,Collaboration,30,12.51,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00009,2025-06-12T09:13:53,user_031,OneDrive,Storage,32,7.86,Managed macOS Laptop,Pune,True,0
+SAAS-00978,2025-06-12T09:17:57,user_023,OneDrive,Storage,63,3.77,Managed macOS Laptop,Pune,True,0
+SAAS-01118,2025-06-12T09:19:56,user_022,Slack,Collaboration,59,7.14,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00234,2025-06-12T09:34:49,user_045,OneDrive,Storage,60,17.72,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00230,2025-06-12T09:41:12,user_030,Jira,Project Management,95,14.13,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00630,2025-06-12T09:44:46,user_006,Jira,Project Management,95,7.45,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00041,2025-06-12T10:03:22,user_037,Google Workspace,Productivity,35,11.99,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00660,2025-06-12T10:09:59,user_028,Zoom,Communication,75,16.1,Managed Windows Laptop,Chennai,True,0
+SAAS-00427,2025-06-12T10:43:44,user_008,GitHub,Development,74,6.27,Managed Windows Laptop,Chennai,True,0
+SAAS-00837,2025-06-12T10:59:31,user_050,Claude,AI Assistant,84,6.1,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00819,2025-06-12T11:09:55,user_029,OneDrive,Storage,85,34.24,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00236,2025-06-12T11:41:18,user_014,Zoom,Communication,55,0.55,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00723,2025-06-12T11:44:32,user_013,GitHub,Development,39,7.59,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01061,2025-06-12T12:35:02,user_031,Salesforce,CRM,31,6.29,Managed macOS Laptop,Pune,True,0
+SAAS-00721,2025-06-12T12:43:15,user_031,Slack,Collaboration,37,3.12,Managed macOS Laptop,Pune,True,0
+SAAS-00197,2025-06-12T12:58:20,user_046,ChatGPT,AI Assistant,38,27.7,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00905,2025-06-12T13:09:06,user_021,Slack,Collaboration,84,7.42,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00884,2025-06-12T13:14:25,user_040,Slack,Collaboration,53,4.92,Managed Windows Laptop,Chennai,True,0
+SAAS-01090,2025-06-12T13:54:13,user_011,Slack,Collaboration,54,2.97,Managed macOS Laptop,Pune,True,0
+SAAS-00395,2025-06-12T14:00:39,user_026,Jira,Project Management,92,803.72,Managed Windows Laptop,Hyderabad,True,1
+SAAS-01019,2025-06-12T14:12:04,user_018,WeTransfer,File Transfer,87,13.15,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00281,2025-06-12T14:32:06,user_011,WeTransfer,File Transfer,45,18.14,Managed macOS Laptop,Pune,False,1
+SAAS-00800,2025-06-12T14:39:57,user_016,Salesforce,CRM,67,15.39,Managed Windows Laptop,Chennai,True,0
+SAAS-00745,2025-06-12T14:47:16,user_029,Zoom,Communication,52,3.03,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00958,2025-06-12T15:01:28,user_045,Jira,Project Management,48,2.91,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01098,2025-06-12T15:20:36,user_019,Microsoft 365,Productivity,79,6.73,Managed macOS Laptop,Pune,True,0
+SAAS-00992,2025-06-12T16:01:55,user_009,Salesforce,CRM,43,2.61,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00228,2025-06-12T16:04:17,user_009,Microsoft 365,Productivity,8,2.43,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00450,2025-06-12T16:48:56,user_020,Jira,Project Management,43,6.79,Managed Windows Laptop,Chennai,True,0
+SAAS-01181,2025-06-12T17:01:09,user_042,Gemini,AI Assistant,51,21.61,Managed Windows Laptop,Hyderabad,False,1
+SAAS-01135,2025-06-12T17:07:15,user_038,Zoom,Communication,47,10.67,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00142,2025-06-12T17:18:38,user_002,Jira,Project Management,51,2.03,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00882,2025-06-12T17:21:14,user_003,Salesforce,CRM,25,25.8,Managed macOS Laptop,Pune,True,0
+SAAS-00847,2025-06-12T17:40:05,user_004,Salesforce,CRM,42,8.73,Managed Windows Laptop,Chennai,True,0
+SAAS-00189,2025-06-12T17:51:23,user_007,Slack,Collaboration,46,17.14,Managed macOS Laptop,Pune,True,0
+SAAS-01007,2025-06-12T17:53:42,user_016,Zoom,Communication,73,6.75,Managed Windows Laptop,Chennai,True,0
+SAAS-00074,2025-06-12T18:22:07,user_025,OneDrive,Storage,497,12.78,Managed macOS Laptop,Bengaluru,True,1
+SAAS-01122,2025-06-12T18:36:46,user_023,OneDrive,Storage,47,15.87,Managed macOS Laptop,Pune,True,0
+SAAS-00272,2025-06-12T18:56:34,user_033,Slack,Collaboration,62,5.85,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00582,2025-06-13T01:13:04,user_035,Zoom,Communication,16,7.27,Managed macOS Laptop,Pune,True,1
+SAAS-00337,2025-06-13T01:23:23,user_023,Jira,Project Management,76,2.73,Managed macOS Laptop,Pune,True,1
+SAAS-00019,2025-06-13T03:23:09,user_022,Slack,Collaboration,55,6.03,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00590,2025-06-13T03:37:20,user_012,Zoom,Communication,41,3.32,Managed Windows Laptop,Chennai,True,1
+SAAS-01015,2025-06-13T08:04:48,user_033,GitHub,Development,55,8.3,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00993,2025-06-13T08:10:30,user_025,Salesforce,CRM,67,15.08,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01088,2025-06-13T08:14:05,user_048,Jira,Project Management,75,5.23,Managed Windows Laptop,Chennai,True,0
+SAAS-00608,2025-06-13T09:04:20,user_026,Zoom,Communication,61,12.42,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00920,2025-06-13T09:09:09,user_030,Salesforce,CRM,73,631.28,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00168,2025-06-13T09:24:04,user_031,Salesforce,CRM,35,4.83,Managed macOS Laptop,Pune,True,0
+SAAS-00733,2025-06-13T09:39:32,user_008,Salesforce,CRM,61,19.31,Managed Windows Laptop,Chennai,True,0
+SAAS-00454,2025-06-13T10:01:51,user_033,Google Workspace,Productivity,50,23.59,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00003,2025-06-13T10:07:02,user_003,Zoom,Communication,36,12.17,Managed macOS Laptop,Pune,True,0
+SAAS-00056,2025-06-13T10:18:40,user_024,Salesforce,CRM,81,3.05,Managed Windows Laptop,Chennai,True,0
+SAAS-00181,2025-06-13T10:20:27,user_021,Microsoft 365,Productivity,58,4.8,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01089,2025-06-13T10:25:52,user_044,Zoom,Communication,37,15.64,Managed Windows Laptop,Chennai,True,0
+SAAS-00050,2025-06-13T10:37:13,user_048,GitHub,Development,48,6.16,Managed Windows Laptop,Chennai,True,0
+SAAS-00404,2025-06-13T10:44:04,user_046,OneDrive,Storage,45,3.17,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00754,2025-06-13T11:10:59,user_032,OneDrive,Storage,80,12.84,Managed Windows Laptop,Chennai,True,0
+SAAS-00875,2025-06-13T11:12:07,user_022,Microsoft 365,Productivity,34,3.28,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00511,2025-06-13T11:35:39,user_026,OneDrive,Storage,39,15.83,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01200,2025-06-13T12:03:16,user_026,Claude,AI Assistant,37,21.52,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00714,2025-06-13T12:49:58,user_011,Salesforce,CRM,18,12.29,Managed macOS Laptop,Pune,True,0
+SAAS-01156,2025-06-13T12:56:12,user_039,Google Workspace,Productivity,58,1.21,Managed macOS Laptop,Pune,True,0
+SAAS-00834,2025-06-13T13:02:16,user_022,Salesforce,CRM,39,3.29,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00893,2025-06-13T13:10:27,user_014,Salesforce,CRM,46,8.18,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00310,2025-06-13T13:26:45,user_014,Zoom,Communication,43,10.55,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00917,2025-06-13T13:35:27,user_018,Salesforce,CRM,65,8.67,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00353,2025-06-13T13:37:09,user_016,Microsoft 365,Productivity,46,8.62,Managed Windows Laptop,Chennai,True,0
+SAAS-00166,2025-06-13T13:38:14,user_001,Slack,Collaboration,58,1.77,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00688,2025-06-13T13:47:26,user_022,Microsoft 365,Productivity,52,7.67,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00609,2025-06-13T14:03:11,user_022,OneDrive,Storage,89,12.3,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00614,2025-06-13T14:37:23,user_039,Salesforce,CRM,38,2.7,Managed macOS Laptop,Pune,True,0
+SAAS-00092,2025-06-13T14:56:50,user_012,Zoom,Communication,51,6.38,Managed Windows Laptop,Chennai,True,0
+SAAS-00617,2025-06-13T15:16:32,user_026,Google Workspace,Productivity,37,14.31,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00107,2025-06-13T15:18:51,user_007,Microsoft 365,Productivity,24,8.68,Managed macOS Laptop,Pune,True,0
+SAAS-00566,2025-06-13T15:22:29,user_016,OneDrive,Storage,44,9.6,Managed Windows Laptop,Chennai,True,0
+SAAS-00507,2025-06-13T15:26:34,user_041,Zoom,Communication,40,4.56,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00109,2025-06-13T16:04:42,user_044,Slack,Collaboration,16,11.37,Managed Windows Laptop,Chennai,True,0
+SAAS-00607,2025-06-13T16:20:52,user_024,OneDrive,Storage,474,13.13,Managed Windows Laptop,Chennai,True,1
+SAAS-00212,2025-06-13T16:24:18,user_047,Jira,Project Management,61,7.75,Managed macOS Laptop,Pune,True,0
+SAAS-00416,2025-06-13T16:36:40,user_038,Zoom,Communication,64,891.32,Managed Windows Laptop,Hyderabad,True,1
+SAAS-01136,2025-06-13T16:59:05,user_050,Slack,Collaboration,56,19.24,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00927,2025-06-13T17:04:21,user_046,Zoom,Communication,55,211.66,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00691,2025-06-13T17:39:02,user_014,OneDrive,Storage,45,18.84,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00550,2025-06-13T17:43:31,user_050,GitHub,Development,64,4.54,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00439,2025-06-13T17:45:17,user_014,Google Workspace,Productivity,33,10.48,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00846,2025-06-13T17:57:29,user_024,Zoom,Communication,330,2.92,Managed Windows Laptop,Chennai,True,1
+SAAS-00826,2025-06-13T17:58:14,user_028,DeepSeek,AI Assistant,53,7.55,Managed Windows Laptop,Chennai,False,1
+SAAS-00313,2025-06-13T18:24:41,user_047,Microsoft 365,Productivity,65,4.47,Managed macOS Laptop,Pune,True,0
+SAAS-00417,2025-06-13T18:53:45,user_013,OneDrive,Storage,31,10.73,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00277,2025-06-14T01:25:14,user_015,Jira,Project Management,58,7.07,Managed macOS Laptop,Pune,True,1
+SAAS-00447,2025-06-14T08:02:25,user_030,Microsoft 365,Productivity,57,1.23,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00852,2025-06-14T08:10:01,user_008,GitHub,Development,90,14.39,Managed Windows Laptop,Chennai,True,0
+SAAS-00640,2025-06-14T08:23:54,user_007,Google Workspace,Productivity,39,9.55,Managed macOS Laptop,Pune,True,0
+SAAS-00149,2025-06-14T08:37:43,user_038,Salesforce,CRM,30,8.68,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01141,2025-06-14T08:45:15,user_012,Jira,Project Management,24,2.93,Managed Windows Laptop,Chennai,True,0
+SAAS-01119,2025-06-14T09:08:48,user_045,Jira,Project Management,53,2.9,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01178,2025-06-14T09:12:33,user_021,Jira,Project Management,63,14.2,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00375,2025-06-14T09:58:30,user_028,Slack,Collaboration,58,11.44,Managed Windows Laptop,Chennai,True,0
+SAAS-00827,2025-06-14T10:12:57,user_026,Zoom,Communication,62,8.47,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00335,2025-06-14T10:16:44,user_033,Salesforce,CRM,80,5.48,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00642,2025-06-14T10:20:50,user_021,Jira,Project Management,90,4.63,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00225,2025-06-14T10:29:52,user_001,Google Workspace,Productivity,33,9.43,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00543,2025-06-14T10:42:11,user_023,GitHub,Development,80,6.15,Managed macOS Laptop,Pune,True,0
+SAAS-00243,2025-06-14T11:06:23,user_035,OneDrive,Storage,48,3.61,Managed macOS Laptop,Pune,True,0
+SAAS-00275,2025-06-14T11:11:22,user_041,Google Workspace,Productivity,81,9.61,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00283,2025-06-14T11:36:34,user_041,Zoom,Communication,47,1.22,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00388,2025-06-14T11:41:01,user_004,OneDrive,Storage,453,20.54,Managed Windows Laptop,Chennai,True,1
+SAAS-00070,2025-06-14T12:00:34,user_002,Google Workspace,Productivity,31,586.86,Managed Windows Laptop,Hyderabad,True,1
+SAAS-01164,2025-06-14T12:02:03,user_040,Microsoft 365,Productivity,596,8.12,Managed Windows Laptop,Chennai,True,1
+SAAS-00656,2025-06-14T13:36:57,user_015,GitHub,Development,46,7.61,Managed macOS Laptop,Pune,True,0
+SAAS-00052,2025-06-14T14:15:17,user_031,Slack,Collaboration,53,1.69,Managed macOS Laptop,Pune,True,0
+SAAS-01087,2025-06-14T14:17:00,user_034,Slack,Collaboration,79,7.36,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00033,2025-06-14T14:27:41,user_049,Notion,Productivity,57,9.95,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00108,2025-06-14T14:38:01,user_019,Slack,Collaboration,32,6.48,Managed macOS Laptop,Pune,True,0
+SAAS-00692,2025-06-14T15:03:23,user_026,Microsoft 365,Productivity,38,7.53,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00097,2025-06-14T15:03:48,user_003,Slack,Collaboration,53,5.51,Managed macOS Laptop,Pune,True,0
+SAAS-00808,2025-06-14T15:06:28,user_019,OneDrive,Storage,39,6.06,Managed macOS Laptop,Pune,True,0
+SAAS-00832,2025-06-14T15:15:36,user_040,Microsoft 365,Productivity,59,7.18,Managed Windows Laptop,Chennai,True,0
+SAAS-01048,2025-06-14T15:54:21,user_003,GitHub,Development,52,17.41,Managed macOS Laptop,Pune,True,0
+SAAS-00496,2025-06-14T16:09:24,user_010,Microsoft 365,Productivity,43,8.74,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01123,2025-06-14T17:11:33,user_043,Claude,AI Assistant,38,15.17,Managed macOS Laptop,Pune,False,1
+SAAS-00038,2025-06-14T17:13:39,user_013,Slack,Collaboration,29,1.81,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00441,2025-06-14T17:14:40,user_046,OneDrive,Storage,30,11.58,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00710,2025-06-14T17:25:57,user_040,OneDrive,Storage,42,12.66,Managed Windows Laptop,Chennai,True,0
+SAAS-00383,2025-06-14T17:28:07,user_025,OneDrive,Storage,44,899.57,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00877,2025-06-14T18:08:55,user_005,Google Workspace,Productivity,61,40.48,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00430,2025-06-14T18:34:52,user_014,Microsoft 365,Productivity,52,9.59,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00080,2025-06-14T18:39:02,user_019,Dropbox,Storage,41,13.67,Managed macOS Laptop,Pune,False,1
+SAAS-00674,2025-06-14T22:13:20,user_049,OneDrive,Storage,85,9.56,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00044,2025-06-15T08:13:00,user_015,Microsoft 365,Productivity,41,649.63,Managed macOS Laptop,Pune,True,1
+SAAS-00288,2025-06-15T08:23:43,user_035,Jira,Project Management,37,18.5,Managed macOS Laptop,Pune,True,0
+SAAS-01042,2025-06-15T08:28:26,user_041,Gemini,AI Assistant,50,32.49,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00793,2025-06-15T08:41:46,user_027,GitHub,Development,8,29.92,Managed macOS Laptop,Pune,True,0
+SAAS-00517,2025-06-15T08:51:45,user_022,Microsoft 365,Productivity,649,6.6,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00082,2025-06-15T08:54:52,user_006,Jira,Project Management,50,5.59,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00057,2025-06-15T09:04:08,user_006,Zoom,Communication,43,4.35,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00040,2025-06-15T09:05:41,user_050,Microsoft 365,Productivity,72,16.52,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00500,2025-06-15T09:21:46,user_033,Zoom,Communication,49,3.76,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01110,2025-06-15T09:21:56,user_048,WeTransfer,File Transfer,58,10.89,Managed Windows Laptop,Chennai,False,1
+SAAS-00284,2025-06-15T09:28:47,user_023,Google Workspace,Productivity,84,4.32,Managed macOS Laptop,Pune,True,0
+SAAS-00892,2025-06-15T10:05:17,user_003,Microsoft 365,Productivity,85,3.21,Managed macOS Laptop,Pune,True,0
+SAAS-01033,2025-06-15T10:07:16,user_008,Trello,Project Management,12,2.86,Managed Windows Laptop,Chennai,False,1
+SAAS-00344,2025-06-15T10:13:35,user_043,Google Workspace,Productivity,66,20.36,Managed macOS Laptop,Pune,True,0
+SAAS-00637,2025-06-15T10:40:41,user_024,Zoom,Communication,39,2.36,Managed Windows Laptop,Chennai,True,0
+SAAS-00650,2025-06-15T10:46:48,user_003,Zoom,Communication,45,6.31,Managed macOS Laptop,Pune,True,0
+SAAS-01031,2025-06-15T10:48:45,user_046,Salesforce,CRM,74,2.86,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00855,2025-06-15T10:58:16,user_020,GitHub,Development,52,833.62,Managed Windows Laptop,Chennai,True,1
+SAAS-00586,2025-06-15T11:05:52,user_047,Salesforce,CRM,49,30.13,Managed macOS Laptop,Pune,True,0
+SAAS-00058,2025-06-15T11:20:15,user_013,ChatGPT,AI Assistant,70,7.99,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01140,2025-06-15T11:27:13,user_050,DeepSeek,AI Assistant,65,26.77,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00156,2025-06-15T11:38:43,user_014,Microsoft 365,Productivity,68,16.33,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00730,2025-06-15T11:54:39,user_032,Jira,Project Management,90,4.85,Managed Windows Laptop,Chennai,True,0
+SAAS-00930,2025-06-15T13:23:49,user_018,Microsoft 365,Productivity,43,7.14,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00128,2025-06-15T13:34:51,user_042,Jira,Project Management,42,5.03,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00418,2025-06-15T13:36:52,user_041,GitHub,Development,90,7.72,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00631,2025-06-15T13:41:37,user_007,OneDrive,Storage,50,6.87,Managed macOS Laptop,Pune,True,0
+SAAS-00534,2025-06-15T13:43:25,user_033,Zoom,Communication,417,5.51,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00291,2025-06-15T13:55:48,user_022,Salesforce,CRM,36,4.26,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00966,2025-06-15T14:11:31,user_005,OneDrive,Storage,58,13.71,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00039,2025-06-15T14:14:30,user_008,Notion,Productivity,69,8.5,Managed Windows Laptop,Chennai,False,1
+SAAS-00796,2025-06-15T14:16:37,user_015,Salesforce,CRM,78,4.65,Managed macOS Laptop,Pune,True,0
+SAAS-00956,2025-06-15T14:17:35,user_047,Zoom,Communication,55,6.11,Managed macOS Laptop,Pune,True,0
+SAAS-00324,2025-06-15T14:34:12,user_018,Jira,Project Management,82,7.83,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00817,2025-06-15T15:25:09,user_020,Zoom,Communication,79,20.33,Managed Windows Laptop,Chennai,True,0
+SAAS-00297,2025-06-15T15:34:31,user_026,Jira,Project Management,62,3.68,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00195,2025-06-15T16:10:26,user_009,GitHub,Development,54,10.76,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00118,2025-06-15T16:48:46,user_011,OneDrive,Storage,52,1.65,Managed macOS Laptop,Pune,True,0
+SAAS-00717,2025-06-15T16:53:16,user_038,Google Workspace,Productivity,61,3.4,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00537,2025-06-15T16:55:41,user_022,Slack,Collaboration,53,10.57,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00296,2025-06-15T17:06:04,user_002,Jira,Project Management,53,5.64,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00878,2025-06-15T17:18:52,user_021,Microsoft 365,Productivity,72,342.44,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00399,2025-06-15T17:26:31,user_043,Microsoft 365,Productivity,65,7.82,Managed macOS Laptop,Pune,True,0
+SAAS-00828,2025-06-15T17:27:00,user_034,Google Workspace,Productivity,47,4.79,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00077,2025-06-15T18:12:26,user_019,OneDrive,Storage,68,1.19,Managed macOS Laptop,Pune,True,0
+SAAS-00253,2025-06-15T18:14:56,user_019,Zoom,Communication,73,736.2,Managed macOS Laptop,Pune,True,1
+SAAS-00969,2025-06-15T18:30:58,user_002,Salesforce,CRM,77,16.41,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00681,2025-06-15T18:31:26,user_009,Microsoft 365,Productivity,56,7.66,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00625,2025-06-15T18:32:54,user_048,Jira,Project Management,22,9.03,Managed Windows Laptop,Chennai,True,0
+SAAS-00127,2025-06-15T18:44:02,user_040,Google Workspace,Productivity,11,542.07,Managed Windows Laptop,Chennai,True,1
+SAAS-00448,2025-06-16T08:04:09,user_050,Jira,Project Management,50,9.41,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00238,2025-06-16T08:06:02,user_022,Google Workspace,Productivity,56,35.1,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00219,2025-06-16T08:07:42,user_022,Zoom,Communication,53,632.84,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00788,2025-06-16T08:17:38,user_024,Salesforce,CRM,472,4.87,Managed Windows Laptop,Chennai,True,1
+SAAS-00293,2025-06-16T08:20:33,user_015,Google Workspace,Productivity,63,6.23,Managed macOS Laptop,Pune,True,0
+SAAS-00401,2025-06-16T08:28:17,user_028,Salesforce,CRM,35,1.64,Managed Windows Laptop,Chennai,True,0
+SAAS-01186,2025-06-16T08:40:06,user_020,Salesforce,CRM,85,10.98,Managed Windows Laptop,Chennai,True,0
+SAAS-00903,2025-06-16T08:50:06,user_005,Zoom,Communication,61,8.65,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00021,2025-06-16T09:05:40,user_027,Slack,Collaboration,61,11.48,Managed macOS Laptop,Pune,True,0
+SAAS-00544,2025-06-16T09:20:46,user_050,Zoom,Communication,55,9.23,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00355,2025-06-16T10:07:37,user_017,Slack,Collaboration,34,5.3,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01022,2025-06-16T10:19:07,user_037,Claude,AI Assistant,48,19.67,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00866,2025-06-16T11:08:38,user_042,Zoom,Communication,51,7.13,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01183,2025-06-16T11:12:53,user_038,Zoom,Communication,53,10.44,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00468,2025-06-16T11:16:07,user_032,Slack,Collaboration,41,1.48,Managed Windows Laptop,Chennai,True,0
+SAAS-00593,2025-06-16T11:34:08,user_041,Slack,Collaboration,77,4.08,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00205,2025-06-16T12:28:49,user_031,Salesforce,CRM,56,28.92,Managed macOS Laptop,Pune,True,0
+SAAS-00185,2025-06-16T13:08:47,user_023,OneDrive,Storage,75,6.96,Managed macOS Laptop,Pune,True,0
+SAAS-00798,2025-06-16T13:10:30,user_024,Slack,Collaboration,75,7.62,Managed Windows Laptop,Chennai,True,0
+SAAS-00306,2025-06-16T13:16:45,user_003,Zoom,Communication,33,11.53,Managed macOS Laptop,Pune,True,0
+SAAS-00215,2025-06-16T13:17:50,user_044,GitHub,Development,37,7.67,Managed Windows Laptop,Chennai,True,0
+SAAS-01095,2025-06-16T13:19:00,user_007,GitHub,Development,49,14.61,Managed macOS Laptop,Pune,True,0
+SAAS-00193,2025-06-16T13:33:07,user_038,Microsoft 365,Productivity,106,9.65,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00845,2025-06-16T13:39:06,user_003,Google Workspace,Productivity,91,3.57,Managed macOS Laptop,Pune,True,0
+SAAS-01083,2025-06-16T13:46:27,user_002,Zoom,Communication,68,8.39,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01192,2025-06-16T13:47:33,user_043,Slack,Collaboration,30,4.36,Managed macOS Laptop,Pune,True,0
+SAAS-00872,2025-06-16T13:48:52,user_031,Microsoft 365,Productivity,75,7.29,Managed macOS Laptop,Pune,True,0
+SAAS-01150,2025-06-16T14:11:13,user_035,Zoom,Communication,83,7.89,Managed macOS Laptop,Pune,True,0
+SAAS-00134,2025-06-16T14:29:28,user_042,ChatGPT,AI Assistant,66,16.89,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00261,2025-06-16T14:36:38,user_013,WeTransfer,File Transfer,68,6.04,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00028,2025-06-16T14:42:46,user_015,OneDrive,Storage,15,7.67,Managed macOS Laptop,Pune,True,0
+SAAS-00989,2025-06-16T15:08:20,user_040,GitHub,Development,58,18.28,Managed Windows Laptop,Chennai,True,0
+SAAS-00250,2025-06-16T15:19:05,user_049,GitHub,Development,83,1.49,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00031,2025-06-16T15:29:26,user_023,GitHub,Development,41,3.69,Managed macOS Laptop,Pune,True,0
+SAAS-01187,2025-06-16T15:32:43,user_022,Microsoft 365,Productivity,31,3.12,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00481,2025-06-16T15:49:09,user_027,Salesforce,CRM,546,16.43,Managed macOS Laptop,Pune,True,1
+SAAS-00367,2025-06-16T16:18:55,user_029,OneDrive,Storage,41,9.67,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00110,2025-06-16T16:33:38,user_001,Zoom,Communication,91,3.35,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00622,2025-06-16T16:34:26,user_034,Dropbox,Storage,43,4.45,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00571,2025-06-16T17:14:38,user_033,Slack,Collaboration,711,1.87,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00424,2025-06-16T18:30:37,user_047,Zoom,Communication,50,15.57,Managed macOS Laptop,Pune,True,0
+SAAS-01077,2025-06-16T18:38:01,user_006,OneDrive,Storage,51,10.1,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01151,2025-06-16T18:53:12,user_040,Jira,Project Management,52,606.44,Managed Windows Laptop,Chennai,True,1
+SAAS-00425,2025-06-16T22:13:18,user_004,OneDrive,Storage,78,13.34,Managed Windows Laptop,Chennai,True,1
+SAAS-00314,2025-06-16T23:27:01,user_027,GitHub,Development,39,8.08,Managed macOS Laptop,Pune,True,1
+SAAS-00759,2025-06-17T04:11:57,user_029,Salesforce,CRM,67,6.64,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00689,2025-06-17T04:43:11,user_005,Google Workspace,Productivity,65,6.49,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00323,2025-06-17T08:10:35,user_007,Jira,Project Management,66,3.95,Managed macOS Laptop,Pune,True,0
+SAAS-00551,2025-06-17T08:29:53,user_035,Jira,Project Management,21,3.93,Managed macOS Laptop,Pune,True,0
+SAAS-00577,2025-06-17T09:13:18,user_049,Microsoft 365,Productivity,68,4.06,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00553,2025-06-17T09:23:28,user_050,Jira,Project Management,298,5.15,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00711,2025-06-17T09:29:59,user_002,Claude,AI Assistant,50,12.67,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00635,2025-06-17T09:55:35,user_045,Slack,Collaboration,76,9.66,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00941,2025-06-17T10:04:25,user_040,Microsoft 365,Productivity,64,1.86,Managed Windows Laptop,Chennai,True,0
+SAAS-01108,2025-06-17T10:04:45,user_046,Zoom,Communication,38,4.79,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00568,2025-06-17T11:02:42,user_034,WeTransfer,File Transfer,70,5.66,Managed Windows Laptop,Hyderabad,False,1
+SAAS-01041,2025-06-17T11:10:59,user_001,Slack,Collaboration,86,3.71,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00359,2025-06-17T11:21:48,user_036,Google Workspace,Productivity,46,2.9,Managed Windows Laptop,Chennai,True,0
+SAAS-00445,2025-06-17T11:22:57,user_039,Microsoft 365,Productivity,81,7.86,Managed macOS Laptop,Pune,True,0
+SAAS-00975,2025-06-17T11:24:26,user_007,ChatGPT,AI Assistant,57,16.3,Managed macOS Laptop,Pune,False,1
+SAAS-00709,2025-06-17T11:25:39,user_033,Gemini,AI Assistant,43,9.27,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00693,2025-06-17T11:25:49,user_013,OneDrive,Storage,62,10.28,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00133,2025-06-17T11:39:56,user_045,Google Workspace,Productivity,49,1.9,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00639,2025-06-17T11:52:30,user_036,OneDrive,Storage,65,1.45,Managed Windows Laptop,Chennai,True,0
+SAAS-00362,2025-06-17T11:59:39,user_035,GitHub,Development,91,11.19,Managed macOS Laptop,Pune,True,0
+SAAS-00229,2025-06-17T12:29:49,user_014,Google Workspace,Productivity,55,15.28,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00099,2025-06-17T12:37:48,user_036,Slack,Collaboration,55,2.41,Managed Windows Laptop,Chennai,True,0
+SAAS-01198,2025-06-17T13:01:23,user_012,Jira,Project Management,55,8.97,Managed Windows Laptop,Chennai,True,0
+SAAS-00338,2025-06-17T13:06:34,user_018,Jira,Project Management,64,8.11,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00062,2025-06-17T13:07:39,user_049,GitHub,Development,66,19.56,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00737,2025-06-17T13:22:44,user_018,Notion,Productivity,35,10.58,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00405,2025-06-17T14:18:15,user_023,Microsoft 365,Productivity,38,10.45,Managed macOS Laptop,Pune,True,0
+SAAS-00063,2025-06-17T14:21:40,user_017,Microsoft 365,Productivity,73,7.84,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00649,2025-06-17T14:48:04,user_031,Salesforce,CRM,51,476.62,Managed macOS Laptop,Pune,True,1
+SAAS-00226,2025-06-17T14:53:37,user_022,Slack,Collaboration,40,8.25,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00928,2025-06-17T14:54:57,user_040,Slack,Collaboration,50,522.6,Managed Windows Laptop,Chennai,True,1
+SAAS-00645,2025-06-17T14:59:56,user_032,Google Workspace,Productivity,68,4.45,Managed Windows Laptop,Chennai,True,0
+SAAS-00428,2025-06-17T15:23:54,user_032,Zoom,Communication,33,8.38,Managed Windows Laptop,Chennai,True,0
+SAAS-01047,2025-06-17T15:32:18,user_032,Google Workspace,Productivity,310,15.65,Managed Windows Laptop,Chennai,True,1
+SAAS-00923,2025-06-17T15:48:32,user_020,Microsoft 365,Productivity,77,11.18,Managed Windows Laptop,Chennai,True,0
+SAAS-00414,2025-06-17T16:13:43,user_019,Google Workspace,Productivity,56,8.11,Managed macOS Laptop,Pune,True,0
+SAAS-00100,2025-06-17T16:20:07,user_027,Google Workspace,Productivity,75,7.39,Managed macOS Laptop,Pune,True,0
+SAAS-00549,2025-06-17T16:53:07,user_040,Salesforce,CRM,39,3.08,Managed Windows Laptop,Chennai,True,0
+SAAS-00206,2025-06-17T17:09:08,user_025,OneDrive,Storage,59,13.11,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00665,2025-06-17T18:36:13,user_048,Salesforce,CRM,92,7.91,Managed Windows Laptop,Chennai,True,0
+SAAS-00257,2025-06-17T18:39:56,user_043,Microsoft 365,Productivity,47,7.97,Managed macOS Laptop,Pune,True,0
+SAAS-00541,2025-06-17T18:54:36,user_050,Google Workspace,Productivity,677,11.08,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00059,2025-06-18T00:49:41,user_047,GitHub,Development,33,17.3,Managed macOS Laptop,Pune,True,1
+SAAS-00907,2025-06-18T08:12:54,user_001,Zoom,Communication,48,13.58,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00675,2025-06-18T08:33:33,user_043,Jira,Project Management,446,5.48,Managed macOS Laptop,Pune,True,1
+SAAS-00347,2025-06-18T08:36:46,user_037,Microsoft 365,Productivity,68,29.21,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00381,2025-06-18T08:37:08,user_002,GitHub,Development,36,14.52,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00358,2025-06-18T08:44:04,user_042,Zoom,Communication,77,3.69,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00471,2025-06-18T08:57:53,user_015,Microsoft 365,Productivity,32,9.85,Managed macOS Laptop,Pune,True,0
+SAAS-00701,2025-06-18T08:59:35,user_031,Slack,Collaboration,35,8.79,Managed macOS Laptop,Pune,True,0
+SAAS-00732,2025-06-18T09:27:37,user_032,Salesforce,CRM,49,6.18,Managed Windows Laptop,Chennai,True,0
+SAAS-00734,2025-06-18T09:28:11,user_011,Gemini,AI Assistant,50,17.88,Managed macOS Laptop,Pune,False,1
+SAAS-00795,2025-06-18T09:37:34,user_045,Salesforce,CRM,54,15.33,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01092,2025-06-18T09:44:03,user_021,GitHub,Development,54,7.03,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00446,2025-06-18T09:47:32,user_012,Salesforce,CRM,54,11.58,Managed Windows Laptop,Chennai,True,0
+SAAS-00153,2025-06-18T10:19:23,user_029,Zoom,Communication,47,7.98,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00933,2025-06-18T10:33:30,user_019,DeepSeek,AI Assistant,45,17.22,Managed macOS Laptop,Pune,False,1
+SAAS-00098,2025-06-18T10:51:46,user_042,Claude,AI Assistant,87,33.82,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00931,2025-06-18T11:03:34,user_020,Salesforce,CRM,54,15.27,Managed Windows Laptop,Chennai,True,0
+SAAS-00977,2025-06-18T11:23:31,user_040,Google Workspace,Productivity,33,3.12,Managed Windows Laptop,Chennai,True,0
+SAAS-00521,2025-06-18T11:31:51,user_034,Salesforce,CRM,53,6.96,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00825,2025-06-18T12:08:32,user_031,Microsoft 365,Productivity,69,2.02,Managed macOS Laptop,Pune,True,0
+SAAS-00867,2025-06-18T12:14:12,user_046,Dropbox,Storage,43,4.54,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00220,2025-06-18T12:45:35,user_038,WeTransfer,File Transfer,35,8.82,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00981,2025-06-18T13:17:20,user_002,Slack,Collaboration,29,6.43,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00413,2025-06-18T13:17:35,user_040,Google Workspace,Productivity,54,0.75,Managed Windows Laptop,Chennai,True,0
+SAAS-01006,2025-06-18T13:30:30,user_049,Salesforce,CRM,76,215.18,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00319,2025-06-18T14:25:07,user_050,GitHub,Development,64,452.97,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00266,2025-06-18T14:40:06,user_002,GitHub,Development,61,13.59,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00698,2025-06-18T14:51:18,user_009,GitHub,Development,562,2.93,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00465,2025-06-18T14:56:15,user_009,GitHub,Development,71,6.93,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00318,2025-06-18T15:36:32,user_048,Salesforce,CRM,38,14.21,Managed Windows Laptop,Chennai,True,0
+SAAS-00580,2025-06-18T15:51:28,user_032,Slack,Collaboration,54,1.58,Managed Windows Laptop,Chennai,True,0
+SAAS-00479,2025-06-18T16:18:02,user_034,OneDrive,Storage,53,9.9,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00469,2025-06-18T16:24:33,user_017,Zoom,Communication,71,4.16,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00921,2025-06-18T16:24:50,user_020,ChatGPT,AI Assistant,55,17.55,Managed Windows Laptop,Chennai,False,1
+SAAS-00657,2025-06-18T16:26:25,user_022,Slack,Collaboration,37,5.0,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00552,2025-06-18T16:42:14,user_035,Zoom,Communication,48,9.18,Managed macOS Laptop,Pune,True,0
+SAAS-00904,2025-06-18T17:06:13,user_004,Microsoft 365,Productivity,65,8.42,Managed Windows Laptop,Chennai,True,0
+SAAS-01021,2025-06-18T17:14:03,user_025,Slack,Collaboration,66,8.42,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00303,2025-06-18T17:21:32,user_037,Salesforce,CRM,50,30.57,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00171,2025-06-18T18:36:28,user_049,Microsoft 365,Productivity,73,5.86,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00864,2025-06-18T18:57:25,user_015,OneDrive,Storage,658,5.24,Managed macOS Laptop,Pune,True,1
+SAAS-00652,2025-06-19T04:19:13,user_011,OneDrive,Storage,33,8.5,Managed macOS Laptop,Pune,True,1
+SAAS-00735,2025-06-19T08:16:51,user_013,Zoom,Communication,62,15.91,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00985,2025-06-19T08:17:57,user_039,Zoom,Communication,90,12.43,Managed macOS Laptop,Pune,True,0
+SAAS-01107,2025-06-19T08:32:27,user_011,Zoom,Communication,11,652.24,Managed macOS Laptop,Pune,True,1
+SAAS-00727,2025-06-19T08:36:56,user_019,Jira,Project Management,80,10.58,Managed macOS Laptop,Pune,True,0
+SAAS-00201,2025-06-19T09:02:40,user_005,Slack,Collaboration,45,18.04,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00286,2025-06-19T09:15:29,user_030,Claude,AI Assistant,37,34.61,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00438,2025-06-19T09:26:03,user_006,GitHub,Development,57,2.49,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00562,2025-06-19T09:30:36,user_015,Trello,Project Management,109,4.2,Managed macOS Laptop,Pune,False,1
+SAAS-00569,2025-06-19T09:51:09,user_011,OneDrive,Storage,48,4.66,Managed macOS Laptop,Pune,True,0
+SAAS-00677,2025-06-19T10:06:03,user_050,Gemini,AI Assistant,54,14.05,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00178,2025-06-19T10:06:21,user_027,Slack,Collaboration,43,675.02,Managed macOS Laptop,Pune,True,1
+SAAS-00618,2025-06-19T10:23:38,user_033,Microsoft 365,Productivity,39,490.04,Managed macOS Laptop,Bengaluru,True,1
+SAAS-01014,2025-06-19T10:27:45,user_050,Zoom,Communication,53,10.66,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00899,2025-06-19T10:36:21,user_027,OneDrive,Storage,86,7.87,Managed macOS Laptop,Pune,True,0
+SAAS-00743,2025-06-19T10:51:43,user_050,Salesforce,CRM,78,696.21,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00831,2025-06-19T10:52:10,user_014,OneDrive,Storage,37,1.97,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00589,2025-06-19T10:53:51,user_034,Microsoft 365,Productivity,85,3.07,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01142,2025-06-19T10:54:56,user_028,Slack,Collaboration,95,7.36,Managed Windows Laptop,Chennai,True,0
+SAAS-00065,2025-06-19T11:33:22,user_017,Slack,Collaboration,68,7.26,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00629,2025-06-19T11:41:25,user_022,Zoom,Communication,49,3.05,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00320,2025-06-19T11:58:35,user_020,Jira,Project Management,68,4.39,Managed Windows Laptop,Chennai,True,0
+SAAS-00010,2025-06-19T12:03:26,user_031,Google Workspace,Productivity,43,14.27,Managed macOS Laptop,Pune,True,0
+SAAS-01052,2025-06-19T12:12:38,user_024,Gemini,AI Assistant,30,6.64,Managed Windows Laptop,Chennai,False,1
+SAAS-00606,2025-06-19T12:24:10,user_013,Zoom,Communication,49,10.32,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00876,2025-06-19T12:46:15,user_044,Jira,Project Management,55,2.79,Managed Windows Laptop,Chennai,True,0
+SAAS-01168,2025-06-19T12:50:25,user_045,Slack,Collaboration,99,4.13,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01112,2025-06-19T12:51:48,user_029,Jira,Project Management,37,19.1,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00422,2025-06-19T13:25:28,user_007,Slack,Collaboration,92,17.66,Managed macOS Laptop,Pune,True,0
+SAAS-00463,2025-06-19T13:38:29,user_017,Microsoft 365,Productivity,67,6.69,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00423,2025-06-19T14:16:20,user_023,GitHub,Development,49,15.2,Managed macOS Laptop,Pune,True,0
+SAAS-01096,2025-06-19T14:34:55,user_028,Jira,Project Management,54,22.21,Managed Windows Laptop,Chennai,True,0
+SAAS-00641,2025-06-19T14:55:06,user_048,Microsoft 365,Productivity,55,10.84,Managed Windows Laptop,Chennai,True,0
+SAAS-00495,2025-06-19T15:16:21,user_007,Google Workspace,Productivity,575,30.07,Managed macOS Laptop,Pune,True,1
+SAAS-00780,2025-06-19T15:30:42,user_039,Dropbox,Storage,61,8.8,Managed macOS Laptop,Pune,False,1
+SAAS-00908,2025-06-19T15:36:03,user_019,Jira,Project Management,56,369.3,Managed macOS Laptop,Pune,True,1
+SAAS-00646,2025-06-19T15:41:34,user_027,GitHub,Development,31,3.85,Managed macOS Laptop,Pune,True,0
+SAAS-01037,2025-06-19T16:38:22,user_041,Jira,Project Management,44,11.36,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00161,2025-06-19T17:16:41,user_028,Slack,Collaboration,63,791.13,Managed Windows Laptop,Chennai,True,1
+SAAS-00783,2025-06-19T17:17:49,user_035,Zoom,Communication,59,5.5,Managed macOS Laptop,Pune,True,0
+SAAS-00802,2025-06-19T17:20:14,user_014,Gemini,AI Assistant,68,24.23,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00176,2025-06-19T17:20:18,user_047,Jira,Project Management,91,7.78,Managed macOS Laptop,Pune,True,0
+SAAS-00309,2025-06-19T18:38:29,user_023,Slack,Collaboration,102,10.94,Managed macOS Laptop,Pune,True,0
+SAAS-00594,2025-06-19T18:45:38,user_015,Google Workspace,Productivity,49,1.43,Managed macOS Laptop,Pune,True,0
+SAAS-00699,2025-06-19T18:45:59,user_044,Zoom,Communication,37,25.33,Managed Windows Laptop,Chennai,True,0
+SAAS-00863,2025-06-20T02:27:24,user_048,Salesforce,CRM,28,8.79,Managed Windows Laptop,Chennai,True,1
+SAAS-00462,2025-06-20T08:13:41,user_047,Salesforce,CRM,50,6.53,Managed macOS Laptop,Pune,True,0
+SAAS-00532,2025-06-20T08:28:43,user_038,Dropbox,Storage,58,3.2,Managed Windows Laptop,Hyderabad,False,1
+SAAS-01176,2025-06-20T08:34:39,user_004,DeepSeek,AI Assistant,42,7.41,Managed Windows Laptop,Chennai,False,1
+SAAS-00581,2025-06-20T09:06:21,user_021,GitHub,Development,70,5.39,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01172,2025-06-20T09:23:56,user_034,OneDrive,Storage,79,7.2,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00602,2025-06-20T09:26:18,user_035,Claude,AI Assistant,60,8.34,Managed macOS Laptop,Pune,False,1
+SAAS-00294,2025-06-20T09:34:59,user_014,Slack,Collaboration,63,16.43,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00869,2025-06-20T09:52:21,user_015,Salesforce,CRM,55,12.43,Managed macOS Laptop,Pune,True,0
+SAAS-00419,2025-06-20T09:55:09,user_050,Zoom,Communication,47,14.19,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00120,2025-06-20T09:58:09,user_021,Jira,Project Management,60,8.85,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00572,2025-06-20T10:23:51,user_044,GitHub,Development,60,387.64,Managed Windows Laptop,Chennai,True,1
+SAAS-00366,2025-06-20T10:38:45,user_015,Zoom,Communication,482,10.87,Managed macOS Laptop,Pune,True,1
+SAAS-00961,2025-06-20T10:50:57,user_045,Slack,Collaboration,73,6.81,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00377,2025-06-20T11:04:00,user_016,Google Workspace,Productivity,30,2.08,Managed Windows Laptop,Chennai,True,0
+SAAS-01009,2025-06-20T11:15:51,user_019,OneDrive,Storage,45,9.42,Managed macOS Laptop,Pune,True,0
+SAAS-00075,2025-06-20T11:43:52,user_004,Dropbox,Storage,51,9.72,Managed Windows Laptop,Chennai,False,1
+SAAS-01158,2025-06-20T12:08:58,user_015,OneDrive,Storage,65,15.67,Managed macOS Laptop,Pune,True,0
+SAAS-00902,2025-06-20T12:26:18,user_049,WeTransfer,File Transfer,77,6.12,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00690,2025-06-20T12:38:33,user_020,Microsoft 365,Productivity,750,4.23,Managed Windows Laptop,Chennai,True,1
+SAAS-00411,2025-06-20T12:48:49,user_019,Salesforce,CRM,46,9.87,Managed macOS Laptop,Pune,True,0
+SAAS-00935,2025-06-20T12:51:47,user_005,OneDrive,Storage,50,4.78,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00634,2025-06-20T13:17:33,user_013,Salesforce,CRM,37,4.86,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01091,2025-06-20T13:59:14,user_046,GitHub,Development,698,7.43,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00748,2025-06-20T14:02:27,user_028,Claude,AI Assistant,67,11.81,Managed Windows Laptop,Chennai,False,1
+SAAS-01197,2025-06-20T14:02:55,user_028,Jira,Project Management,58,9.07,Managed Windows Laptop,Chennai,True,0
+SAAS-00147,2025-06-20T14:40:33,user_007,Slack,Collaboration,35,242.43,Managed macOS Laptop,Pune,True,1
+SAAS-00379,2025-06-20T14:42:33,user_008,Jira,Project Management,75,5.92,Managed Windows Laptop,Chennai,True,0
+SAAS-00839,2025-06-20T14:46:36,user_007,Slack,Collaboration,68,7.14,Managed macOS Laptop,Pune,True,0
+SAAS-00889,2025-06-20T14:53:34,user_013,Microsoft 365,Productivity,61,6.25,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00764,2025-06-20T15:06:24,user_031,OneDrive,Storage,63,19.05,Managed macOS Laptop,Pune,True,0
+SAAS-00114,2025-06-20T15:11:44,user_003,Microsoft 365,Productivity,69,6.7,Managed macOS Laptop,Pune,True,0
+SAAS-01104,2025-06-20T15:51:02,user_043,Salesforce,CRM,64,6.83,Managed macOS Laptop,Pune,True,0
+SAAS-01165,2025-06-20T16:12:32,user_042,Microsoft 365,Productivity,37,16.85,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01171,2025-06-20T16:24:51,user_038,Zoom,Communication,45,7.38,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00086,2025-06-20T16:28:27,user_028,Dropbox,Storage,52,1.4,Managed Windows Laptop,Chennai,False,1
+SAAS-00638,2025-06-20T16:42:29,user_032,Notion,Productivity,39,9.31,Managed Windows Laptop,Chennai,False,1
+SAAS-01101,2025-06-20T17:11:34,user_013,Salesforce,CRM,74,6.76,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00860,2025-06-20T17:29:38,user_008,Slack,Collaboration,8,7.11,Managed Windows Laptop,Chennai,True,0
+SAAS-00624,2025-06-20T17:30:23,user_030,Google Workspace,Productivity,67,6.97,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01189,2025-06-20T17:52:41,user_042,Slack,Collaboration,77,7.47,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00626,2025-06-20T18:24:17,user_028,Zoom,Communication,40,10.91,Managed Windows Laptop,Chennai,True,0
+SAAS-00069,2025-06-20T18:33:04,user_047,OneDrive,Storage,76,0.78,Managed macOS Laptop,Pune,True,0
+SAAS-01002,2025-06-21T08:14:19,user_036,Microsoft 365,Productivity,64,21.82,Managed Windows Laptop,Chennai,True,0
+SAAS-00623,2025-06-21T08:24:43,user_041,OneDrive,Storage,74,9.19,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00605,2025-06-21T08:28:43,user_018,GitHub,Development,46,12.45,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00578,2025-06-21T08:32:24,user_050,Google Workspace,Productivity,61,17.62,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00087,2025-06-21T08:34:46,user_006,Microsoft 365,Productivity,38,4.36,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00361,2025-06-21T08:36:03,user_016,Microsoft 365,Productivity,71,3.95,Managed Windows Laptop,Chennai,True,0
+SAAS-00121,2025-06-21T08:45:58,user_021,Notion,Productivity,77,2.08,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00885,2025-06-21T08:58:44,user_018,GitHub,Development,56,5.04,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00150,2025-06-21T09:04:24,user_047,OneDrive,Storage,11,517.19,Managed macOS Laptop,Pune,True,1
+SAAS-00789,2025-06-21T09:07:12,user_042,Zoom,Communication,55,5.78,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00716,2025-06-21T09:07:33,user_032,Zoom,Communication,90,1.85,Managed Windows Laptop,Chennai,True,0
+SAAS-00712,2025-06-21T09:12:35,user_035,Jira,Project Management,69,2.49,Managed macOS Laptop,Pune,True,0
+SAAS-00308,2025-06-21T09:13:51,user_041,Salesforce,CRM,68,14.1,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00101,2025-06-21T10:33:06,user_012,OneDrive,Storage,28,5.53,Managed Windows Laptop,Chennai,True,0
+SAAS-00968,2025-06-21T10:49:58,user_020,Jira,Project Management,53,5.81,Managed Windows Laptop,Chennai,True,0
+SAAS-00384,2025-06-21T11:02:55,user_002,Microsoft 365,Productivity,46,19.13,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00011,2025-06-21T11:32:31,user_029,GitHub,Development,79,1.18,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00129,2025-06-21T11:40:15,user_020,GitHub,Development,26,9.8,Managed Windows Laptop,Chennai,True,0
+SAAS-00325,2025-06-21T11:42:05,user_040,Zoom,Communication,20,8.12,Managed Windows Laptop,Chennai,True,0
+SAAS-01113,2025-06-21T12:13:00,user_015,Google Workspace,Productivity,65,230.4,Managed macOS Laptop,Pune,True,1
+SAAS-00023,2025-06-21T12:44:44,user_019,OneDrive,Storage,53,9.56,Managed macOS Laptop,Pune,True,0
+SAAS-00744,2025-06-21T12:57:12,user_038,Jira,Project Management,65,1.22,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00936,2025-06-21T13:23:11,user_006,Microsoft 365,Productivity,56,3.34,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01045,2025-06-21T13:32:39,user_047,Slack,Collaboration,46,7.38,Managed macOS Laptop,Pune,True,0
+SAAS-00224,2025-06-21T14:02:53,user_031,Microsoft 365,Productivity,75,3.11,Managed macOS Laptop,Pune,True,0
+SAAS-00329,2025-06-21T14:06:15,user_046,Microsoft 365,Productivity,39,12.81,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00332,2025-06-21T14:11:03,user_038,Microsoft 365,Productivity,36,13.64,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00051,2025-06-21T14:23:49,user_001,WeTransfer,File Transfer,87,5.43,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00898,2025-06-21T14:45:30,user_047,Jira,Project Management,296,6.52,Managed macOS Laptop,Pune,True,1
+SAAS-00152,2025-06-21T15:01:12,user_039,Salesforce,CRM,52,4.79,Managed macOS Laptop,Pune,True,0
+SAAS-00940,2025-06-21T15:30:59,user_045,OneDrive,Storage,25,24.51,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00913,2025-06-21T15:47:48,user_047,Slack,Collaboration,95,16.6,Managed macOS Laptop,Pune,True,0
+SAAS-00950,2025-06-21T15:50:19,user_039,Salesforce,CRM,713,11.8,Managed macOS Laptop,Pune,True,1
+SAAS-00946,2025-06-21T15:58:06,user_045,Slack,Collaboration,76,5.47,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00022,2025-06-21T16:16:59,user_015,OneDrive,Storage,49,5.13,Managed macOS Laptop,Pune,True,0
+SAAS-00159,2025-06-21T16:20:25,user_021,Jira,Project Management,55,501.32,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00382,2025-06-21T16:34:32,user_022,Salesforce,CRM,73,18.3,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00516,2025-06-21T16:37:03,user_026,Jira,Project Management,51,7.98,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01180,2025-06-21T16:44:11,user_021,OneDrive,Storage,61,3.17,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00130,2025-06-21T16:55:09,user_027,Microsoft 365,Productivity,35,6.92,Managed macOS Laptop,Pune,True,0
+SAAS-00604,2025-06-21T16:59:19,user_044,Slack,Collaboration,60,10.12,Managed Windows Laptop,Chennai,True,0
+SAAS-00386,2025-06-21T17:06:05,user_028,Google Workspace,Productivity,59,689.53,Managed Windows Laptop,Chennai,True,1
+SAAS-01159,2025-06-21T17:09:34,user_004,Microsoft 365,Productivity,68,5.08,Managed Windows Laptop,Chennai,True,0
+SAAS-00449,2025-06-21T17:11:45,user_045,Jira,Project Management,91,779.3,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00024,2025-06-21T17:19:25,user_030,Salesforce,CRM,53,4.15,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01167,2025-06-21T17:20:51,user_034,Jira,Project Management,533,26.33,Managed Windows Laptop,Hyderabad,True,1
+SAAS-01029,2025-06-21T17:51:57,user_012,Google Workspace,Productivity,53,8.17,Managed Windows Laptop,Chennai,True,0
+SAAS-01116,2025-06-21T18:00:24,user_007,Slack,Collaboration,64,8.76,Managed macOS Laptop,Pune,True,0
+SAAS-00453,2025-06-21T18:13:15,user_046,Google Workspace,Productivity,80,8.96,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01051,2025-06-21T18:36:30,user_013,Slack,Collaboration,16,7.78,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00947,2025-06-21T18:43:57,user_005,GitHub,Development,47,8.92,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00610,2025-06-22T02:42:48,user_018,Google Workspace,Productivity,58,3.05,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00840,2025-06-22T08:06:24,user_027,Zoom,Communication,41,5.48,Managed macOS Laptop,Pune,True,0
+SAAS-00753,2025-06-22T08:22:16,user_003,Jira,Project Management,78,1.81,Managed macOS Laptop,Pune,True,0
+SAAS-00217,2025-06-22T08:22:17,user_032,OneDrive,Storage,74,5.97,Managed Windows Laptop,Chennai,True,0
+SAAS-01063,2025-06-22T08:44:05,user_039,Zoom,Communication,49,6.59,Managed macOS Laptop,Pune,True,0
+SAAS-00262,2025-06-22T09:22:19,user_030,Google Workspace,Productivity,52,8.07,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00560,2025-06-22T09:29:22,user_019,OneDrive,Storage,61,0.55,Managed macOS Laptop,Pune,True,0
+SAAS-00528,2025-06-22T10:11:40,user_041,OneDrive,Storage,43,10.87,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00684,2025-06-22T10:32:59,user_045,Gemini,AI Assistant,70,10.1,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01003,2025-06-22T10:38:22,user_005,Google Workspace,Productivity,101,4.75,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00705,2025-06-22T10:44:16,user_031,ChatGPT,AI Assistant,47,25.85,Managed macOS Laptop,Pune,False,1
+SAAS-00932,2025-06-22T10:50:20,user_033,Jira,Project Management,98,9.82,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00165,2025-06-22T11:44:13,user_047,Zoom,Communication,467,18.25,Managed macOS Laptop,Pune,True,1
+SAAS-00865,2025-06-22T11:53:29,user_020,Zoom,Communication,37,4.08,Managed Windows Laptop,Chennai,True,0
+SAAS-00378,2025-06-22T11:57:19,user_024,OneDrive,Storage,74,2.37,Managed Windows Laptop,Chennai,True,0
+SAAS-00506,2025-06-22T12:24:38,user_045,Google Workspace,Productivity,68,12.56,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01025,2025-06-22T12:54:54,user_042,GitHub,Development,73,3.32,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00273,2025-06-22T13:01:06,user_048,Jira,Project Management,91,1.43,Managed Windows Laptop,Chennai,True,0
+SAAS-00926,2025-06-22T13:06:41,user_005,Salesforce,CRM,592,9.98,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00676,2025-06-22T13:35:53,user_004,OneDrive,Storage,51,12.94,Managed Windows Laptop,Chennai,True,0
+SAAS-00268,2025-06-22T13:49:22,user_033,Jira,Project Management,24,6.35,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00241,2025-06-22T13:53:23,user_030,Jira,Project Management,15,8.32,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00126,2025-06-22T14:07:07,user_003,Salesforce,CRM,74,811.21,Managed macOS Laptop,Pune,True,1
+SAAS-00456,2025-06-22T14:27:22,user_023,Google Workspace,Productivity,57,10.46,Managed macOS Laptop,Pune,True,0
+SAAS-00575,2025-06-22T14:47:27,user_034,Zoom,Communication,54,5.2,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00854,2025-06-22T15:16:45,user_003,Zoom,Communication,71,1.97,Managed macOS Laptop,Pune,True,0
+SAAS-00047,2025-06-22T15:27:18,user_026,Salesforce,CRM,18,4.87,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01024,2025-06-22T15:53:21,user_008,Jira,Project Management,43,12.06,Managed Windows Laptop,Chennai,True,0
+SAAS-00271,2025-06-22T15:53:46,user_017,GitHub,Development,73,3.67,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00766,2025-06-22T15:59:19,user_039,OneDrive,Storage,62,10.28,Managed macOS Laptop,Pune,True,0
+SAAS-00962,2025-06-22T16:00:42,user_044,Google Workspace,Productivity,41,12.58,Managed Windows Laptop,Chennai,True,0
+SAAS-00184,2025-06-22T16:30:37,user_046,Dropbox,Storage,45,27.28,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00984,2025-06-22T16:35:53,user_004,Salesforce,CRM,53,649.34,Managed Windows Laptop,Chennai,True,1
+SAAS-00199,2025-06-22T16:50:28,user_026,Microsoft 365,Productivity,69,8.0,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00643,2025-06-22T17:37:39,user_011,Salesforce,CRM,54,7.25,Managed macOS Laptop,Pune,True,0
+SAAS-00348,2025-06-22T17:45:32,user_014,Slack,Collaboration,44,4.52,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00667,2025-06-22T18:24:44,user_021,Salesforce,CRM,49,9.48,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00436,2025-06-22T18:31:35,user_011,Microsoft 365,Productivity,65,4.1,Managed macOS Laptop,Pune,True,0
+SAAS-00811,2025-06-22T18:42:55,user_043,Zoom,Communication,55,2.43,Managed macOS Laptop,Pune,True,0
+SAAS-01111,2025-06-22T18:43:53,user_047,OneDrive,Storage,81,11.61,Managed macOS Laptop,Pune,True,0
+SAAS-00546,2025-06-23T01:53:33,user_002,GitHub,Development,64,43.4,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00376,2025-06-23T08:06:48,user_028,Slack,Collaboration,65,11.91,Managed Windows Laptop,Chennai,True,0
+SAAS-00742,2025-06-23T08:41:30,user_004,Google Workspace,Productivity,335,12.19,Managed Windows Laptop,Chennai,True,1
+SAAS-01060,2025-06-23T08:48:13,user_046,OneDrive,Storage,59,12.82,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00651,2025-06-23T09:14:18,user_033,Slack,Collaboration,39,7.95,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00988,2025-06-23T09:36:25,user_014,Jira,Project Management,81,9.23,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00486,2025-06-23T10:19:36,user_047,Google Workspace,Productivity,48,7.98,Managed macOS Laptop,Pune,True,0
+SAAS-00929,2025-06-23T10:23:02,user_034,Zoom,Communication,59,12.13,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00661,2025-06-23T10:53:25,user_032,OneDrive,Storage,38,21.49,Managed Windows Laptop,Chennai,True,0
+SAAS-00499,2025-06-23T10:56:26,user_012,Jira,Project Management,58,16.13,Managed Windows Laptop,Chennai,True,0
+SAAS-00218,2025-06-23T11:03:42,user_030,OneDrive,Storage,69,246.81,Managed Windows Laptop,Hyderabad,True,1
+SAAS-01143,2025-06-23T11:14:23,user_012,Salesforce,CRM,26,7.55,Managed Windows Laptop,Chennai,True,0
+SAAS-00997,2025-06-23T11:57:36,user_027,Zoom,Communication,348,16.27,Managed macOS Laptop,Pune,True,1
+SAAS-00599,2025-06-23T12:07:40,user_011,Salesforce,CRM,49,16.53,Managed macOS Laptop,Pune,True,0
+SAAS-01097,2025-06-23T12:08:24,user_016,OneDrive,Storage,699,2.3,Managed Windows Laptop,Chennai,True,1
+SAAS-00542,2025-06-23T12:24:12,user_030,Salesforce,CRM,18,9.34,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00881,2025-06-23T13:05:42,user_005,Jira,Project Management,44,371.96,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00823,2025-06-23T13:29:06,user_002,Jira,Project Management,22,13.09,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00103,2025-06-23T13:48:08,user_038,Slack,Collaboration,58,4.58,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00986,2025-06-23T13:50:51,user_044,Slack,Collaboration,72,12.03,Managed Windows Laptop,Chennai,True,0
+SAAS-00254,2025-06-23T14:06:55,user_006,Trello,Project Management,37,9.08,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00673,2025-06-23T14:34:02,user_013,Claude,AI Assistant,26,13.99,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00387,2025-06-23T14:36:12,user_005,DeepSeek,AI Assistant,58,11.69,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00407,2025-06-23T14:38:00,user_002,Jira,Project Management,44,11.43,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00720,2025-06-23T15:55:08,user_048,Slack,Collaboration,82,22.3,Managed Windows Laptop,Chennai,True,0
+SAAS-00480,2025-06-23T16:42:14,user_021,Jira,Project Management,75,4.14,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00833,2025-06-23T16:45:48,user_037,DeepSeek,AI Assistant,36,7.91,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00776,2025-06-23T16:59:27,user_049,GitHub,Development,65,4.85,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00801,2025-06-23T17:02:28,user_042,Zoom,Communication,44,3.19,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01039,2025-06-23T17:06:21,user_031,Salesforce,CRM,41,15.7,Managed macOS Laptop,Pune,True,0
+SAAS-00458,2025-06-23T17:30:13,user_017,Zoom,Communication,65,8.24,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01121,2025-06-23T17:30:57,user_035,OneDrive,Storage,51,825.25,Managed macOS Laptop,Pune,True,1
+SAAS-00144,2025-06-23T17:41:19,user_038,Google Workspace,Productivity,67,3.98,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00952,2025-06-23T17:55:20,user_004,Jira,Project Management,60,5.91,Managed Windows Laptop,Chennai,True,0
+SAAS-01138,2025-06-23T17:56:12,user_031,Salesforce,CRM,84,4.13,Managed macOS Laptop,Pune,True,0
+SAAS-00061,2025-06-23T18:10:48,user_021,OneDrive,Storage,33,7.95,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00042,2025-06-23T18:24:23,user_034,OneDrive,Storage,447,6.08,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00371,2025-06-23T18:40:27,user_007,GitHub,Development,52,4.61,Managed macOS Laptop,Pune,True,0
+SAAS-00410,2025-06-23T18:48:26,user_025,Slack,Collaboration,36,11.13,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00792,2025-06-24T04:19:31,user_020,Microsoft 365,Productivity,60,15.39,Managed Windows Laptop,Chennai,True,1
+SAAS-00658,2025-06-24T08:02:46,user_017,GitHub,Development,35,16.1,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00822,2025-06-24T08:11:10,user_027,Microsoft 365,Productivity,65,1.25,Managed macOS Laptop,Pune,True,0
+SAAS-00125,2025-06-24T08:13:31,user_040,Google Workspace,Productivity,74,2.59,Managed Windows Laptop,Chennai,True,0
+SAAS-00859,2025-06-24T08:57:53,user_043,Slack,Collaboration,43,7.87,Managed macOS Laptop,Pune,True,0
+SAAS-00636,2025-06-24T09:06:41,user_007,GitHub,Development,58,0.33,Managed macOS Laptop,Pune,True,0
+SAAS-00140,2025-06-24T09:17:12,user_042,Slack,Collaboration,73,2.14,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00666,2025-06-24T09:24:34,user_046,Jira,Project Management,322,8.95,Managed Windows Laptop,Hyderabad,True,1
+SAAS-01126,2025-06-24T09:35:18,user_039,Zoom,Communication,36,10.32,Managed macOS Laptop,Pune,True,0
+SAAS-00157,2025-06-24T10:18:56,user_043,Jira,Project Management,83,3.63,Managed macOS Laptop,Pune,True,0
+SAAS-00670,2025-06-24T10:27:51,user_029,Jira,Project Management,62,9.08,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00117,2025-06-24T10:40:00,user_037,Notion,Productivity,73,0.73,Managed macOS Laptop,Bengaluru,False,1
+SAAS-01153,2025-06-24T10:57:45,user_015,Zoom,Communication,53,5.63,Managed macOS Laptop,Pune,True,0
+SAAS-00285,2025-06-24T11:09:05,user_041,Salesforce,CRM,52,17.57,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01026,2025-06-24T11:32:39,user_047,Microsoft 365,Productivity,36,13.01,Managed macOS Laptop,Pune,True,0
+SAAS-00013,2025-06-24T12:21:07,user_020,Salesforce,CRM,55,10.19,Managed Windows Laptop,Chennai,True,0
+SAAS-00995,2025-06-24T12:23:41,user_023,DeepSeek,AI Assistant,26,14.75,Managed macOS Laptop,Pune,False,1
+SAAS-01184,2025-06-24T12:24:23,user_021,Google Workspace,Productivity,88,8.81,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00008,2025-06-24T12:50:24,user_037,Slack,Collaboration,56,6.69,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01166,2025-06-24T12:56:55,user_039,GitHub,Development,35,11.5,Managed macOS Laptop,Pune,True,0
+SAAS-00186,2025-06-24T13:19:00,user_017,Gemini,AI Assistant,86,6.55,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00501,2025-06-24T13:22:02,user_033,GitHub,Development,19,7.17,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01004,2025-06-24T13:22:50,user_027,Jira,Project Management,66,6.17,Managed macOS Laptop,Pune,True,0
+SAAS-00556,2025-06-24T13:54:30,user_002,Microsoft 365,Productivity,47,21.06,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00467,2025-06-24T14:46:25,user_020,GitHub,Development,46,5.1,Managed Windows Laptop,Chennai,True,0
+SAAS-00982,2025-06-24T14:51:03,user_041,Slack,Collaboration,50,4.05,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00343,2025-06-24T15:01:46,user_025,Microsoft 365,Productivity,31,5.28,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00302,2025-06-24T15:04:27,user_035,Salesforce,CRM,31,21.44,Managed macOS Laptop,Pune,True,0
+SAAS-00334,2025-06-24T15:07:12,user_003,Zoom,Communication,70,15.93,Managed macOS Laptop,Pune,True,0
+SAAS-00104,2025-06-24T15:08:04,user_036,Salesforce,CRM,35,9.37,Managed Windows Laptop,Chennai,True,0
+SAAS-00763,2025-06-24T16:03:37,user_038,Zoom,Communication,53,9.91,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00292,2025-06-24T16:18:08,user_013,Jira,Project Management,648,6.08,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00736,2025-06-24T16:31:50,user_046,Zoom,Communication,31,7.49,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00588,2025-06-24T16:58:40,user_040,OneDrive,Storage,58,7.24,Managed Windows Laptop,Chennai,True,0
+SAAS-00111,2025-06-24T16:59:40,user_042,Microsoft 365,Productivity,50,13.06,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00628,2025-06-24T17:04:24,user_015,Notion,Productivity,8,3.53,Managed macOS Laptop,Pune,False,1
+SAAS-00526,2025-06-24T17:16:59,user_025,Salesforce,CRM,65,8.44,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00680,2025-06-24T18:02:44,user_007,Jira,Project Management,74,4.14,Managed macOS Laptop,Pune,True,0
+SAAS-00949,2025-06-24T18:35:00,user_006,Microsoft 365,Productivity,87,1.45,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00757,2025-06-24T18:36:34,user_033,Jira,Project Management,65,2.61,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00669,2025-06-24T18:51:13,user_050,Salesforce,CRM,65,8.59,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00299,2025-06-25T04:38:33,user_050,Slack,Collaboration,67,7.07,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00322,2025-06-25T08:16:42,user_013,GitHub,Development,83,7.14,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00135,2025-06-25T08:21:44,user_021,OneDrive,Storage,52,2.17,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00440,2025-06-25T08:30:09,user_039,Slack,Collaboration,53,4.61,Managed macOS Laptop,Pune,True,0
+SAAS-00539,2025-06-25T08:30:24,user_005,Google Workspace,Productivity,17,3.94,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00365,2025-06-25T09:08:34,user_009,Google Workspace,Productivity,42,6.66,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00004,2025-06-25T09:14:15,user_034,Zoom,Communication,51,6.92,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00258,2025-06-25T09:15:05,user_035,Zoom,Communication,32,2.34,Managed macOS Laptop,Pune,True,0
+SAAS-00620,2025-06-25T09:19:42,user_033,OneDrive,Storage,53,5.28,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00084,2025-06-25T09:42:32,user_010,Jira,Project Management,69,9.9,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00894,2025-06-25T10:14:09,user_007,Slack,Collaboration,60,7.16,Managed macOS Laptop,Pune,True,0
+SAAS-00797,2025-06-25T10:17:31,user_014,GitHub,Development,53,21.91,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00760,2025-06-25T10:32:05,user_039,Microsoft 365,Productivity,44,2.27,Managed macOS Laptop,Pune,True,0
+SAAS-01144,2025-06-25T10:56:56,user_047,Jira,Project Management,25,13.53,Managed macOS Laptop,Pune,True,0
+SAAS-00595,2025-06-25T11:28:11,user_014,GitHub,Development,604,7.88,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00739,2025-06-25T11:58:03,user_007,Zoom,Communication,428,2.64,Managed macOS Laptop,Pune,True,1
+SAAS-00778,2025-06-25T12:47:36,user_029,Zoom,Communication,53,9.34,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00548,2025-06-25T13:01:50,user_017,Microsoft 365,Productivity,65,8.64,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00647,2025-06-25T13:14:04,user_012,Gemini,AI Assistant,76,19.59,Managed Windows Laptop,Chennai,False,1
+SAAS-00533,2025-06-25T13:32:37,user_020,GitHub,Development,48,18.23,Managed Windows Laptop,Chennai,True,0
+SAAS-00091,2025-06-25T14:39:51,user_026,GitHub,Development,525,17.71,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00976,2025-06-25T15:31:56,user_007,GitHub,Development,30,13.88,Managed macOS Laptop,Pune,True,0
+SAAS-00779,2025-06-25T15:46:49,user_017,Jira,Project Management,61,7.62,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00232,2025-06-25T15:50:04,user_037,OneDrive,Storage,49,5.1,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01195,2025-06-25T16:01:07,user_039,Dropbox,Storage,59,2.82,Managed macOS Laptop,Pune,False,1
+SAAS-00389,2025-06-25T16:17:54,user_027,Salesforce,CRM,84,5.09,Managed macOS Laptop,Pune,True,0
+SAAS-00965,2025-06-25T16:31:23,user_008,GitHub,Development,76,1.03,Managed Windows Laptop,Chennai,True,0
+SAAS-00513,2025-06-25T16:36:30,user_031,GitHub,Development,58,9.62,Managed macOS Laptop,Pune,True,0
+SAAS-00784,2025-06-25T17:30:53,user_017,OneDrive,Storage,65,7.58,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00079,2025-06-25T17:38:21,user_041,Dropbox,Storage,62,10.13,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00403,2025-06-25T17:41:55,user_034,Microsoft 365,Productivity,69,3.87,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00455,2025-06-25T17:45:18,user_011,Slack,Collaboration,674,9.32,Managed macOS Laptop,Pune,True,1
+SAAS-00487,2025-06-25T17:51:17,user_038,Microsoft 365,Productivity,62,2.6,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00089,2025-06-25T18:02:14,user_034,OneDrive,Storage,49,6.41,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00037,2025-06-25T18:17:58,user_021,Salesforce,CRM,59,6.67,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00991,2025-06-25T18:27:11,user_019,GitHub,Development,46,2.58,Managed macOS Laptop,Pune,True,0
+SAAS-00030,2025-06-25T18:36:21,user_020,Jira,Project Management,69,11.81,Managed Windows Laptop,Chennai,True,0
+SAAS-00398,2025-06-25T18:51:04,user_013,Jira,Project Management,26,5.88,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00477,2025-06-26T00:50:49,user_021,GitHub,Development,67,11.39,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00918,2025-06-26T01:17:37,user_019,Zoom,Communication,12,5.99,Managed macOS Laptop,Pune,True,1
+SAAS-01162,2025-06-26T08:06:59,user_012,DeepSeek,AI Assistant,57,6.77,Managed Windows Laptop,Chennai,False,1
+SAAS-00746,2025-06-26T08:24:10,user_030,Jira,Project Management,81,9.69,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00703,2025-06-26T08:24:45,user_032,Microsoft 365,Productivity,71,209.63,Managed Windows Laptop,Chennai,True,1
+SAAS-01062,2025-06-26T08:59:41,user_050,Zoom,Communication,52,10.89,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00163,2025-06-26T09:00:32,user_023,ChatGPT,AI Assistant,67,11.08,Managed macOS Laptop,Pune,False,1
+SAAS-00695,2025-06-26T09:29:28,user_019,Google Workspace,Productivity,55,2.37,Managed macOS Laptop,Pune,True,0
+SAAS-01148,2025-06-26T09:35:30,user_007,GitHub,Development,61,11.81,Managed macOS Laptop,Pune,True,0
+SAAS-01050,2025-06-26T09:41:06,user_036,Zoom,Communication,78,5.72,Managed Windows Laptop,Chennai,True,0
+SAAS-00724,2025-06-26T09:57:55,user_026,Jira,Project Management,65,9.79,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00814,2025-06-26T10:10:25,user_042,Salesforce,CRM,85,7.61,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00627,2025-06-26T10:35:05,user_021,GitHub,Development,44,20.46,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00663,2025-06-26T11:26:08,user_037,Google Workspace,Productivity,41,6.62,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00032,2025-06-26T11:50:56,user_032,OneDrive,Storage,32,6.41,Managed Windows Laptop,Chennai,True,0
+SAAS-01157,2025-06-26T11:59:22,user_036,Salesforce,CRM,62,1.5,Managed Windows Laptop,Chennai,True,0
+SAAS-00341,2025-06-26T12:14:55,user_029,Jira,Project Management,57,9.34,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00612,2025-06-26T12:44:45,user_012,OneDrive,Storage,35,7.24,Managed Windows Laptop,Chennai,True,0
+SAAS-00708,2025-06-26T12:45:31,user_037,Zoom,Communication,61,5.89,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00349,2025-06-26T12:52:10,user_016,GitHub,Development,18,2.57,Managed Windows Laptop,Chennai,True,0
+SAAS-01036,2025-06-26T12:52:44,user_022,Zoom,Communication,75,5.4,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00747,2025-06-26T12:54:31,user_029,Slack,Collaboration,48,488.99,Managed macOS Laptop,Bengaluru,True,1
+SAAS-01103,2025-06-26T13:05:44,user_035,Google Workspace,Productivity,31,6.4,Managed macOS Laptop,Pune,True,0
+SAAS-01073,2025-06-26T13:58:22,user_014,Google Workspace,Productivity,35,19.12,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00758,2025-06-26T14:09:59,user_044,Salesforce,CRM,53,20.82,Managed Windows Laptop,Chennai,True,0
+SAAS-01081,2025-06-26T14:21:09,user_019,Slack,Collaboration,47,4.7,Managed macOS Laptop,Pune,True,0
+SAAS-01040,2025-06-26T14:57:21,user_033,Salesforce,CRM,26,10.85,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00259,2025-06-26T14:59:12,user_002,Google Workspace,Productivity,47,17.28,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00909,2025-06-26T15:19:47,user_025,Microsoft 365,Productivity,59,8.4,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00396,2025-06-26T15:33:31,user_046,Zoom,Communication,385,5.29,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00235,2025-06-26T15:45:15,user_006,Jira,Project Management,62,27.54,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00777,2025-06-26T16:06:37,user_009,Microsoft 365,Productivity,58,9.73,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01129,2025-06-26T16:19:57,user_036,Zoom,Communication,33,2.35,Managed Windows Laptop,Chennai,True,0
+SAAS-00502,2025-06-26T16:28:31,user_042,Jira,Project Management,47,7.61,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00443,2025-06-26T16:47:52,user_002,Slack,Collaboration,79,22.27,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00731,2025-06-26T18:18:18,user_018,Slack,Collaboration,60,7.11,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00154,2025-06-26T18:30:09,user_033,Google Workspace,Productivity,72,1.07,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00850,2025-06-26T18:39:49,user_011,Salesforce,CRM,78,4.18,Managed macOS Laptop,Pune,True,0
+SAAS-01130,2025-06-27T00:12:50,user_008,Salesforce,CRM,12,6.47,Managed Windows Laptop,Chennai,True,1
+SAAS-00307,2025-06-27T01:13:49,user_030,Jira,Project Management,25,4.91,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00276,2025-06-27T02:20:03,user_044,OneDrive,Storage,38,8.62,Managed Windows Laptop,Chennai,True,1
+SAAS-00672,2025-06-27T08:24:30,user_041,GitHub,Development,38,6.14,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00654,2025-06-27T08:39:26,user_032,Google Workspace,Productivity,48,8.77,Managed Windows Laptop,Chennai,True,0
+SAAS-00346,2025-06-27T08:48:32,user_001,Salesforce,CRM,27,6.11,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01105,2025-06-27T09:02:38,user_024,Salesforce,CRM,64,376.82,Managed Windows Laptop,Chennai,True,1
+SAAS-00964,2025-06-27T09:04:15,user_029,Microsoft 365,Productivity,43,6.78,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01049,2025-06-27T09:17:11,user_002,Zoom,Communication,32,11.74,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00503,2025-06-27T09:40:10,user_013,Claude,AI Assistant,40,13.79,Managed macOS Laptop,Bengaluru,False,1
+SAAS-00906,2025-06-27T10:00:16,user_010,GitHub,Development,49,9.43,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01194,2025-06-27T10:10:42,user_033,Zoom,Communication,33,3.23,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00078,2025-06-27T10:24:13,user_007,Salesforce,CRM,88,10.33,Managed macOS Laptop,Pune,True,0
+SAAS-00514,2025-06-27T11:31:29,user_018,GitHub,Development,490,11.5,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00900,2025-06-27T11:49:56,user_022,Microsoft 365,Productivity,79,6.71,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01161,2025-06-27T12:39:08,user_009,Microsoft 365,Productivity,25,6.77,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01109,2025-06-27T12:39:30,user_048,GitHub,Development,34,17.12,Managed Windows Laptop,Chennai,True,0
+SAAS-00459,2025-06-27T12:40:39,user_017,Slack,Collaboration,62,32.98,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00169,2025-06-27T13:01:18,user_009,Salesforce,CRM,34,7.64,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00174,2025-06-27T13:44:05,user_019,Salesforce,CRM,83,7.29,Managed macOS Laptop,Pune,True,0
+SAAS-00653,2025-06-27T13:59:21,user_046,Google Workspace,Productivity,64,732.14,Managed Windows Laptop,Hyderabad,True,1
+SAAS-00497,2025-06-27T14:02:25,user_009,Google Workspace,Productivity,66,7.54,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00979,2025-06-27T14:43:45,user_045,Google Workspace,Productivity,96,11.47,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00512,2025-06-27T15:03:43,user_034,Microsoft 365,Productivity,58,6.87,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00351,2025-06-27T15:45:17,user_020,Microsoft 365,Productivity,65,2.56,Managed Windows Laptop,Chennai,True,0
+SAAS-00327,2025-06-27T15:52:55,user_040,Microsoft 365,Productivity,360,8.27,Managed Windows Laptop,Chennai,True,1
+SAAS-00064,2025-06-27T16:23:46,user_021,GitHub,Development,72,19.2,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01018,2025-06-27T16:43:32,user_017,OneDrive,Storage,72,10.1,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00081,2025-06-27T16:50:54,user_003,Slack,Collaboration,67,23.56,Managed macOS Laptop,Pune,True,0
+SAAS-00072,2025-06-27T16:51:51,user_039,Microsoft 365,Productivity,37,7.76,Managed macOS Laptop,Pune,True,0
+SAAS-00385,2025-06-27T16:56:31,user_004,Microsoft 365,Productivity,74,12.29,Managed Windows Laptop,Chennai,True,0
+SAAS-00561,2025-06-27T16:57:32,user_032,Slack,Collaboration,59,7.31,Managed Windows Laptop,Chennai,True,0
+SAAS-00068,2025-06-27T17:23:06,user_047,Jira,Project Management,43,7.6,Managed macOS Laptop,Pune,True,0
+SAAS-00255,2025-06-27T17:38:31,user_049,OneDrive,Storage,37,12.28,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00214,2025-06-27T17:44:24,user_033,GitHub,Development,52,5.19,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01094,2025-06-27T18:01:47,user_017,Slack,Collaboration,60,3.78,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00910,2025-06-27T23:10:18,user_030,Google Workspace,Productivity,17,4.87,Managed Windows Laptop,Hyderabad,True,1
+SAAS-01132,2025-06-27T23:45:42,user_035,Jira,Project Management,41,8.45,Managed macOS Laptop,Pune,True,1
+SAAS-00491,2025-06-28T04:22:05,user_036,Google Workspace,Productivity,41,7.78,Managed Windows Laptop,Chennai,True,1
+SAAS-00829,2025-06-28T08:14:19,user_009,Slack,Collaboration,51,12.02,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00685,2025-06-28T08:20:55,user_033,Microsoft 365,Productivity,78,3.3,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01017,2025-06-28T08:27:40,user_031,Microsoft 365,Productivity,38,13.62,Managed macOS Laptop,Pune,True,0
+SAAS-00924,2025-06-28T09:00:54,user_028,Trello,Project Management,42,16.61,Managed Windows Laptop,Chennai,False,1
+SAAS-00426,2025-06-28T09:13:18,user_009,GitHub,Development,37,6.03,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00095,2025-06-28T09:29:30,user_022,Slack,Collaboration,43,9.62,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00223,2025-06-28T09:42:35,user_045,Google Workspace,Productivity,71,10.49,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00173,2025-06-28T09:43:01,user_043,OneDrive,Storage,68,1.46,Managed macOS Laptop,Pune,True,0
+SAAS-01115,2025-06-28T09:43:21,user_005,Salesforce,CRM,78,8.53,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00016,2025-06-28T09:49:49,user_024,GitHub,Development,23,10.22,Managed Windows Laptop,Chennai,True,0
+SAAS-00131,2025-06-28T10:05:35,user_050,Microsoft 365,Productivity,55,9.12,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00330,2025-06-28T10:15:28,user_008,Salesforce,CRM,47,7.69,Managed Windows Laptop,Chennai,True,0
+SAAS-00891,2025-06-28T10:26:21,user_016,Microsoft 365,Productivity,39,9.53,Managed Windows Laptop,Chennai,True,0
+SAAS-00187,2025-06-28T10:47:30,user_037,OneDrive,Storage,43,11.12,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00170,2025-06-28T10:54:13,user_047,Jira,Project Management,64,10.91,Managed macOS Laptop,Pune,True,0
+SAAS-00540,2025-06-28T11:07:36,user_049,Microsoft 365,Productivity,54,835.05,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00886,2025-06-28T11:15:39,user_045,Slack,Collaboration,73,8.85,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00083,2025-06-28T11:18:47,user_029,Google Workspace,Productivity,61,2.85,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00198,2025-06-28T11:55:02,user_011,Salesforce,CRM,46,4.53,Managed macOS Laptop,Pune,True,0
+SAAS-00963,2025-06-28T11:59:37,user_020,GitHub,Development,35,8.9,Managed Windows Laptop,Chennai,True,0
+SAAS-00987,2025-06-28T12:01:18,user_047,Google Workspace,Productivity,42,6.47,Managed macOS Laptop,Pune,True,0
+SAAS-00060,2025-06-28T12:02:12,user_027,Google Workspace,Productivity,68,4.74,Managed macOS Laptop,Pune,True,0
+SAAS-00442,2025-06-28T12:06:34,user_017,Google Workspace,Productivity,91,3.15,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00591,2025-06-28T12:39:21,user_047,Jira,Project Management,644,15.11,Managed macOS Laptop,Pune,True,1
+SAAS-01154,2025-06-28T12:40:24,user_006,OneDrive,Storage,29,4.71,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01145,2025-06-28T12:55:38,user_011,Salesforce,CRM,61,11.2,Managed macOS Laptop,Pune,True,0
+SAAS-00574,2025-06-28T13:01:29,user_001,Slack,Collaboration,34,8.92,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00719,2025-06-28T13:45:47,user_050,WeTransfer,File Transfer,54,11.39,Managed Windows Laptop,Hyderabad,False,1
+SAAS-00573,2025-06-28T13:52:51,user_039,Salesforce,CRM,25,20.04,Managed macOS Laptop,Pune,True,0
+SAAS-00678,2025-06-28T13:56:30,user_023,OneDrive,Storage,40,9.72,Managed macOS Laptop,Pune,True,0
+SAAS-00139,2025-06-28T14:07:08,user_003,Slack,Collaboration,36,8.18,Managed macOS Laptop,Pune,True,0
+SAAS-00515,2025-06-28T14:09:02,user_020,Zoom,Communication,65,4.17,Managed Windows Laptop,Chennai,True,0
+SAAS-01137,2025-06-28T14:12:41,user_025,Jira,Project Management,30,11.4,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00415,2025-06-28T14:23:00,user_046,Zoom,Communication,52,14.92,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01000,2025-06-28T14:32:48,user_048,Jira,Project Management,40,15.22,Managed Windows Laptop,Chennai,True,0
+SAAS-00567,2025-06-28T14:39:53,user_025,Salesforce,CRM,51,2.79,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00856,2025-06-28T15:07:06,user_017,OneDrive,Storage,46,4.99,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00049,2025-06-28T15:10:26,user_043,Google Workspace,Productivity,56,7.47,Managed macOS Laptop,Pune,True,0
+SAAS-00799,2025-06-28T15:14:51,user_041,Microsoft 365,Productivity,95,8.65,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00951,2025-06-28T15:22:26,user_041,GitHub,Development,669,3.97,Managed macOS Laptop,Bengaluru,True,1
+SAAS-00957,2025-06-28T15:50:53,user_047,Jira,Project Management,32,19.62,Managed macOS Laptop,Pune,True,0
+SAAS-00598,2025-06-28T15:55:11,user_001,Salesforce,CRM,59,1.23,Managed macOS Laptop,Bengaluru,True,0
+SAAS-00857,2025-06-28T16:12:56,user_040,Zoom,Communication,49,4.48,Managed Windows Laptop,Chennai,True,0
+SAAS-00816,2025-06-28T16:31:27,user_022,GitHub,Development,57,21.34,Managed Windows Laptop,Hyderabad,True,0
+SAAS-00369,2025-06-28T16:58:35,user_009,Jira,Project Management,51,39.31,Managed macOS Laptop,Bengaluru,True,0
+SAAS-01182,2025-06-28T17:07:18,user_019,OneDrive,Storage,34,2.22,Managed macOS Laptop,Pune,True,0
+SAAS-00915,2025-06-28T17:38:02,user_018,Zoom,Communication,42,9.96,Managed Windows Laptop,Hyderabad,True,0
+SAAS-01071,2025-06-28T17:39:41,user_040,DeepSeek,AI Assistant,58,20.35,Managed Windows Laptop,Chennai,False,1
+SAAS-00188,2025-06-28T18:58:15,user_037,Salesforce,CRM,53,2.29,Managed macOS Laptop,Bengaluru,True,0

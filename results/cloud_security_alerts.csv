@@ -1,0 +1,468 @@
+event_id,user_id,timestamp,alert_type,severity,reason
+CLOUD-01003,user_021,2025-06-01T03:42:54,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01130,user_037,2025-06-01T04:41:08,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00967,user_048,2025-06-01T08:00:46,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00730,user_050,2025-06-01T08:37:55,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00824,user_015,2025-06-01T09:04:42,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-01015,user_036,2025-06-01T11:27:27,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00736,user_033,2025-06-01T14:33:37,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00114,user_009,2025-06-01T16:00:35,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00097,user_017,2025-06-01T17:36:37,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00021,user_030,2025-06-01T22:04:54,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00820,user_048,2025-06-01T23:12:28,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00149,user_025,2025-06-02T03:07:20,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00149,user_025,2025-06-02T03:07:20,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00149,user_025,2025-06-02T03:07:20,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00698,user_024,2025-06-02T04:48:33,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00698,user_024,2025-06-02T04:48:33,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00698,user_024,2025-06-02T04:48:33,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01196,user_017,2025-06-02T04:53:28,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01196,user_017,2025-06-02T04:53:28,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01196,user_017,2025-06-02T04:53:28,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00634,user_010,2025-06-02T04:58:44,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00634,user_010,2025-06-02T04:58:44,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00634,user_010,2025-06-02T04:58:44,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00464,user_007,2025-06-02T10:06:30,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00516,user_037,2025-06-02T14:25:18,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00703,user_003,2025-06-02T16:13:42,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00830,user_043,2025-06-03T02:58:37,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00830,user_043,2025-06-03T02:58:37,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00830,user_043,2025-06-03T02:58:37,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00394,user_039,2025-06-03T10:51:52,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00587,user_001,2025-06-03T11:31:12,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00171,user_019,2025-06-03T11:41:28,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00200,user_015,2025-06-03T16:25:19,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00588,user_042,2025-06-03T17:28:08,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00444,user_045,2025-06-04T00:52:24,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00444,user_045,2025-06-04T00:52:24,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00444,user_045,2025-06-04T00:52:24,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00697,user_022,2025-06-04T09:20:19,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00241,user_019,2025-06-04T13:23:58,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00140,user_023,2025-06-04T22:53:29,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00163,user_028,2025-06-05T02:56:54,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00163,user_028,2025-06-05T02:56:54,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00163,user_028,2025-06-05T02:56:54,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00125,user_013,2025-06-05T04:30:17,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00538,user_031,2025-06-05T08:29:43,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00989,user_023,2025-06-05T09:42:30,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00946,user_025,2025-06-05T09:48:32,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01091,user_025,2025-06-05T10:41:05,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00462,user_024,2025-06-05T16:19:06,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00584,user_039,2025-06-05T17:58:07,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00811,user_015,2025-06-05T22:32:12,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00481,user_013,2025-06-05T23:05:21,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00481,user_013,2025-06-05T23:05:21,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00481,user_013,2025-06-05T23:05:21,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00956,user_009,2025-06-05T23:44:26,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00956,user_009,2025-06-05T23:44:26,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00956,user_009,2025-06-05T23:44:26,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01076,user_007,2025-06-06T01:46:31,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01076,user_007,2025-06-06T01:46:31,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01076,user_007,2025-06-06T01:46:31,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00091,user_036,2025-06-06T12:47:59,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00367,user_020,2025-06-06T13:50:27,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00378,user_006,2025-06-06T14:25:44,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00487,user_028,2025-06-06T14:54:26,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00213,user_026,2025-06-06T18:15:03,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00845,user_038,2025-06-06T22:32:41,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00566,user_011,2025-06-07T03:29:21,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01048,user_010,2025-06-07T04:01:19,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01048,user_010,2025-06-07T04:01:19,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01048,user_010,2025-06-07T04:01:19,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00554,user_044,2025-06-07T08:44:53,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01110,user_012,2025-06-07T14:17:41,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00181,user_026,2025-06-07T15:07:03,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00818,user_004,2025-06-07T23:44:24,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00286,user_033,2025-06-08T00:16:59,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00964,user_004,2025-06-08T03:14:48,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00964,user_004,2025-06-08T03:14:48,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00964,user_004,2025-06-08T03:14:48,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00285,user_009,2025-06-08T08:23:47,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00807,user_023,2025-06-08T12:50:30,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-01208,user_041,2025-06-08T13:56:47,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01026,user_001,2025-06-08T16:26:20,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00370,user_001,2025-06-08T16:57:31,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00418,user_002,2025-06-08T17:46:54,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00647,user_031,2025-06-08T17:56:38,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00955,user_042,2025-06-08T22:13:45,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00190,user_033,2025-06-09T00:04:31,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00277,user_003,2025-06-09T01:06:22,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00277,user_003,2025-06-09T01:06:22,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00277,user_003,2025-06-09T01:06:22,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01237,user_036,2025-06-09T01:18:29,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01237,user_036,2025-06-09T01:18:29,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01237,user_036,2025-06-09T01:18:29,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00048,user_034,2025-06-09T08:00:37,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00267,user_035,2025-06-09T11:36:57,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00302,user_041,2025-06-09T14:03:23,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-01019,user_040,2025-06-09T14:37:39,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00995,user_003,2025-06-09T17:08:28,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00329,user_032,2025-06-09T17:29:30,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00788,user_001,2025-06-09T22:32:15,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00788,user_001,2025-06-09T22:32:15,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00788,user_001,2025-06-09T22:32:15,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00819,user_005,2025-06-10T00:37:42,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00708,user_026,2025-06-10T00:40:51,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01074,user_003,2025-06-10T03:09:48,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01074,user_003,2025-06-10T03:09:48,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01074,user_003,2025-06-10T03:09:48,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00218,user_006,2025-06-10T04:16:53,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00704,user_040,2025-06-10T10:26:33,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00978,user_043,2025-06-10T11:48:39,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00734,user_048,2025-06-10T12:26:02,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00056,user_010,2025-06-10T15:43:32,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00613,user_005,2025-06-10T16:50:51,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01248,user_003,2025-06-10T17:24:17,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00629,user_026,2025-06-10T17:38:29,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01050,user_049,2025-06-10T18:43:47,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00135,user_028,2025-06-10T23:05:13,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00135,user_028,2025-06-10T23:05:13,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00135,user_028,2025-06-10T23:05:13,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00474,user_031,2025-06-11T03:32:13,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00474,user_031,2025-06-11T03:32:13,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00474,user_031,2025-06-11T03:32:13,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01006,user_030,2025-06-11T04:13:12,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01006,user_030,2025-06-11T04:13:12,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01006,user_030,2025-06-11T04:13:12,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00735,user_017,2025-06-11T10:18:06,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00034,user_045,2025-06-11T11:18:55,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00089,user_025,2025-06-11T11:36:54,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-01239,user_002,2025-06-11T11:47:02,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01217,user_047,2025-06-11T14:10:53,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00993,user_035,2025-06-11T17:07:09,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-01228,user_040,2025-06-11T17:28:57,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01037,user_025,2025-06-11T18:06:54,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01099,user_003,2025-06-11T18:11:40,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00769,user_050,2025-06-11T23:19:00,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01014,user_028,2025-06-12T00:14:56,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00621,user_017,2025-06-12T01:54:59,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00262,user_029,2025-06-12T02:36:54,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00442,user_005,2025-06-12T10:34:07,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00117,user_043,2025-06-12T13:50:27,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00823,user_011,2025-06-12T17:33:30,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00671,user_018,2025-06-12T22:17:35,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00671,user_018,2025-06-12T22:17:35,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00671,user_018,2025-06-12T22:17:35,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00189,user_018,2025-06-13T00:00:26,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00189,user_018,2025-06-13T00:00:26,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00189,user_018,2025-06-13T00:00:26,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00454,user_011,2025-06-13T00:21:05,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00780,user_006,2025-06-13T01:39:55,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00780,user_006,2025-06-13T01:39:55,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00780,user_006,2025-06-13T01:39:55,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00691,user_027,2025-06-13T04:57:15,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00210,user_024,2025-06-13T04:59:37,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01036,user_014,2025-06-13T12:27:17,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00520,user_042,2025-06-13T14:52:07,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00676,user_027,2025-06-13T16:51:54,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00456,user_015,2025-06-13T23:40:38,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00456,user_015,2025-06-13T23:40:38,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00456,user_015,2025-06-13T23:40:38,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00007,user_021,2025-06-14T00:20:34,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00007,user_021,2025-06-14T00:20:34,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00007,user_021,2025-06-14T00:20:34,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00158,user_017,2025-06-14T00:23:21,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00158,user_017,2025-06-14T00:23:21,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00158,user_017,2025-06-14T00:23:21,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00833,user_026,2025-06-14T11:53:44,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00212,user_022,2025-06-14T15:42:06,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00922,user_039,2025-06-14T17:11:16,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01001,user_018,2025-06-14T22:26:00,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00079,user_048,2025-06-14T22:43:51,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00488,user_037,2025-06-15T02:38:54,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00488,user_037,2025-06-15T02:38:54,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00488,user_037,2025-06-15T02:38:54,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00689,user_028,2025-06-15T04:21:53,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00689,user_028,2025-06-15T04:21:53,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00689,user_028,2025-06-15T04:21:53,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00829,user_002,2025-06-15T14:19:25,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00141,user_011,2025-06-15T14:35:43,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-01002,user_016,2025-06-15T22:15:48,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00762,user_020,2025-06-15T23:39:48,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00075,user_038,2025-06-16T01:13:57,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00075,user_038,2025-06-16T01:13:57,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00075,user_038,2025-06-16T01:13:57,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00414,user_027,2025-06-16T01:29:21,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00414,user_027,2025-06-16T01:29:21,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00414,user_027,2025-06-16T01:29:21,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00214,user_038,2025-06-16T01:42:16,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00494,user_024,2025-06-16T04:41:13,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00494,user_024,2025-06-16T04:41:13,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00494,user_024,2025-06-16T04:41:13,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00719,user_031,2025-06-16T15:17:11,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00668,user_037,2025-06-16T16:37:40,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00101,user_013,2025-06-16T22:04:43,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00101,user_013,2025-06-16T22:04:43,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00101,user_013,2025-06-16T22:04:43,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00597,user_021,2025-06-16T22:12:12,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00597,user_021,2025-06-16T22:12:12,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00597,user_021,2025-06-16T22:12:12,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00146,user_019,2025-06-17T02:18:11,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00146,user_019,2025-06-17T02:18:11,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00146,user_019,2025-06-17T02:18:11,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00167,user_009,2025-06-17T02:45:52,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00167,user_009,2025-06-17T02:45:52,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00167,user_009,2025-06-17T02:45:52,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00176,user_005,2025-06-17T04:55:05,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00573,user_036,2025-06-17T11:50:49,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00562,user_025,2025-06-17T12:24:13,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00342,user_037,2025-06-17T13:02:04,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00206,user_030,2025-06-17T17:18:36,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00882,user_011,2025-06-17T17:50:48,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00291,user_038,2025-06-17T18:05:21,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00217,user_034,2025-06-18T00:26:03,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00217,user_034,2025-06-18T00:26:03,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00217,user_034,2025-06-18T00:26:03,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00971,user_047,2025-06-18T00:29:11,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00971,user_047,2025-06-18T00:29:11,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00971,user_047,2025-06-18T00:29:11,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00637,user_047,2025-06-18T00:31:42,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01138,user_013,2025-06-18T09:05:38,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00363,user_042,2025-06-18T09:17:34,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01107,user_032,2025-06-18T10:03:58,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00798,user_001,2025-06-18T14:10:55,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00067,user_041,2025-06-18T16:17:49,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00193,user_007,2025-06-18T22:19:33,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00193,user_007,2025-06-18T22:19:33,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00193,user_007,2025-06-18T22:19:33,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01232,user_015,2025-06-19T03:44:27,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00589,user_008,2025-06-19T03:56:40,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00589,user_008,2025-06-19T03:56:40,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00589,user_008,2025-06-19T03:56:40,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01045,user_027,2025-06-19T04:38:39,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01045,user_027,2025-06-19T04:38:39,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01045,user_027,2025-06-19T04:38:39,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00997,user_050,2025-06-19T13:09:55,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00749,user_019,2025-06-19T14:08:30,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00412,user_015,2025-06-19T18:36:49,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00942,user_031,2025-06-19T22:52:35,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00065,user_048,2025-06-20T01:43:19,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00994,user_015,2025-06-20T01:47:59,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00994,user_015,2025-06-20T01:47:59,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00994,user_015,2025-06-20T01:47:59,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00812,user_036,2025-06-20T02:39:13,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01151,user_033,2025-06-20T02:54:57,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01151,user_033,2025-06-20T02:54:57,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01151,user_033,2025-06-20T02:54:57,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00219,user_040,2025-06-20T02:59:17,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00219,user_040,2025-06-20T02:59:17,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00219,user_040,2025-06-20T02:59:17,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00123,user_025,2025-06-20T04:21:45,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00123,user_025,2025-06-20T04:21:45,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00123,user_025,2025-06-20T04:21:45,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00228,user_012,2025-06-20T10:51:50,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00384,user_005,2025-06-20T14:00:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00432,user_003,2025-06-20T14:00:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-00576,user_002,2025-06-20T14:00:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-00888,user_004,2025-06-20T14:00:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00876,user_002,2025-06-20T14:00:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-01080,user_001,2025-06-20T14:00:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-01080,user_001,2025-06-20T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00576,user_002,2025-06-20T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00888,user_004,2025-06-20T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00876,user_002,2025-06-20T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00432,user_003,2025-06-20T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00384,user_005,2025-06-20T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00460,user_001,2025-06-20T14:01:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00700,user_001,2025-06-20T14:01:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00460,user_001,2025-06-20T14:01:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00532,user_003,2025-06-20T14:01:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-00532,user_003,2025-06-20T14:01:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00700,user_001,2025-06-20T14:01:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00968,user_004,2025-06-20T14:02:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00608,user_004,2025-06-20T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00692,user_003,2025-06-20T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00092,user_003,2025-06-20T14:02:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-00836,user_002,2025-06-20T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01184,user_005,2025-06-20T14:02:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00968,user_004,2025-06-20T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00092,user_003,2025-06-20T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01184,user_005,2025-06-20T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00284,user_005,2025-06-20T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00608,user_004,2025-06-20T14:02:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00692,user_003,2025-06-20T14:02:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-00284,user_005,2025-06-20T14:02:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00656,user_002,2025-06-20T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00836,user_002,2025-06-20T14:02:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-00656,user_002,2025-06-20T14:02:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-01062,user_018,2025-06-20T14:49:09,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00447,user_033,2025-06-20T15:11:38,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00289,user_018,2025-06-20T16:39:35,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00963,user_037,2025-06-20T23:20:04,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00963,user_037,2025-06-20T23:20:04,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00963,user_037,2025-06-20T23:20:04,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00919,user_019,2025-06-21T02:28:06,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00919,user_019,2025-06-21T02:28:06,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00919,user_019,2025-06-21T02:28:06,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01223,user_038,2025-06-21T04:37:41,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01223,user_038,2025-06-21T04:37:41,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01223,user_038,2025-06-21T04:37:41,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01065,user_001,2025-06-21T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-01065,user_001,2025-06-21T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00225,user_001,2025-06-21T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01125,user_001,2025-06-21T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00765,user_001,2025-06-21T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00693,user_004,2025-06-21T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00693,user_004,2025-06-21T14:00:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00765,user_001,2025-06-21T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-01125,user_001,2025-06-21T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00225,user_001,2025-06-21T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-01029,user_005,2025-06-21T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01005,user_001,2025-06-21T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-01005,user_001,2025-06-21T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01033,user_004,2025-06-21T14:01:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-01141,user_002,2025-06-21T14:01:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01033,user_004,2025-06-21T14:01:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00113,user_004,2025-06-21T14:02:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00113,user_004,2025-06-21T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00931,user_010,2025-06-21T18:26:05,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00790,user_017,2025-06-21T22:30:45,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00790,user_017,2025-06-21T22:30:45,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00790,user_017,2025-06-21T22:30:45,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00796,user_011,2025-06-21T23:56:56,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00796,user_011,2025-06-21T23:56:56,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00796,user_011,2025-06-21T23:56:56,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00497,user_018,2025-06-22T00:15:36,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00497,user_018,2025-06-22T00:15:36,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00497,user_018,2025-06-22T00:15:36,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00840,user_005,2025-06-22T00:38:54,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00840,user_005,2025-06-22T00:38:54,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00840,user_005,2025-06-22T00:38:54,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00398,user_011,2025-06-22T03:01:56,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00084,user_011,2025-06-22T04:55:41,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00084,user_011,2025-06-22T04:55:41,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00084,user_011,2025-06-22T04:55:41,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00527,user_023,2025-06-22T11:24:27,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00393,user_003,2025-06-22T13:11:20,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00565,user_037,2025-06-22T13:36:31,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00042,user_003,2025-06-22T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00966,user_002,2025-06-22T14:00:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00042,user_003,2025-06-22T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00186,user_002,2025-06-22T14:00:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00582,user_003,2025-06-22T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00522,user_003,2025-06-22T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00174,user_005,2025-06-22T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00582,user_003,2025-06-22T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00186,user_002,2025-06-22T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00966,user_002,2025-06-22T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01158,user_004,2025-06-22T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00522,user_003,2025-06-22T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00594,user_005,2025-06-22T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01150,user_001,2025-06-22T14:01:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00250,user_001,2025-06-22T14:01:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00430,user_001,2025-06-22T14:01:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00250,user_001,2025-06-22T14:01:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00430,user_001,2025-06-22T14:01:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00142,user_003,2025-06-22T14:01:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00142,user_003,2025-06-22T14:01:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-01150,user_001,2025-06-22T14:01:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-01010,user_001,2025-06-22T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00710,user_001,2025-06-22T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00626,user_002,2025-06-22T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00542,user_003,2025-06-22T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00542,user_003,2025-06-22T14:02:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-01010,user_001,2025-06-22T14:02:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00626,user_002,2025-06-22T14:02:00,Abnormal API Activity,Medium,3 API events by this user within a 5min window.
+CLOUD-00710,user_001,2025-06-22T14:02:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00319,user_048,2025-06-22T14:12:48,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01220,user_013,2025-06-22T15:04:14,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00054,user_050,2025-06-22T15:27:05,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00385,user_020,2025-06-22T16:26:30,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00391,user_011,2025-06-22T18:32:27,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00673,user_033,2025-06-22T22:12:32,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00846,user_046,2025-06-23T00:33:49,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00846,user_046,2025-06-23T00:33:49,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00846,user_046,2025-06-23T00:33:49,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00694,user_011,2025-06-23T00:39:39,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01112,user_049,2025-06-23T01:59:57,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00651,user_024,2025-06-23T10:24:32,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00675,user_001,2025-06-23T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00891,user_002,2025-06-23T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01047,user_003,2025-06-23T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00927,user_003,2025-06-23T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01131,user_002,2025-06-23T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01191,user_002,2025-06-23T14:00:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00891,user_002,2025-06-23T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-01191,user_002,2025-06-23T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-01131,user_002,2025-06-23T14:00:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00927,user_003,2025-06-23T14:00:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-01047,user_003,2025-06-23T14:00:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-00707,user_003,2025-06-23T14:02:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-01127,user_003,2025-06-23T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00239,user_005,2025-06-23T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00899,user_005,2025-06-23T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00707,user_003,2025-06-23T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00131,user_002,2025-06-23T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01127,user_003,2025-06-23T14:02:00,Abnormal API Activity,Medium,4 API events by this user within a 5min window.
+CLOUD-00131,user_002,2025-06-23T14:02:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00011,user_002,2025-06-23T14:02:00,Abnormal API Activity,Medium,5 API events by this user within a 5min window.
+CLOUD-00011,user_002,2025-06-23T14:02:00,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00925,user_037,2025-06-23T14:57:47,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00147,user_002,2025-06-23T15:14:01,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00567,user_009,2025-06-23T15:48:54,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-01218,user_023,2025-06-23T16:57:42,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01170,user_037,2025-06-23T18:48:43,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00810,user_005,2025-06-24T04:46:20,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00810,user_005,2025-06-24T04:46:20,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00810,user_005,2025-06-24T04:46:20,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00816,user_044,2025-06-24T10:29:00,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00905,user_033,2025-06-24T12:52:57,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00961,user_042,2025-06-24T14:50:05,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00204,user_048,2025-06-24T17:57:11,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00605,user_048,2025-06-24T23:11:22,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00605,user_048,2025-06-24T23:11:22,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00605,user_048,2025-06-24T23:11:22,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00759,user_020,2025-06-25T09:10:30,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-01038,user_011,2025-06-25T09:17:05,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00426,user_003,2025-06-25T10:58:47,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00312,user_012,2025-06-25T12:24:30,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00509,user_022,2025-06-25T13:30:51,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00992,user_023,2025-06-25T15:02:03,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00203,user_024,2025-06-25T17:08:08,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00001,user_011,2025-06-25T23:00:47,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00523,user_041,2025-06-26T00:18:08,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00523,user_041,2025-06-26T00:18:08,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00523,user_041,2025-06-26T00:18:08,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00425,user_029,2025-06-26T01:48:34,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01201,user_045,2025-06-26T03:50:49,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01201,user_045,2025-06-26T03:50:49,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-01201,user_045,2025-06-26T03:50:49,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00854,user_028,2025-06-26T04:08:40,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01093,user_013,2025-06-26T09:19:47,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00290,user_036,2025-06-26T09:47:36,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00681,user_048,2025-06-26T11:52:31,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00420,user_023,2025-06-26T14:04:20,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-01166,user_050,2025-06-26T15:18:02,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-01094,user_049,2025-06-26T17:07:24,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00274,user_046,2025-06-26T18:25:03,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00528,user_036,2025-06-26T22:16:42,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00702,user_022,2025-06-27T02:29:30,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00702,user_022,2025-06-27T02:29:30,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00702,user_022,2025-06-27T02:29:30,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00371,user_008,2025-06-27T02:52:03,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00371,user_008,2025-06-27T02:52:03,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00371,user_008,2025-06-27T02:52:03,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00261,user_043,2025-06-27T04:34:25,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00261,user_043,2025-06-27T04:34:25,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00261,user_043,2025-06-27T04:34:25,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00313,user_022,2025-06-27T04:36:03,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00313,user_022,2025-06-27T04:36:03,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00313,user_022,2025-06-27T04:36:03,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00298,user_007,2025-06-27T08:49:20,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00177,user_020,2025-06-27T09:13:17,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00604,user_015,2025-06-27T10:30:49,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00985,user_007,2025-06-27T13:10:06,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00036,user_048,2025-06-27T14:06:30,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00157,user_031,2025-06-27T14:49:30,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00209,user_011,2025-06-27T15:07:37,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00499,user_015,2025-06-27T16:55:54,Unusual Resource Access,High,Access to configured sensitive resource: s3://finance-backups
+CLOUD-00851,user_037,2025-06-27T17:26:13,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-01061,user_008,2025-06-27T22:26:54,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-01129,user_008,2025-06-28T01:59:30,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.
+CLOUD-00683,user_005,2025-06-28T10:10:04,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00287,user_013,2025-06-28T10:41:27,Unusual Resource Access,High,Access to configured sensitive resource: s3://customer-exports
+CLOUD-00368,user_030,2025-06-28T10:55:59,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-01210,user_036,2025-06-28T16:22:28,Create Access Key,High,CreateAccessKey can create persistent programmatic access.
+CLOUD-00551,user_038,2025-06-28T17:41:47,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00909,user_026,2025-06-28T18:33:01,Unknown IP,Medium,Source IP is outside configured internal IP ranges.
+CLOUD-00921,user_046,2025-06-28T23:34:27,Unusual Access Time,Medium,Cloud activity occurred outside normal working hours.

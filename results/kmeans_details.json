@@ -1,0 +1,29 @@
+{
+  "features": [
+    "requests",
+    "data_uploaded_mb",
+    "activity_hour"
+  ],
+  "selected_k": 3,
+  "silhouette_scores": {
+    "2": 0.7002,
+    "3": 0.7223,
+    "4": 0.5643,
+    "5": 0.4904
+  },
+  "normal_cluster": 0,
+  "anomalous_clusters": [
+    1,
+    2
+  ],
+  "cluster_sizes": {
+    "0": 1091,
+    "1": 50,
+    "2": 59
+  },
+  "centroid_distances_from_normal": {
+    "0": 0.0,
+    "1": 4.7813,
+    "2": 4.3888
+  }
+}

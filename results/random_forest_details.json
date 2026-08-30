@@ -1,0 +1,16 @@
+{
+  "features": [
+    "requests",
+    "data_uploaded_mb",
+    "activity_hour"
+  ],
+  "train_records": 900,
+  "test_records": 300,
+  "test_size": 0.25,
+  "random_state": 42,
+  "feature_importance": {
+    "requests": 0.347,
+    "data_uploaded_mb": 0.4622,
+    "activity_hour": 0.1908
+  }
+}
