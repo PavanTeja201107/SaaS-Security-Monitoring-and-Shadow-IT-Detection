@@ -175,7 +175,7 @@ def show_conclusion(data: dict[str, pd.DataFrame]) -> None:
 def main() -> None:
     st.set_page_config(page_title="SaaS Security Monitoring", page_icon="🛡️", layout="wide")
     st.title("SaaS Security Monitoring and Shadow IT Detection")
-    st.caption("B.Tech Cloud Computing Course Project | Member 1: 231IT030 | Member 2: 231IT074")
+    st.caption("Cloud Computing Course Project | Member 1: 231IT030 | Member 2: 231IT074")
 
     data, errors = load_project_data()
     if errors:
