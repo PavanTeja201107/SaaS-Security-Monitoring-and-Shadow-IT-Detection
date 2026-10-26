@@ -560,7 +560,13 @@ score, level, contributions = calculate_risk_score(group["alert_type"])
 4. Start a new group after a gap larger than 12 hours.
 5. Score the alert types inside each group.
 
-Current `results/incident_summary.csv` has 291 Low, 72 Medium, and 20 High incidents.
+After behavioural alerts are included, current `results/incident_summary.csv` has 337 Low, 86 Medium, and 21 High incidents.
+
+### User-specific behaviour baselines
+
+`detection/behavior_baseline.py` adds a separate user-specific activity check. For every SaaS record, it sorts activity by user and time, then calculates the median requests and upload MB from that user's earlier records only. At least five prior records are required. A behavioural alert is created when requests or upload volume reaches 3.0 times the historical median. The analysis is saved in `results/user_behavior_baselines.csv`; alerts are saved in `results/behavioral_deviation_alerts.csv`.
+
+The current risk design gives `Behavioral Deviation` +10. Since the risk function removes repeated indicator names within an incident, several behaviour alerts do not repeatedly add +10. `run_behavioral_baseline.py` validates that populated baselines have at least five strictly earlier records.
 
 ## 17. Streamlit Dashboard
 

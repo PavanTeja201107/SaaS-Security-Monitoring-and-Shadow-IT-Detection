@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from typing import Iterable, Mapping
 
+from config import BEHAVIORAL_RISK_POINTS
 
 DEFAULT_RISK_WEIGHTS = {
     "Shadow IT": 30,
@@ -14,6 +15,9 @@ DEFAULT_RISK_WEIGHTS = {
     "Abnormal API Activity": 10,
     "Unusual Resource Access": 15,
     "Large Data Upload": 20,
+    # This is counted once per correlated incident by default, so it provides
+    # additional behavioural context without multiplying repeated deviations.
+    "Behavioral Deviation": BEHAVIORAL_RISK_POINTS,
 }
 
 

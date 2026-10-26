@@ -16,7 +16,7 @@ IQR | K-Means | Isolation Forest | Random Forest     Cloud security rules
         |                                      |
         +------------ Hybrid voting -----------+
                               |
-                 Shadow IT / Shadow AI alerts
+     Shadow IT / Shadow AI / Behavioural alerts
                               |
                   Risk scoring and correlation
                               |
@@ -46,6 +46,14 @@ Both datasets include `ground_truth` labels for evaluation. The data is generate
 The hybrid detector gives IQR, K-Means, Isolation Forest, and Random Forest one vote each. An event is suspicious when at least two methods flag it. Its confidence is the fraction of suspicious votes, not a probability. `results/hybrid_holdout_predictions.csv` stores every hybrid prediction and vote count.
 
 For a fair comparison, all methods in `results/algorithm_comparison.csv` are evaluated on the same Random Forest holdout set. The unsupervised detectors fit only the corresponding training partition before predicting the holdout records.
+
+## User-specific Behaviour Baselines
+
+`run_behavioral_baseline.py` calculates each user's historical median request count and upload volume using only their earlier timestamped SaaS events. A baseline needs at least five earlier records. A behavioural alert is created when requests or upload volume reaches 3.5 times that historical median.
+
+The dashboard displays actual activity against the historical baseline, highlights threshold-exceeding points, and includes a deviation-ratio trend. Early events without sufficient history are shown as **Insufficient historical data**, not as a misleading ratio.
+
+The behavioural signal is included in risk scoring as `Behavioral Deviation (+5)`. Existing risk-score de-duplication counts this indicator once per incident, even when several deviation events occur.
 
 ## Cloud Security Rules
 
@@ -81,13 +89,59 @@ Run the full pipeline from the project root:
 python generate_data.py
 python evaluate.py
 python run_detections.py
+python run_behavioral_baseline.py
 python run_correlation.py
 streamlit run app.py
 ```
 
+## Final Demonstration Sequence
+
+1. Open **Overview** to show the alert totals, high-risk incident count, and Quick Demo incidents.
+2. Open **Algorithm Comparison** to show the five-method chart, the Hybrid voting rows, and the Original versus Behavioural-Enhanced comparison.
+3. Open **Shadow IT / Shadow AI** to show an unauthorized application alert.
+4. Open **Cloud Security** and filter to `Unknown IP` or `Create Access Key`.
+5. Open **Incidents** and select high-risk `INC-0139`; its reason includes `Behavioral Deviation (+5)`.
+6. Open **User Behaviour**, select `user_028`, and show current requests/uploads, historical baselines, deviation ratios, explanations, and linked incident-risk impact.
+
 ## Results
 
 Generated outputs include algorithm metrics, confusion matrices, hybrid predictions, a performance chart, security alerts, correlated incidents, and the trained Random Forest model. All values are calculated by the scripts; no metrics are manually entered.
+
+### Detection performance on the common 300-record holdout set
+
+| Method | Precision | Recall | F1-score | False Positive Rate |
+|---|---:|---:|---:|---:|
+| IQR | 0.9070 | 0.5200 | 0.6610 | 0.0178 |
+| K-Means | 1.0000 | 0.3600 | 0.5294 | 0.0000 |
+| Isolation Forest | 0.8519 | 0.6133 | 0.7132 | 0.0356 |
+| Random Forest | 0.8519 | 0.6133 | 0.7132 | 0.0356 |
+| Hybrid | 0.9216 | 0.6267 | 0.7460 | 0.0178 |
+
+### Original versus behavioural-enhanced system
+
+| System | Precision | Recall | F1-score | False Positive Rate |
+|---|---:|---:|---:|---:|
+| Original Hybrid | 0.9216 | 0.6267 | 0.7460 | 0.0178 |
+| Hybrid + Behavioural Baseline | 0.9216 | 0.6267 | 0.7460 | 0.0178 |
+
+With the tuned 3.5× threshold, the behavioural enhancement does not change the common-holdout prediction set. It preserves the original Hybrid metrics while still providing a separate explainable behavioural signal for incident prioritisation. See `README_TUNING_AND_EVALUATION.md` for the tested threshold and risk-weight comparisons.
+
+## Run with Docker
+
+Docker starts the complete existing pipeline inside the container, then exposes the Streamlit dashboard on port 8501.
+
+```powershell
+docker build -t saas-security-monitor .
+docker run --rm -p 8501:8501 saas-security-monitor
+```
+
+Or use Docker Compose:
+
+```powershell
+docker compose up --build
+```
+
+Open `http://localhost:8501` after the pipeline completes. Docker must be running before either command.
 
 ## Limitations
 

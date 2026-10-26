@@ -1,0 +1,1201 @@
+event_id,user_id,timestamp,requests,data_uploaded_mb,historical_request_baseline,historical_upload_baseline_mb,request_deviation_ratio,upload_deviation_ratio,behavioral_alert,behavioral_explanation
+SAAS-01075,user_025,2025-06-01T08:25:30,41,1.25,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00895,user_047,2025-06-01T08:33:02,64,784.71,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00298,user_030,2025-06-01T08:35:56,705,6.54,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01057,user_011,2025-06-01T08:55:58,53,4.09,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00316,user_011,2025-06-01T09:09:11,69,12.38,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01059,user_049,2025-06-01T09:36:59,604,3.51,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00494,user_043,2025-06-01T10:14:00,25,30.4,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01100,user_034,2025-06-01T11:07:30,59,3.93,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01054,user_044,2025-06-01T11:32:19,39,6.4,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01131,user_029,2025-06-01T12:35:50,65,11.46,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00874,user_049,2025-06-01T12:45:31,73,4.76,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01193,user_012,2025-06-01T12:52:26,56,755.0,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00420,user_049,2025-06-01T13:00:09,89,12.14,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01079,user_039,2025-06-01T13:13:49,49,4.44,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01005,user_034,2025-06-01T13:42:59,53,9.94,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01084,user_035,2025-06-01T13:51:38,62,4.61,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01133,user_039,2025-06-01T14:02:34,331,2.56,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01127,user_049,2025-06-01T14:14:30,83,3.04,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00559,user_008,2025-06-01T14:16:46,41,4.67,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00270,user_002,2025-06-01T14:26:52,45,15.66,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00536,user_004,2025-06-01T14:27:30,64,2.26,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00339,user_043,2025-06-01T14:38:22,60,4.12,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00887,user_034,2025-06-01T15:26:15,25,1.26,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01074,user_050,2025-06-01T15:50:44,71,0.78,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00938,user_028,2025-06-01T15:51:43,90,12.72,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01068,user_025,2025-06-01T15:54:03,44,225.92,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00621,user_038,2025-06-01T16:16:55,61,19.38,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00547,user_017,2025-06-01T16:22:50,71,15.79,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00538,user_028,2025-06-01T16:30:59,39,4.09,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00729,user_047,2025-06-01T17:15:54,52,5.05,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00474,user_022,2025-06-01T17:40:00,38,3.53,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00955,user_003,2025-06-01T17:52:33,88,7.21,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00433,user_026,2025-06-01T17:54:36,51,17.13,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00682,user_033,2025-06-01T22:36:12,49,9.6,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00810,user_041,2025-06-02T02:46:05,25,6.0,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00853,user_041,2025-06-02T08:23:43,69,10.48,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00520,user_036,2025-06-02T08:24:54,74,4.44,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00248,user_042,2025-06-02T08:28:24,43,11.17,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01175,user_046,2025-06-02T08:32:55,40,17.64,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00245,user_039,2025-06-02T08:41:50,53,602.05,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01011,user_009,2025-06-02T08:43:09,52,9.99,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00311,user_013,2025-06-02T08:46:43,53,4.74,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00999,user_031,2025-06-02T08:53:10,85,7.9,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01139,user_009,2025-06-02T09:15:52,45,13.11,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00919,user_025,2025-06-02T09:20:27,34,6.26,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00046,user_023,2025-06-02T09:25:23,78,7.81,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01155,user_050,2025-06-02T09:37:55,59,9.44,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00848,user_042,2025-06-02T09:47:08,73,623.71,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00363,user_034,2025-06-02T09:52:44,53,7.71,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00350,user_046,2025-06-02T10:05:19,55,12.25,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00485,user_031,2025-06-02T10:26:20,53,232.59,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00530,user_006,2025-06-02T10:58:15,68,6.99,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00054,user_027,2025-06-02T11:00:00,390,9.65,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00035,user_019,2025-06-02T11:27:47,81,7.05,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00357,user_004,2025-06-02T12:00:18,62,25.54,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01146,user_041,2025-06-02T12:18:33,58,6.71,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00204,user_038,2025-06-02T12:28:15,54,8.57,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00518,user_040,2025-06-02T12:30:28,53,9.87,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00304,user_034,2025-06-02T12:35:36,23,14.54,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01066,user_021,2025-06-02T12:50:29,74,8.68,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00345,user_016,2025-06-02T12:54:24,33,28.82,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00179,user_045,2025-06-02T13:17:27,47,12.72,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00841,user_049,2025-06-02T13:25:29,66,11.57,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00213,user_010,2025-06-02T14:02:06,93,8.82,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00492,user_030,2025-06-02T14:12:14,12,3.05,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01169,user_027,2025-06-02T14:26:23,53,32.45,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00738,user_022,2025-06-02T14:34:17,79,1.61,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00662,user_028,2025-06-02T14:42:32,24,11.98,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00883,user_040,2025-06-02T14:45:59,65,16.33,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00611,user_013,2025-06-02T14:46:24,43,4.84,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00787,user_050,2025-06-02T14:49:50,57,12.73,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00267,user_038,2025-06-02T15:05:27,69,8.16,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00466,user_040,2025-06-02T15:25:18,59,4.12,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00774,user_041,2025-06-02T15:42:40,21,11.92,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00579,user_002,2025-06-02T15:58:40,36,12.19,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00444,user_044,2025-06-02T16:00:10,44,1.36,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00470,user_024,2025-06-02T16:47:26,68,6.29,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00360,user_007,2025-06-02T16:54:27,34,3.53,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01082,user_032,2025-06-02T17:31:23,68,10.35,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00916,user_025,2025-06-02T17:32:13,39,9.97,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00196,user_031,2025-06-02T18:06:45,405,7.78,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00818,user_028,2025-06-02T18:08:39,60,7.79,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00768,user_049,2025-06-02T18:10:22,32,6.35,83.0,4.76,0.3855421686746988,1.334033613445378,False,No significant deviation or insufficient prior history for this user.
+SAAS-00280,user_009,2025-06-02T18:10:25,67,847.4,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00493,user_007,2025-06-02T18:28:59,43,9.36,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00616,user_047,2025-06-02T18:55:19,54,3.77,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00141,user_004,2025-06-03T08:01:07,38,4.93,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00368,user_043,2025-06-03T08:14:03,45,2.85,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00803,user_041,2025-06-03T08:25:40,31,8.29,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00858,user_025,2025-06-03T08:41:26,92,1.57,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00239,user_017,2025-06-03T08:50:35,51,0.93,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00585,user_044,2025-06-03T09:33:39,54,15.12,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00437,user_029,2025-06-03T10:15:48,50,6.37,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01191,user_042,2025-06-03T10:16:00,43,3.54,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00007,user_027,2025-06-03T10:27:09,73,4.35,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00498,user_029,2025-06-03T11:43:53,41,3.05,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01106,user_023,2025-06-03T11:44:42,69,26.18,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00370,user_041,2025-06-03T11:50:16,70,6.86,31.0,8.29,2.2580645161290325,0.8275030156815442,False,No significant deviation or insufficient prior history for this user.
+SAAS-00728,user_047,2025-06-03T12:31:34,40,7.44,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00601,user_008,2025-06-03T12:34:06,492,2.49,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00073,user_010,2025-06-03T12:48:30,50,0.46,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00519,user_040,2025-06-03T12:59:14,48,13.27,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00002,user_035,2025-06-03T13:45:35,42,20.66,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00055,user_042,2025-06-03T13:49:28,50,12.36,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00380,user_041,2025-06-03T14:39:28,60,14.55,44.5,7.574999999999999,1.348314606741573,1.9207920792079212,False,No significant deviation or insufficient prior history for this user.
+SAAS-00356,user_035,2025-06-03T15:02:16,58,30.76,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01065,user_037,2025-06-03T15:08:59,76,3.68,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00527,user_026,2025-06-03T15:12:04,11,16.84,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00390,user_027,2025-06-03T15:30:27,40,15.07,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00172,user_021,2025-06-03T15:43:11,75,7.17,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00990,user_011,2025-06-03T16:01:59,65,10.77,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00896,user_037,2025-06-03T16:09:08,29,9.78,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00619,user_001,2025-06-03T16:16:46,42,17.1,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00202,user_039,2025-06-03T16:16:58,63,13.64,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00452,user_029,2025-06-03T16:32:56,50,1.95,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00700,user_030,2025-06-03T16:33:04,43,4.37,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00460,user_041,2025-06-03T16:45:06,31,16.9,58.0,8.29,0.5344827586206896,2.0386007237635706,False,No significant deviation or insufficient prior history for this user.
+SAAS-00765,user_010,2025-06-03T16:45:19,69,6.49,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00183,user_037,2025-06-03T16:50:56,59,14.08,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00012,user_002,2025-06-03T17:00:46,52,23.2,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00192,user_033,2025-06-03T17:03:34,63,8.04,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00762,user_046,2025-06-03T17:03:57,58,13.26,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00211,user_025,2025-06-03T17:06:35,41,4.58,41.0,6.26,1.0,0.7316293929712461,False,No significant deviation or insufficient prior history for this user.
+SAAS-00167,user_031,2025-06-03T17:28:37,16,6.1,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00570,user_045,2025-06-03T17:55:16,52,12.26,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00749,user_008,2025-06-03T17:58:36,42,3.27,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00592,user_036,2025-06-03T18:09:51,68,3.2,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00005,user_039,2025-06-03T18:36:58,33,2.94,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00484,user_005,2025-06-03T18:39:31,30,7.0,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00786,user_024,2025-06-03T18:47:40,27,6.22,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00911,user_038,2025-06-04T04:47:57,44,7.1,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00756,user_046,2025-06-04T04:53:21,42,11.32,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00488,user_038,2025-06-04T08:02:35,35,14.47,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01044,user_024,2025-06-04T08:11:56,41,6.04,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00994,user_042,2025-06-04T08:21:06,28,3.58,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00824,user_013,2025-06-04T08:36:07,67,1.3,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00725,user_022,2025-06-04T08:38:41,35,12.71,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00290,user_033,2025-06-04T08:51:57,54,4.7,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01055,user_004,2025-06-04T09:03:26,50,7.09,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00525,user_025,2025-06-04T09:04:56,64,1.38,41.0,5.42,1.5609756097560976,0.25461254612546125,False,No significant deviation or insufficient prior history for this user.
+SAAS-00244,user_012,2025-06-04T09:11:45,83,5.69,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00563,user_010,2025-06-04T09:14:17,73,10.35,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00372,user_010,2025-06-04T09:31:21,42,7.19,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00683,user_035,2025-06-04T09:40:07,89,6.05,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00489,user_020,2025-06-04T09:41:59,33,2.43,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00269,user_028,2025-06-04T09:55:22,22,23.33,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01058,user_041,2025-06-04T10:41:50,65,13.61,44.5,9.385,1.4606741573033708,1.4501864677677143,False,No significant deviation or insufficient prior history for this user.
+SAAS-00397,user_027,2025-06-04T10:52:08,74,13.25,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00001,user_020,2025-06-04T11:09:18,20,11.73,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00922,user_019,2025-06-04T11:25:01,46,6.6,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01012,user_040,2025-06-04T11:34:51,76,8.53,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00115,user_009,2025-06-04T11:40:59,38,4.51,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00138,user_006,2025-06-04T12:03:38,73,6.61,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00504,user_016,2025-06-04T12:25:48,37,3.09,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00036,user_031,2025-06-04T12:27:59,38,8.78,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00554,user_015,2025-06-04T12:30:05,35,9.84,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01028,user_028,2025-06-04T13:02:29,58,5.42,39.0,11.98,1.4871794871794872,0.4524207011686143,False,No significant deviation or insufficient prior history for this user.
+SAAS-01124,user_003,2025-06-04T13:28:11,70,2.48,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00523,user_036,2025-06-04T14:20:36,70,7.9,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00861,user_031,2025-06-04T14:35:22,33,21.26,53.0,7.9,0.6226415094339622,2.6911392405063292,False,No significant deviation or insufficient prior history for this user.
+SAAS-00476,user_024,2025-06-04T14:59:38,55,22.04,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01053,user_027,2025-06-04T15:00:18,47,25.49,73.0,13.25,0.6438356164383562,1.9237735849056603,False,No significant deviation or insufficient prior history for this user.
+SAAS-01067,user_026,2025-06-04T15:00:41,35,12.46,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00851,user_006,2025-06-04T15:03:27,647,18.55,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00603,user_008,2025-06-04T15:04:47,38,10.18,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00164,user_041,2025-06-04T15:11:35,35,1.27,58.0,10.48,0.603448275862069,0.12118320610687022,False,No significant deviation or insufficient prior history for this user.
+SAAS-00767,user_030,2025-06-04T15:45:53,49,21.03,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00813,user_038,2025-06-04T15:52:07,82,9.66,54.0,8.57,1.5185185185185186,1.1271878646441074,False,No significant deviation or insufficient prior history for this user.
+SAAS-00048,user_019,2025-06-04T16:05:20,73,34.71,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00326,user_042,2025-06-04T16:59:10,560,9.26,43.0,11.17,13.023255813953488,0.829006266786034,True,Requests 560 vs historical median 43.00 (13.02x).
+SAAS-01035,user_047,2025-06-04T17:00:25,85,4.18,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01056,user_034,2025-06-04T17:24:58,52,11.96,53.0,7.71,0.9811320754716981,1.5512321660181583,False,No significant deviation or insufficient prior history for this user.
+SAAS-00524,user_037,2025-06-04T17:41:20,47,12.4,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00600,user_007,2025-06-04T18:34:27,42,9.6,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00686,user_044,2025-06-04T18:45:54,63,2.28,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00085,user_042,2025-06-04T18:47:18,58,9.17,46.5,10.215,1.2473118279569892,0.8976994615761136,False,No significant deviation or insufficient prior history for this user.
+SAAS-00331,user_047,2025-06-05T04:49:16,46,23.27,54.0,5.05,0.8518518518518519,4.607920792079208,True,Upload 23.27 MB vs historical median 5.05 MB (4.61x).
+SAAS-00722,user_005,2025-06-05T08:07:22,68,13.12,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00790,user_010,2025-06-05T08:09:06,75,12.48,69.0,7.19,1.0869565217391304,1.7357440890125173,False,No significant deviation or insufficient prior history for this user.
+SAAS-00509,user_002,2025-06-05T08:40:10,73,6.2,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00014,user_042,2025-06-05T09:22:33,34,32.51,50.0,9.26,0.68,3.510799136069114,True,Upload 32.51 MB vs historical median 9.26 MB (3.51x).
+SAAS-00457,user_018,2025-06-05T09:59:28,90,3.08,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00113,user_047,2025-06-05T10:11:44,44,5.64,53.0,6.245,0.8301886792452831,0.9031224979983986,False,No significant deviation or insufficient prior history for this user.
+SAAS-00510,user_022,2025-06-05T10:12:19,59,27.6,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01177,user_036,2025-06-05T10:17:41,36,11.8,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00421,user_030,2025-06-05T10:18:20,68,8.04,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00879,user_043,2025-06-05T10:41:30,37,7.88,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00406,user_006,2025-06-05T11:01:40,57,6.16,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00482,user_028,2025-06-05T11:24:31,70,31.01,48.5,9.885,1.443298969072165,3.137076378351037,False,No significant deviation or insufficient prior history for this user.
+SAAS-00983,user_050,2025-06-05T11:26:08,58,18.44,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01034,user_050,2025-06-05T11:35:59,37,5.16,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00973,user_050,2025-06-05T12:19:19,51,6.75,58.0,9.44,0.8793103448275862,0.715042372881356,False,No significant deviation or insufficient prior history for this user.
+SAAS-00671,user_009,2025-06-05T12:36:45,44,23.04,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00451,user_034,2025-06-05T12:43:49,59,2.26,52.5,8.825,1.1238095238095238,0.25609065155807365,False,No significant deviation or insufficient prior history for this user.
+SAAS-00812,user_001,2025-06-05T12:49:30,75,15.52,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00143,user_036,2025-06-05T13:04:10,40,8.09,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00704,user_017,2025-06-05T13:08:55,38,2.67,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00342,user_011,2025-06-05T13:18:38,44,28.4,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00321,user_003,2025-06-05T13:32:09,630,6.65,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00162,user_004,2025-06-05T13:36:13,35,18.15,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01013,user_010,2025-06-05T13:38:37,48,2.11,71.0,8.005,0.676056338028169,0.26358525921299186,False,No significant deviation or insufficient prior history for this user.
+SAAS-00066,user_017,2025-06-05T13:43:58,69,5.28,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00090,user_008,2025-06-05T14:21:54,66,7.42,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00996,user_014,2025-06-05T14:39:21,57,4.4,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00076,user_035,2025-06-05T14:40:06,26,8.79,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00750,user_028,2025-06-05T14:55:00,45,12.62,58.0,11.98,0.7758620689655172,1.053422370617696,False,No significant deviation or insufficient prior history for this user.
+SAAS-00231,user_044,2025-06-05T15:04:31,47,15.81,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01188,user_038,2025-06-05T15:35:31,40,16.87,57.5,9.115,0.6956521739130435,1.850795392210642,False,No significant deviation or insufficient prior history for this user.
+SAAS-01043,user_002,2025-06-05T16:22:17,45,6.84,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00953,user_031,2025-06-05T16:35:25,52,32.36,45.5,8.34,1.1428571428571428,3.8800959232613907,True,Upload 32.36 MB vs historical median 8.34 MB (3.88x).
+SAAS-00124,user_048,2025-06-05T16:38:26,76,8.57,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00531,user_035,2025-06-05T17:13:33,73,12.67,58.0,8.79,1.2586206896551724,1.441410693970421,False,No significant deviation or insufficient prior history for this user.
+SAAS-00221,user_036,2025-06-05T17:45:38,647,2.99,68.0,7.9,9.514705882352942,0.37848101265822787,True,Requests 647 vs historical median 68.00 (9.51x).
+SAAS-00694,user_022,2025-06-05T17:53:50,46,15.05,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00340,user_020,2025-06-05T18:07:42,91,7.29,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01163,user_002,2025-06-05T18:17:21,74,14.4,45.0,12.19,1.6444444444444444,1.18129614438064,False,No significant deviation or insufficient prior history for this user.
+SAAS-00354,user_008,2025-06-05T18:19:48,80,14.34,42.0,4.67,1.9047619047619047,3.0706638115631693,False,No significant deviation or insufficient prior history for this user.
+SAAS-00741,user_034,2025-06-05T18:55:45,38,31.38,53.0,7.71,0.7169811320754716,4.070038910505836,True,Upload 31.38 MB vs historical median 7.71 MB (4.07x).
+SAAS-00094,user_034,2025-06-06T00:30:56,39,1.62,52.5,8.825,0.7428571428571429,0.18356940509915018,False,No significant deviation or insufficient prior history for this user.
+SAAS-00151,user_026,2025-06-06T04:25:21,73,1.58,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00613,user_035,2025-06-06T08:13:27,45,12.65,60.0,10.73,0.75,1.1789375582479031,False,No significant deviation or insufficient prior history for this user.
+SAAS-00464,user_039,2025-06-06T08:18:30,63,10.24,53.0,4.44,1.1886792452830188,2.3063063063063063,False,No significant deviation or insufficient prior history for this user.
+SAAS-00190,user_036,2025-06-06T08:24:23,68,5.21,69.0,6.17,0.9855072463768116,0.8444084278768234,False,No significant deviation or insufficient prior history for this user.
+SAAS-00256,user_034,2025-06-06T08:37:40,68,12.9,52.0,7.71,1.3076923076923077,1.6731517509727627,False,No significant deviation or insufficient prior history for this user.
+SAAS-01008,user_047,2025-06-06T08:45:33,43,13.05,52.0,5.64,0.8269230769230769,2.313829787234043,False,No significant deviation or insufficient prior history for this user.
+SAAS-00352,user_033,2025-06-06T08:56:16,53,3.77,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01152,user_010,2025-06-06T08:58:53,55,3.71,69.0,7.19,0.7971014492753623,0.5159944367176634,False,No significant deviation or insufficient prior history for this user.
+SAAS-00890,user_011,2025-06-06T09:00:28,92,4.73,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00505,user_023,2025-06-06T09:08:47,59,21.15,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00119,user_005,2025-06-06T09:11:33,30,2.11,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00873,user_009,2025-06-06T09:43:38,39,5.07,45.0,13.11,0.8666666666666667,0.3867276887871854,False,No significant deviation or insufficient prior history for this user.
+SAAS-00557,user_016,2025-06-06T09:45:15,47,1.75,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00026,user_001,2025-06-06T09:46:56,36,3.16,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00821,user_007,2025-06-06T09:48:07,54,1.72,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00287,user_025,2025-06-06T09:48:49,49,6.36,41.0,4.58,1.1951219512195121,1.3886462882096071,False,No significant deviation or insufficient prior history for this user.
+SAAS-00713,user_042,2025-06-06T10:14:03,64,32.91,46.5,10.215,1.3763440860215055,3.2217327459618206,False,No significant deviation or insufficient prior history for this user.
+SAAS-01001,user_047,2025-06-06T10:15:12,91,654.69,49.0,6.54,1.8571428571428572,100.10550458715598,True,Upload 654.69 MB vs historical median 6.54 MB (100.11x).
+SAAS-00648,user_029,2025-06-06T10:20:00,70,13.56,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00655,user_041,2025-06-06T10:36:31,28,20.2,46.5,9.385,0.6021505376344086,2.1523708044752263,False,No significant deviation or insufficient prior history for this user.
+SAAS-01070,user_036,2025-06-06T10:45:12,58,484.35,68.0,5.21,0.8529411764705882,92.9654510556622,True,Upload 484.35 MB vs historical median 5.21 MB (92.97x).
+SAAS-00278,user_024,2025-06-06T10:49:22,72,7.0,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00018,user_018,2025-06-06T10:55:31,53,7.27,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00791,user_050,2025-06-06T11:12:13,70,1.29,57.5,8.094999999999999,1.2173913043478262,0.1593576281655343,False,No significant deviation or insufficient prior history for this user.
+SAAS-00328,user_040,2025-06-06T11:41:09,53,4.4,59.0,9.87,0.8983050847457628,0.44579533941236077,False,No significant deviation or insufficient prior history for this user.
+SAAS-00145,user_045,2025-06-06T11:45:12,41,4.57,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00490,user_034,2025-06-06T12:04:08,31,9.21,52.5,8.825,0.5904761904761905,1.0436260623229463,False,No significant deviation or insufficient prior history for this user.
+SAAS-00105,user_006,2025-06-06T12:26:49,43,17.3,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00558,user_026,2025-06-06T12:45:20,50,4.41,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00633,user_020,2025-06-06T12:55:38,64,2.06,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00775,user_044,2025-06-06T13:07:51,39,1.71,47.0,6.4,0.8297872340425532,0.26718749999999997,False,No significant deviation or insufficient prior history for this user.
+SAAS-01174,user_016,2025-06-06T13:32:21,34,2.25,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00182,user_043,2025-06-06T14:08:01,58,4.01,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01128,user_039,2025-06-06T14:15:16,47,25.45,58.0,7.34,0.8103448275862069,3.4673024523160763,False,No significant deviation or insufficient prior history for this user.
+SAAS-00237,user_041,2025-06-06T14:34:08,72,3.54,35.0,10.48,2.057142857142857,0.3377862595419847,False,No significant deviation or insufficient prior history for this user.
+SAAS-00333,user_047,2025-06-06T14:36:47,42,585.37,52.0,7.44,0.8076923076923077,78.67876344086021,True,Upload 585.37 MB vs historical median 7.44 MB (78.68x).
+SAAS-00659,user_027,2025-06-06T14:53:57,677,5.77,63.0,14.16,10.746031746031745,0.40748587570621464,True,Requests 677 vs historical median 63.00 (10.75x).
+SAAS-00222,user_036,2025-06-06T15:05:29,53,3.54,68.0,6.555,0.7794117647058824,0.540045766590389,False,No significant deviation or insufficient prior history for this user.
+SAAS-00216,user_004,2025-06-06T15:15:18,51,3.85,50.0,7.09,1.02,0.5430183356840621,False,No significant deviation or insufficient prior history for this user.
+SAAS-00249,user_032,2025-06-06T15:17:47,39,559.73,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00555,user_009,2025-06-06T15:53:13,50,519.55,44.5,11.55,1.1235955056179776,44.98268398268397,True,Upload 519.55 MB vs historical median 11.55 MB (44.98x).
+SAAS-01020,user_047,2025-06-06T15:58:29,53,8.74,49.0,10.245000000000001,1.0816326530612246,0.8530990727183991,False,No significant deviation or insufficient prior history for this user.
+SAAS-00408,user_015,2025-06-06T17:01:01,60,23.16,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00305,user_006,2025-06-06T17:09:01,68,9.82,68.0,6.99,1.0,1.4048640915593704,False,No significant deviation or insufficient prior history for this user.
+SAAS-00794,user_049,2025-06-06T17:32:01,57,5.11,78.0,5.555,0.7307692307692307,0.91989198919892,False,No significant deviation or insufficient prior history for this user.
+SAAS-01085,user_040,2025-06-06T17:35:50,43,9.02,56.0,9.2,0.7678571428571429,0.9804347826086957,False,No significant deviation or insufficient prior history for this user.
+SAAS-00240,user_016,2025-06-06T18:58:15,42,28.77,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00412,user_015,2025-06-07T04:18:44,32,12.06,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00820,user_021,2025-06-07T08:17:35,71,11.19,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00583,user_024,2025-06-07T08:28:40,55,4.0,55.0,6.29,1.0,0.6359300476947536,False,No significant deviation or insufficient prior history for this user.
+SAAS-00770,user_003,2025-06-07T08:45:22,53,7.64,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00897,user_020,2025-06-07T09:27:28,463,3.14,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00771,user_017,2025-06-07T09:44:29,24,5.12,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00160,user_017,2025-06-07T09:45:59,48,11.7,51.0,5.12,0.9411764705882353,2.28515625,False,No significant deviation or insufficient prior history for this user.
+SAAS-00282,user_020,2025-06-07T10:29:33,51,12.96,64.0,3.14,0.796875,4.127388535031847,True,Upload 12.96 MB vs historical median 3.14 MB (4.13x).
+SAAS-01134,user_033,2025-06-07T10:32:37,74,6.45,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00432,user_026,2025-06-07T10:36:11,83,9.77,50.0,12.46,1.66,0.7841091492776885,False,No significant deviation or insufficient prior history for this user.
+SAAS-00289,user_041,2025-06-07T11:10:33,98,3.05,46.5,9.385,2.10752688172043,0.32498668087373467,False,No significant deviation or insufficient prior history for this user.
+SAAS-00122,user_021,2025-06-07T11:11:47,51,5.56,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00146,user_050,2025-06-07T11:20:33,761,27.98,58.0,6.75,13.120689655172415,4.145185185185185,True,Requests 761 vs historical median 58.00 (13.12x). Upload 27.98 MB vs historical median 6.75 MB (4.15x).
+SAAS-00148,user_035,2025-06-07T11:26:49,46,7.87,58.0,12.65,0.7931034482758621,0.6221343873517786,False,No significant deviation or insufficient prior history for this user.
+SAAS-00461,user_049,2025-06-07T11:31:41,32,7.19,73.0,5.11,0.4383561643835616,1.4070450097847358,False,No significant deviation or insufficient prior history for this user.
+SAAS-00914,user_001,2025-06-07T11:38:30,72,4.81,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00317,user_005,2025-06-07T12:01:29,36,886.52,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00862,user_010,2025-06-07T12:26:04,55,7.67,62.0,6.84,0.8870967741935484,1.1213450292397662,False,No significant deviation or insufficient prior history for this user.
+SAAS-00473,user_014,2025-06-07T12:48:08,68,5.31,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00233,user_005,2025-06-07T13:32:46,46,23.82,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00960,user_047,2025-06-07T13:51:10,89,5.72,52.0,8.74,1.7115384615384615,0.6544622425629291,False,No significant deviation or insufficient prior history for this user.
+SAAS-00194,user_046,2025-06-07T14:09:42,35,20.58,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00597,user_003,2025-06-07T14:12:07,61,3.5,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00006,user_048,2025-06-07T14:25:05,24,3.78,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00175,user_011,2025-06-07T14:37:28,56,5.58,65.0,10.77,0.8615384615384616,0.5181058495821728,False,No significant deviation or insufficient prior history for this user.
+SAAS-00096,user_024,2025-06-07T15:38:36,96,19.2,55.0,6.255,1.7454545454545454,3.0695443645083933,False,No significant deviation or insufficient prior history for this user.
+SAAS-01010,user_043,2025-06-07T16:04:23,61,16.49,45.0,4.12,1.3555555555555556,4.002427184466019,True,Upload 16.49 MB vs historical median 4.12 MB (4.00x).
+SAAS-00301,user_006,2025-06-07T16:41:14,48,3.53,68.0,8.405000000000001,0.7058823529411765,0.4199881023200475,False,No significant deviation or insufficient prior history for this user.
+SAAS-01199,user_016,2025-06-07T16:48:24,63,10.27,37.0,3.09,1.7027027027027026,3.323624595469256,False,No significant deviation or insufficient prior history for this user.
+SAAS-00972,user_014,2025-06-07T18:06:39,44,8.3,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00315,user_002,2025-06-07T18:07:52,48,5.4,48.5,13.295,0.9896907216494846,0.4061677322301617,False,No significant deviation or insufficient prior history for this user.
+SAAS-00116,user_041,2025-06-08T08:25:59,55,16.35,58.0,8.29,0.9482758620689655,1.9722557297949341,False,No significant deviation or insufficient prior history for this user.
+SAAS-01080,user_029,2025-06-08T08:33:23,111,9.39,50.0,6.37,2.22,1.4740973312401884,False,No significant deviation or insufficient prior history for this user.
+SAAS-00967,user_006,2025-06-08T08:34:31,45,17.86,68.0,6.99,0.6617647058823529,2.5550786838340485,False,No significant deviation or insufficient prior history for this user.
+SAAS-00431,user_035,2025-06-08T09:00:30,66,4.16,52.0,10.719999999999999,1.2692307692307692,0.3880597014925374,False,No significant deviation or insufficient prior history for this user.
+SAAS-00870,user_033,2025-06-08T09:07:55,43,6.8,54.0,6.45,0.7962962962962963,1.0542635658914727,False,No significant deviation or insufficient prior history for this user.
+SAAS-01030,user_045,2025-06-08T09:19:44,40,22.27,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01016,user_040,2025-06-08T09:24:43,41,4.81,53.0,9.02,0.7735849056603774,0.5332594235033259,False,No significant deviation or insufficient prior history for this user.
+SAAS-00043,user_012,2025-06-08T09:34:52,75,5.66,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00475,user_018,2025-06-08T09:37:40,21,3.4,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00752,user_009,2025-06-08T09:42:29,32,8.44,45.0,13.11,0.7111111111111111,0.6437833714721587,False,No significant deviation or insufficient prior history for this user.
+SAAS-01072,user_027,2025-06-08T09:47:56,63,33.91,73.0,13.25,0.863013698630137,2.5592452830188677,False,No significant deviation or insufficient prior history for this user.
+SAAS-00025,user_024,2025-06-08T09:49:05,67,14.8,55.0,6.29,1.2181818181818183,2.3529411764705883,False,No significant deviation or insufficient prior history for this user.
+SAAS-00373,user_005,2025-06-08T10:21:43,61,3.63,36.0,13.12,1.6944444444444444,0.2766768292682927,False,No significant deviation or insufficient prior history for this user.
+SAAS-00971,user_031,2025-06-08T10:27:07,63,711.74,52.0,8.78,1.2115384615384615,81.06378132118452,True,Upload 711.74 MB vs historical median 8.78 MB (81.06x).
+SAAS-00632,user_007,2025-06-08T10:56:46,68,2.56,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00123,user_014,2025-06-08T11:08:01,64,9.38,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00535,user_031,2025-06-08T11:16:08,44,9.62,52.5,15.02,0.8380952380952381,0.640479360852197,False,No significant deviation or insufficient prior history for this user.
+SAAS-01147,user_015,2025-06-08T11:17:40,29,11.19,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00279,user_015,2025-06-08T11:49:52,80,9.29,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01125,user_012,2025-06-08T12:01:48,38,3.3,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00912,user_028,2025-06-08T12:25:19,54,8.13,51.5,12.3,1.0485436893203883,0.6609756097560976,False,No significant deviation or insufficient prior history for this user.
+SAAS-00939,user_040,2025-06-08T12:54:09,69,6.87,53.0,8.774999999999999,1.3018867924528301,0.782905982905983,False,No significant deviation or insufficient prior history for this user.
+SAAS-00300,user_026,2025-06-08T13:08:28,35,8.47,50.5,11.115,0.693069306930693,0.7620332883490779,False,No significant deviation or insufficient prior history for this user.
+SAAS-00478,user_047,2025-06-08T13:08:50,51,9.24,52.5,8.09,0.9714285714285714,1.142150803461063,False,No significant deviation or insufficient prior history for this user.
+SAAS-00472,user_026,2025-06-08T13:25:30,65,7.12,50.0,9.77,1.3,0.7287615148413511,False,No significant deviation or insufficient prior history for this user.
+SAAS-00944,user_016,2025-06-08T13:41:02,49,13.95,39.5,6.68,1.240506329113924,2.088323353293413,False,No significant deviation or insufficient prior history for this user.
+SAAS-00067,user_020,2025-06-08T13:49:58,66,11.2,57.5,5.215,1.1478260869565218,2.1476510067114094,False,No significant deviation or insufficient prior history for this user.
+SAAS-00901,user_031,2025-06-08T14:00:01,8,8.64,52.0,9.62,0.15384615384615385,0.8981288981288983,False,No significant deviation or insufficient prior history for this user.
+SAAS-01114,user_040,2025-06-08T14:03:18,70,11.41,53.0,8.53,1.320754716981132,1.3376318874560376,False,No significant deviation or insufficient prior history for this user.
+SAAS-00970,user_011,2025-06-08T14:04:15,31,5.4,60.5,8.175,0.512396694214876,0.6605504587155964,False,No significant deviation or insufficient prior history for this user.
+SAAS-00948,user_023,2025-06-08T14:28:19,44,2.14,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00888,user_004,2025-06-08T14:31:52,50,3.74,50.5,6.01,0.9900990099009901,0.6222961730449251,False,No significant deviation or insufficient prior history for this user.
+SAAS-00265,user_028,2025-06-08T14:41:59,59,14.45,54.0,11.98,1.0925925925925926,1.206176961602671,False,No significant deviation or insufficient prior history for this user.
+SAAS-00071,user_040,2025-06-08T15:09:26,16,8.97,56.0,8.774999999999999,0.2857142857142857,1.0222222222222224,False,No significant deviation or insufficient prior history for this user.
+SAAS-00868,user_036,2025-06-08T15:12:21,54,4.4,68.0,5.21,0.7941176470588235,0.8445297504798466,False,No significant deviation or insufficient prior history for this user.
+SAAS-00785,user_024,2025-06-08T15:34:09,58,3.9,61.0,6.645,0.9508196721311475,0.5869074492099323,False,No significant deviation or insufficient prior history for this user.
+SAAS-00596,user_017,2025-06-08T15:38:57,80,13.61,49.5,5.2,1.6161616161616161,2.617307692307692,False,No significant deviation or insufficient prior history for this user.
+SAAS-00027,user_044,2025-06-08T16:08:16,61,9.33,45.5,4.34,1.3406593406593406,2.1497695852534564,False,No significant deviation or insufficient prior history for this user.
+SAAS-00815,user_019,2025-06-08T16:13:49,63,7.75,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00364,user_019,2025-06-08T16:29:49,59,16.27,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00545,user_047,2025-06-08T16:49:16,79,16.22,52.0,8.74,1.5192307692307692,1.8558352402745995,False,No significant deviation or insufficient prior history for this user.
+SAAS-01117,user_035,2025-06-08T17:02:03,44,10.4,58.0,8.79,0.7586206896551724,1.1831626848691696,False,No significant deviation or insufficient prior history for this user.
+SAAS-00706,user_037,2025-06-08T17:14:16,42,3.95,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00112,user_044,2025-06-08T17:36:37,22,3.88,47.0,6.4,0.46808510638297873,0.60625,False,No significant deviation or insufficient prior history for this user.
+SAAS-00702,user_015,2025-06-08T18:20:17,36,8.06,35.0,11.19,1.0285714285714285,0.7202859696157284,False,No significant deviation or insufficient prior history for this user.
+SAAS-00880,user_024,2025-06-08T18:29:26,44,2.79,58.0,6.29,0.7586206896551724,0.4435612082670906,False,No significant deviation or insufficient prior history for this user.
+SAAS-01196,user_049,2025-06-08T18:30:11,45,17.17,69.5,5.73,0.6474820143884892,2.9965095986038395,False,No significant deviation or insufficient prior history for this user.
+SAAS-00434,user_043,2025-06-08T18:30:37,48,13.25,51.5,6.0,0.9320388349514563,2.2083333333333335,False,No significant deviation or insufficient prior history for this user.
+SAAS-00158,user_022,2025-06-09T04:38:24,62,11.1,46.0,12.71,1.3478260869565217,0.8733280881195908,False,No significant deviation or insufficient prior history for this user.
+SAAS-00925,user_007,2025-06-09T08:45:00,65,1.39,43.0,3.53,1.5116279069767442,0.3937677053824363,False,No significant deviation or insufficient prior history for this user.
+SAAS-00200,user_045,2025-06-09T08:55:29,82,8.96,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00954,user_014,2025-06-09T08:58:42,82,24.32,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00374,user_017,2025-06-09T09:06:52,67,14.18,51.0,5.28,1.3137254901960784,2.6856060606060606,False,No significant deviation or insufficient prior history for this user.
+SAAS-00761,user_006,2025-06-09T09:07:35,31,3.99,62.5,8.405000000000001,0.496,0.47471743010113027,False,No significant deviation or insufficient prior history for this user.
+SAAS-00088,user_005,2025-06-09T09:51:12,88,11.27,41.0,10.059999999999999,2.1463414634146343,1.1202783300198809,False,No significant deviation or insufficient prior history for this user.
+SAAS-00871,user_049,2025-06-09T10:08:22,52,6.24,66.0,6.35,0.7878787878787878,0.9826771653543308,False,No significant deviation or insufficient prior history for this user.
+SAAS-00207,user_016,2025-06-09T10:09:55,103,9.84,42.0,10.27,2.4523809523809526,0.958130477117819,False,No significant deviation or insufficient prior history for this user.
+SAAS-01038,user_019,2025-06-09T10:25:06,28,10.27,63.0,7.75,0.4444444444444444,1.3251612903225807,False,No significant deviation or insufficient prior history for this user.
+SAAS-00751,user_003,2025-06-09T10:25:43,46,661.46,70.0,6.65,0.6571428571428571,99.46766917293233,True,Upload 661.46 MB vs historical median 6.65 MB (99.47x).
+SAAS-00136,user_037,2025-06-09T10:32:31,46,29.41,47.0,9.78,0.9787234042553191,3.0071574642126793,False,No significant deviation or insufficient prior history for this user.
+SAAS-00093,user_019,2025-06-09T10:39:10,69,13.72,61.0,9.01,1.1311475409836065,1.5227524972253053,False,No significant deviation or insufficient prior history for this user.
+SAAS-01102,user_016,2025-06-09T10:44:50,77,14.68,44.5,10.055,1.7303370786516854,1.459970164097464,False,No significant deviation or insufficient prior history for this user.
+SAAS-01190,user_035,2025-06-09T11:05:17,62,2.93,52.0,9.594999999999999,1.1923076923076923,0.3053673788431475,False,No significant deviation or insufficient prior history for this user.
+SAAS-00155,user_038,2025-06-09T11:15:40,46,11.72,54.0,9.66,0.8518518518518519,1.2132505175983437,False,No significant deviation or insufficient prior history for this user.
+SAAS-00959,user_013,2025-06-09T11:20:10,68,5.6,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00715,user_016,2025-06-09T11:22:41,65,4.4,47.0,10.27,1.3829787234042554,0.4284323271665044,False,No significant deviation or insufficient prior history for this user.
+SAAS-01086,user_027,2025-06-09T11:27:33,44,10.23,68.0,14.16,0.6470588235294118,0.7224576271186441,False,No significant deviation or insufficient prior history for this user.
+SAAS-01099,user_017,2025-06-09T11:55:52,53,11.49,59.0,8.49,0.8983050847457628,1.353356890459364,False,No significant deviation or insufficient prior history for this user.
+SAAS-00707,user_030,2025-06-09T12:04:41,79,9.82,49.0,6.54,1.6122448979591837,1.5015290519877675,False,No significant deviation or insufficient prior history for this user.
+SAAS-00945,user_019,2025-06-09T12:07:21,36,7.46,63.0,10.27,0.5714285714285714,0.7263875365141188,False,No significant deviation or insufficient prior history for this user.
+SAAS-00020,user_047,2025-06-09T12:43:43,47,33.5,52.5,8.99,0.8952380952380953,3.726362625139043,True,Upload 33.50 MB vs historical median 8.99 MB (3.73x).
+SAAS-00565,user_029,2025-06-09T13:02:16,55,6.18,57.5,7.880000000000001,0.9565217391304348,0.7842639593908628,False,No significant deviation or insufficient prior history for this user.
+SAAS-00718,user_036,2025-06-09T13:20:01,38,9.48,63.0,4.825,0.6031746031746031,1.9647668393782383,False,No significant deviation or insufficient prior history for this user.
+SAAS-01064,user_034,2025-06-09T13:41:10,68,3.29,52.0,9.21,1.3076923076923077,0.3572204125950054,False,No significant deviation or insufficient prior history for this user.
+SAAS-00312,user_019,2025-06-09T13:45:16,45,15.24,61.0,9.01,0.7377049180327869,1.6914539400665927,False,No significant deviation or insufficient prior history for this user.
+SAAS-00934,user_016,2025-06-09T13:50:22,51,5.84,48.0,10.055,1.0625,0.5808055693684734,False,No significant deviation or insufficient prior history for this user.
+SAAS-01185,user_022,2025-06-09T14:10:20,33,21.78,52.5,11.905000000000001,0.6285714285714286,1.8294834103317932,False,No significant deviation or insufficient prior history for this user.
+SAAS-00740,user_044,2025-06-09T14:19:20,56,252.86,45.5,5.140000000000001,1.2307692307692308,49.19455252918288,True,Upload 252.86 MB vs historical median 5.14 MB (49.19x).
+SAAS-01179,user_011,2025-06-09T14:44:08,62,11.5,56.0,5.58,1.1071428571428572,2.060931899641577,False,No significant deviation or insufficient prior history for this user.
+SAAS-01076,user_021,2025-06-09T15:49:12,33,9.24,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00029,user_048,2025-06-09T15:58:31,45,10.44,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00508,user_017,2025-06-09T16:06:18,60,3.12,53.0,11.49,1.1320754716981132,0.27154046997389036,False,No significant deviation or insufficient prior history for this user.
+SAAS-00726,user_015,2025-06-09T16:08:47,58,8.15,35.5,10.515,1.6338028169014085,0.7750832144555397,False,No significant deviation or insufficient prior history for this user.
+SAAS-00587,user_043,2025-06-09T17:55:04,625,4.34,48.0,7.88,13.020833333333334,0.550761421319797,True,Requests 625 vs historical median 48.00 (13.02x).
+SAAS-00755,user_045,2025-06-09T18:12:42,70,481.34,47.0,12.26,1.4893617021276595,39.26101141924959,True,Upload 481.34 MB vs historical median 12.26 MB (39.26x).
+SAAS-01149,user_012,2025-06-09T18:15:52,35,18.3,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00264,user_027,2025-06-09T18:17:33,94,6.82,63.0,13.25,1.492063492063492,0.5147169811320755,False,No significant deviation or insufficient prior history for this user.
+SAAS-00260,user_039,2025-06-09T18:26:09,60,11.14,53.0,10.24,1.1320754716981132,1.087890625,False,No significant deviation or insufficient prior history for this user.
+SAAS-00522,user_036,2025-06-09T23:15:17,80,2.6,58.0,5.21,1.3793103448275863,0.4990403071017275,False,No significant deviation or insufficient prior history for this user.
+SAAS-00402,user_036,2025-06-10T01:21:31,28,6.27,63.0,4.825,0.4444444444444444,1.299481865284974,False,No significant deviation or insufficient prior history for this user.
+SAAS-01093,user_013,2025-06-10T03:46:41,42,17.32,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00804,user_050,2025-06-10T04:36:47,100,5.53,58.5,8.094999999999999,1.7094017094017093,0.683137739345275,False,No significant deviation or insufficient prior history for this user.
+SAAS-00529,user_004,2025-06-10T08:26:15,42,4.13,50.0,4.93,0.84,0.8377281947261663,False,No significant deviation or insufficient prior history for this user.
+SAAS-00836,user_045,2025-06-10T08:41:39,63,7.96,49.5,12.49,1.2727272727272727,0.6373098478783026,False,No significant deviation or insufficient prior history for this user.
+SAAS-00336,user_027,2025-06-10T08:45:45,49,6.77,68.0,11.74,0.7205882352941176,0.5766609880749574,False,No significant deviation or insufficient prior history for this user.
+SAAS-00177,user_004,2025-06-10T08:50:43,36,13.61,50.0,4.529999999999999,0.72,3.004415011037528,False,No significant deviation or insufficient prior history for this user.
+SAAS-00045,user_038,2025-06-10T09:01:08,17,3.57,50.0,10.690000000000001,0.34,0.33395696913002804,False,No significant deviation or insufficient prior history for this user.
+SAAS-00942,user_024,2025-06-10T09:01:20,69,2.96,56.5,6.255,1.2212389380530972,0.47322142286171065,False,No significant deviation or insufficient prior history for this user.
+SAAS-00227,user_050,2025-06-10T09:17:16,51,9.98,59.0,6.75,0.864406779661017,1.4785185185185186,False,No significant deviation or insufficient prior history for this user.
+SAAS-00835,user_001,2025-06-10T10:34:16,53,1.48,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00943,user_012,2025-06-10T10:49:54,32,11.42,56.0,5.69,0.5714285714285714,2.007029876977153,False,No significant deviation or insufficient prior history for this user.
+SAAS-00483,user_011,2025-06-10T10:55:03,388,9.12,59.0,8.175,6.576271186440678,1.1155963302752292,True,Requests 388 vs historical median 59.00 (6.58x).
+SAAS-00687,user_031,2025-06-10T11:04:07,96,3.39,48.0,9.2,2.0,0.36847826086956526,False,No significant deviation or insufficient prior history for this user.
+SAAS-01160,user_048,2025-06-10T11:06:55,58,8.21,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00781,user_011,2025-06-10T11:24:30,37,1.43,62.0,9.12,0.5967741935483871,0.1567982456140351,False,No significant deviation or insufficient prior history for this user.
+SAAS-00393,user_025,2025-06-10T11:35:51,74,24.42,42.5,5.42,1.7411764705882353,4.5055350553505535,True,Upload 24.42 MB vs historical median 5.42 MB (4.51x).
+SAAS-00998,user_005,2025-06-10T11:52:00,81,16.98,46.0,11.27,1.7608695652173914,1.5066548358473826,False,No significant deviation or insufficient prior history for this user.
+SAAS-00274,user_008,2025-06-10T11:53:55,17,9.8,54.0,6.045,0.3148148148148148,1.621174524400331,False,No significant deviation or insufficient prior history for this user.
+SAAS-00697,user_039,2025-06-10T11:58:59,54,1.95,56.5,10.690000000000001,0.9557522123893806,0.18241347053320858,False,No significant deviation or insufficient prior history for this user.
+SAAS-00668,user_047,2025-06-10T12:21:07,46,4.56,52.0,9.24,0.8846153846153846,0.49350649350649345,False,No significant deviation or insufficient prior history for this user.
+SAAS-00843,user_025,2025-06-10T12:37:35,84,9.57,44.0,6.26,1.9090909090909092,1.5287539936102237,False,No significant deviation or insufficient prior history for this user.
+SAAS-00106,user_012,2025-06-10T12:43:14,470,24.57,47.0,8.555,10.0,2.8720046756282875,True,Requests 470 vs historical median 47.00 (10.00x).
+SAAS-00102,user_020,2025-06-10T13:11:52,60,12.57,64.0,7.29,0.9375,1.7242798353909465,False,No significant deviation or insufficient prior history for this user.
+SAAS-00242,user_041,2025-06-10T13:55:32,37,5.7,56.5,9.385,0.6548672566371682,0.607352157698455,False,No significant deviation or insufficient prior history for this user.
+SAAS-00017,user_038,2025-06-10T14:03:55,46,751.42,46.0,9.66,1.0,77.78674948240165,True,Upload 751.42 MB vs historical median 9.66 MB (77.79x).
+SAAS-00208,user_014,2025-06-10T14:10:48,48,8.18,64.0,8.3,0.75,0.9855421686746987,False,No significant deviation or insufficient prior history for this user.
+SAAS-00392,user_006,2025-06-10T14:33:56,68,4.82,57.0,6.99,1.1929824561403508,0.6895565092989986,False,No significant deviation or insufficient prior history for this user.
+SAAS-00807,user_042,2025-06-10T14:40:40,65,7.27,50.0,11.17,1.3,0.6508504923903312,False,No significant deviation or insufficient prior history for this user.
+SAAS-00435,user_021,2025-06-10T14:46:53,62,6.1,71.0,8.68,0.8732394366197183,0.7027649769585254,False,No significant deviation or insufficient prior history for this user.
+SAAS-00830,user_006,2025-06-10T15:18:43,58,5.07,62.5,6.800000000000001,0.928,0.7455882352941177,False,No significant deviation or insufficient prior history for this user.
+SAAS-00210,user_007,2025-06-10T15:29:26,45,32.67,48.5,3.045,0.9278350515463918,10.729064039408868,True,Upload 32.67 MB vs historical median 3.04 MB (10.73x).
+SAAS-01170,user_021,2025-06-10T16:14:58,67,11.92,66.5,7.925,1.0075187969924813,1.5041009463722397,False,No significant deviation or insufficient prior history for this user.
+SAAS-00772,user_013,2025-06-10T16:20:55,715,11.79,53.0,4.84,13.49056603773585,2.43595041322314,True,Requests 715 vs historical median 53.00 (13.49x).
+SAAS-00263,user_001,2025-06-10T17:14:08,54,12.87,53.0,4.81,1.0188679245283019,2.675675675675676,False,No significant deviation or insufficient prior history for this user.
+SAAS-00773,user_031,2025-06-10T17:44:48,54,340.88,52.0,8.78,1.0384615384615385,38.8246013667426,True,Upload 340.88 MB vs historical median 8.78 MB (38.82x).
+SAAS-00137,user_021,2025-06-10T18:26:42,57,0.6,67.0,8.68,0.8507462686567164,0.06912442396313365,False,No significant deviation or insufficient prior history for this user.
+SAAS-00015,user_006,2025-06-10T18:36:04,60,5.69,58.0,6.61,1.0344827586206897,0.8608169440242057,False,No significant deviation or insufficient prior history for this user.
+SAAS-00246,user_032,2025-06-10T18:41:11,778,11.75,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01027,user_008,2025-06-11T01:47:25,45,3.84,42.0,7.42,1.0714285714285714,0.5175202156334232,False,No significant deviation or insufficient prior history for this user.
+SAAS-01173,user_011,2025-06-11T02:01:10,40,6.88,59.0,7.35,0.6779661016949152,0.9360544217687076,False,No significant deviation or insufficient prior history for this user.
+SAAS-00805,user_015,2025-06-11T08:44:32,19,13.76,36.0,9.84,0.5277777777777778,1.3983739837398375,False,No significant deviation or insufficient prior history for this user.
+SAAS-00209,user_004,2025-06-11T09:23:56,59,11.26,50.0,4.93,1.18,2.283975659229209,False,No significant deviation or insufficient prior history for this user.
+SAAS-00849,user_009,2025-06-11T09:49:11,44,21.61,44.5,11.55,0.9887640449438202,1.8709956709956708,False,No significant deviation or insufficient prior history for this user.
+SAAS-00615,user_044,2025-06-11T10:28:48,46,4.62,47.0,6.4,0.9787234042553191,0.7218749999999999,False,No significant deviation or insufficient prior history for this user.
+SAAS-00191,user_026,2025-06-11T10:30:21,66,23.6,50.5,9.120000000000001,1.306930693069307,2.587719298245614,False,No significant deviation or insufficient prior history for this user.
+SAAS-00844,user_018,2025-06-11T10:32:26,35,2.3,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00400,user_021,2025-06-11T10:52:30,21,5.5,64.5,7.925,0.32558139534883723,0.694006309148265,False,No significant deviation or insufficient prior history for this user.
+SAAS-00664,user_003,2025-06-11T11:14:30,70,15.5,65.5,6.93,1.0687022900763359,2.236652236652237,False,No significant deviation or insufficient prior history for this user.
+SAAS-00429,user_038,2025-06-11T11:26:48,36,10.62,46.0,10.690000000000001,0.782608695652174,0.9934518241347051,False,No significant deviation or insufficient prior history for this user.
+SAAS-01078,user_022,2025-06-11T11:39:00,63,13.21,46.0,12.71,1.3695652173913044,1.03933910306845,False,No significant deviation or insufficient prior history for this user.
+SAAS-00409,user_018,2025-06-11T11:43:45,45,1.8,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00679,user_007,2025-06-11T11:44:14,36,3.07,45.0,3.53,0.8,0.8696883852691218,False,No significant deviation or insufficient prior history for this user.
+SAAS-00806,user_034,2025-06-11T11:50:09,411,7.41,52.5,8.46,7.828571428571428,0.8758865248226949,True,Requests 411 vs historical median 52.50 (7.83x).
+SAAS-00394,user_020,2025-06-11T12:00:53,469,11.4,62.0,9.245,7.564516129032258,1.2330989724175232,True,Requests 469 vs historical median 62.00 (7.56x).
+SAAS-00842,user_043,2025-06-11T12:04:17,45,3.65,53.0,6.109999999999999,0.8490566037735849,0.5973813420621932,False,No significant deviation or insufficient prior history for this user.
+SAAS-00034,user_024,2025-06-11T12:17:13,46,15.52,58.0,6.22,0.7931034482758621,2.495176848874598,False,No significant deviation or insufficient prior history for this user.
+SAAS-01046,user_029,2025-06-11T12:59:31,8,22.51,55.0,6.37,0.14545454545454545,3.5337519623233913,True,Upload 22.51 MB vs historical median 6.37 MB (3.53x).
+SAAS-00782,user_035,2025-06-11T13:09:28,87,5.7,58.0,8.79,1.5,0.6484641638225257,False,No significant deviation or insufficient prior history for this user.
+SAAS-00252,user_002,2025-06-11T13:15:22,47,33.32,48.0,12.19,0.9791666666666666,2.7333880229696472,False,No significant deviation or insufficient prior history for this user.
+SAAS-00980,user_049,2025-06-11T13:42:34,39,6.25,61.5,6.295,0.6341463414634146,0.9928514694201748,False,No significant deviation or insufficient prior history for this user.
+SAAS-00295,user_005,2025-06-11T13:46:10,57,11.76,53.5,12.195,1.0654205607476634,0.9643296432964329,False,No significant deviation or insufficient prior history for this user.
+SAAS-00251,user_045,2025-06-11T14:57:35,43,11.37,52.0,12.26,0.8269230769230769,0.9274061990212071,False,No significant deviation or insufficient prior history for this user.
+SAAS-00132,user_021,2025-06-11T14:58:28,63,6.29,62.0,7.17,1.0161290322580645,0.8772663877266388,False,No significant deviation or insufficient prior history for this user.
+SAAS-01120,user_020,2025-06-11T15:12:09,59,6.48,64.0,11.2,0.921875,0.5785714285714286,False,No significant deviation or insufficient prior history for this user.
+SAAS-00769,user_016,2025-06-11T15:30:04,42,4.32,49.0,9.84,0.8571428571428571,0.4390243902439025,False,No significant deviation or insufficient prior history for this user.
+SAAS-00937,user_002,2025-06-11T15:58:56,35,10.03,47.5,13.295,0.7368421052631579,0.7544189544941707,False,No significant deviation or insufficient prior history for this user.
+SAAS-00576,user_044,2025-06-11T16:07:19,45,8.89,46.5,5.51,0.967741935483871,1.6134301270417424,False,No significant deviation or insufficient prior history for this user.
+SAAS-00053,user_021,2025-06-11T16:16:07,31,13.18,62.5,6.73,0.496,1.9583952451708766,False,No significant deviation or insufficient prior history for this user.
+SAAS-00564,user_002,2025-06-11T16:34:00,82,14.56,47.0,12.19,1.7446808510638299,1.1944216570959805,False,No significant deviation or insufficient prior history for this user.
+SAAS-00809,user_035,2025-06-11T16:34:56,76,265.58,60.0,8.33,1.2666666666666666,31.882352941176467,True,Upload 265.58 MB vs historical median 8.33 MB (31.88x).
+SAAS-00838,user_049,2025-06-11T16:37:39,40,12.42,57.0,6.25,0.7017543859649122,1.9872,False,No significant deviation or insufficient prior history for this user.
+SAAS-00391,user_034,2025-06-11T17:01:31,34,14.05,53.0,7.71,0.6415094339622641,1.8223086900129704,False,No significant deviation or insufficient prior history for this user.
+SAAS-00203,user_021,2025-06-11T17:25:02,56,14.83,62.0,7.17,0.9032258064516129,2.0683403068340307,False,No significant deviation or insufficient prior history for this user.
+SAAS-01032,user_032,2025-06-11T17:26:12,55,22.69,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01023,user_029,2025-06-11T17:42:16,51,9.47,52.5,7.880000000000001,0.9714285714285714,1.2017766497461928,False,No significant deviation or insufficient prior history for this user.
+SAAS-00644,user_040,2025-06-11T17:43:58,65,2.18,53.0,8.97,1.2264150943396226,0.24303232998885174,False,No significant deviation or insufficient prior history for this user.
+SAAS-01069,user_017,2025-06-11T18:19:58,57,10.17,56.5,8.385,1.008849557522124,1.2128801431127012,False,No significant deviation or insufficient prior history for this user.
+SAAS-00974,user_012,2025-06-11T18:25:02,57,1.49,56.0,11.42,1.0178571428571428,0.13047285464098074,False,No significant deviation or insufficient prior history for this user.
+SAAS-00247,user_034,2025-06-11T18:29:09,25,9.28,52.5,8.46,0.47619047619047616,1.0969267139479904,False,No significant deviation or insufficient prior history for this user.
+SAAS-00696,user_048,2025-06-11T18:45:55,66,3.63,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00584,user_026,2025-06-12T08:22:42,99,4.56,51.0,9.77,1.9411764705882353,0.4667349027635619,False,No significant deviation or insufficient prior history for this user.
+SAAS-00180,user_014,2025-06-12T08:41:36,30,12.51,60.5,8.24,0.49586776859504134,1.5182038834951455,False,No significant deviation or insufficient prior history for this user.
+SAAS-00009,user_031,2025-06-12T09:13:53,32,7.86,52.5,9.2,0.6095238095238096,0.8543478260869566,False,No significant deviation or insufficient prior history for this user.
+SAAS-00978,user_023,2025-06-12T09:17:57,63,3.77,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-01118,user_022,2025-06-12T09:19:56,59,7.14,52.5,12.96,1.1238095238095238,0.5509259259259258,False,No significant deviation or insufficient prior history for this user.
+SAAS-00234,user_045,2025-06-12T09:34:49,60,17.72,49.5,11.815,1.2121212121212122,1.4997884045704613,False,No significant deviation or insufficient prior history for this user.
+SAAS-00230,user_030,2025-06-12T09:41:12,95,14.13,58.5,7.289999999999999,1.623931623931624,1.938271604938272,False,No significant deviation or insufficient prior history for this user.
+SAAS-00630,user_006,2025-06-12T09:44:46,95,7.45,59.0,6.385,1.6101694915254237,1.1667971808927173,False,No significant deviation or insufficient prior history for this user.
+SAAS-00041,user_037,2025-06-12T10:03:22,35,11.99,46.5,11.09,0.7526881720430108,1.0811541929666366,False,No significant deviation or insufficient prior history for this user.
+SAAS-00660,user_028,2025-06-12T10:09:59,75,16.1,56.0,12.3,1.3392857142857142,1.3089430894308944,False,No significant deviation or insufficient prior history for this user.
+SAAS-00427,user_008,2025-06-12T10:43:44,74,6.27,43.5,6.045,1.7011494252873562,1.0372208436724566,False,No significant deviation or insufficient prior history for this user.
+SAAS-00837,user_050,2025-06-12T10:59:31,84,6.1,58.5,8.094999999999999,1.435897435897436,0.753551575046325,False,No significant deviation or insufficient prior history for this user.
+SAAS-00819,user_029,2025-06-12T11:09:55,85,34.24,51.0,9.39,1.6666666666666667,3.6464323748668797,True,Upload 34.24 MB vs historical median 9.39 MB (3.65x).
+SAAS-00236,user_014,2025-06-12T11:41:18,55,0.55,57.0,8.3,0.9649122807017544,0.06626506024096386,False,No significant deviation or insufficient prior history for this user.
+SAAS-00723,user_013,2025-06-12T11:44:32,39,7.59,60.0,5.22,0.65,1.4540229885057472,False,No significant deviation or insufficient prior history for this user.
+SAAS-01061,user_031,2025-06-12T12:35:02,31,6.29,52.0,8.78,0.5961538461538461,0.7164009111617312,False,No significant deviation or insufficient prior history for this user.
+SAAS-00721,user_031,2025-06-12T12:43:15,37,3.12,48.0,8.71,0.7708333333333334,0.3582089552238806,False,No significant deviation or insufficient prior history for this user.
+SAAS-00197,user_046,2025-06-12T12:58:20,38,27.7,42.0,13.26,0.9047619047619048,2.0889894419306185,False,No significant deviation or insufficient prior history for this user.
+SAAS-00905,user_021,2025-06-12T13:09:06,84,7.42,59.5,7.925,1.411764705882353,0.9362776025236593,False,No significant deviation or insufficient prior history for this user.
+SAAS-00884,user_040,2025-06-12T13:14:25,53,4.92,56.0,8.75,0.9464285714285714,0.5622857142857143,False,No significant deviation or insufficient prior history for this user.
+SAAS-01090,user_011,2025-06-12T13:54:13,54,2.97,56.0,6.88,0.9642857142857143,0.43168604651162795,False,No significant deviation or insufficient prior history for this user.
+SAAS-00395,user_026,2025-06-12T14:00:39,92,803.72,58.0,9.120000000000001,1.5862068965517242,88.12719298245614,True,Upload 803.72 MB vs historical median 9.12 MB (88.13x).
+SAAS-01019,user_018,2025-06-12T14:12:04,87,13.15,45.0,3.08,1.9333333333333333,4.26948051948052,True,Upload 13.15 MB vs historical median 3.08 MB (4.27x).
+SAAS-00281,user_011,2025-06-12T14:32:06,45,18.14,55.0,6.23,0.8181818181818182,2.911717495987159,False,No significant deviation or insufficient prior history for this user.
+SAAS-00800,user_016,2025-06-12T14:39:57,67,15.39,48.0,7.84,1.3958333333333333,1.9630102040816328,False,No significant deviation or insufficient prior history for this user.
+SAAS-00745,user_029,2025-06-12T14:47:16,52,3.03,53.0,9.43,0.9811320754716981,0.32131495227995754,False,No significant deviation or insufficient prior history for this user.
+SAAS-00958,user_045,2025-06-12T15:01:28,48,2.91,52.0,12.26,0.9230769230769231,0.23735725938009788,False,No significant deviation or insufficient prior history for this user.
+SAAS-01098,user_019,2025-06-12T15:20:36,79,6.73,59.0,10.27,1.3389830508474576,0.6553067185978579,False,No significant deviation or insufficient prior history for this user.
+SAAS-00992,user_009,2025-06-12T16:01:55,43,2.61,44.0,13.11,0.9772727272727273,0.19908466819221968,False,No significant deviation or insufficient prior history for this user.
+SAAS-00228,user_009,2025-06-12T16:04:17,8,2.43,44.0,11.55,0.18181818181818182,0.2103896103896104,False,No significant deviation or insufficient prior history for this user.
+SAAS-00450,user_020,2025-06-12T16:48:56,43,6.79,62.0,9.245,0.6935483870967742,0.7344510546241212,False,No significant deviation or insufficient prior history for this user.
+SAAS-01181,user_042,2025-06-12T17:01:09,51,21.61,54.0,10.215,0.9444444444444444,2.1155163974547233,False,No significant deviation or insufficient prior history for this user.
+SAAS-01135,user_038,2025-06-12T17:07:15,47,10.67,46.0,10.62,1.0217391304347827,1.004708097928437,False,No significant deviation or insufficient prior history for this user.
+SAAS-00142,user_002,2025-06-12T17:18:38,51,2.03,47.5,13.295,1.0736842105263158,0.15268898081985707,False,No significant deviation or insufficient prior history for this user.
+SAAS-00882,user_003,2025-06-12T17:21:14,25,25.8,70.0,7.21,0.35714285714285715,3.578363384188627,True,Upload 25.80 MB vs historical median 7.21 MB (3.58x).
+SAAS-00847,user_004,2025-06-12T17:40:05,42,8.73,50.0,6.01,0.84,1.4525790349417638,False,No significant deviation or insufficient prior history for this user.
+SAAS-00189,user_007,2025-06-12T17:51:23,46,17.14,44.0,3.3,1.0454545454545454,5.193939393939394,True,Upload 17.14 MB vs historical median 3.30 MB (5.19x).
+SAAS-01007,user_016,2025-06-12T17:53:42,73,6.75,49.0,9.84,1.489795918367347,0.6859756097560976,False,No significant deviation or insufficient prior history for this user.
+SAAS-00074,user_025,2025-06-12T18:22:07,497,12.78,46.5,6.3100000000000005,10.688172043010752,2.0253565768621233,True,Requests 497 vs historical median 46.50 (10.69x).
+SAAS-01122,user_023,2025-06-12T18:36:46,47,15.87,63.0,7.81,0.746031746031746,2.032010243277849,False,No significant deviation or insufficient prior history for this user.
+SAAS-00272,user_033,2025-06-12T18:56:34,62,5.85,53.5,6.625,1.158878504672897,0.8830188679245282,False,No significant deviation or insufficient prior history for this user.
+SAAS-00582,user_035,2025-06-13T01:13:04,16,7.27,62.0,8.79,0.25806451612903225,0.8270762229806599,False,No significant deviation or insufficient prior history for this user.
+SAAS-00337,user_023,2025-06-13T01:23:23,76,2.73,61.0,11.84,1.2459016393442623,0.23057432432432431,False,No significant deviation or insufficient prior history for this user.
+SAAS-00019,user_022,2025-06-13T03:23:09,55,6.03,59.0,12.71,0.9322033898305084,0.47442958300550747,False,No significant deviation or insufficient prior history for this user.
+SAAS-00590,user_012,2025-06-13T03:37:20,41,3.32,56.5,8.555,0.7256637168141593,0.3880771478667446,False,No significant deviation or insufficient prior history for this user.
+SAAS-01015,user_033,2025-06-13T08:04:48,55,8.3,54.0,6.45,1.0185185185185186,1.2868217054263567,False,No significant deviation or insufficient prior history for this user.
+SAAS-00993,user_025,2025-06-13T08:10:30,67,15.08,49.0,6.36,1.3673469387755102,2.371069182389937,False,No significant deviation or insufficient prior history for this user.
+SAAS-01088,user_048,2025-06-13T08:14:05,75,5.23,58.0,8.21,1.293103448275862,0.6370280146163215,False,No significant deviation or insufficient prior history for this user.
+SAAS-00608,user_026,2025-06-13T09:04:20,61,12.42,65.0,9.77,0.9384615384615385,1.271238485158649,False,No significant deviation or insufficient prior history for this user.
+SAAS-00920,user_030,2025-06-13T09:09:09,73,631.28,68.0,8.04,1.0735294117647058,78.51741293532339,True,Upload 631.28 MB vs historical median 8.04 MB (78.52x).
+SAAS-00168,user_031,2025-06-13T09:24:04,35,4.83,44.0,8.64,0.7954545454545454,0.5590277777777778,False,No significant deviation or insufficient prior history for this user.
+SAAS-00733,user_008,2025-06-13T09:39:32,61,19.31,45.0,6.27,1.3555555555555556,3.079744816586922,False,No significant deviation or insufficient prior history for this user.
+SAAS-00454,user_033,2025-06-13T10:01:51,50,23.59,54.5,6.625,0.9174311926605505,3.560754716981132,True,Upload 23.59 MB vs historical median 6.62 MB (3.56x).
+SAAS-00003,user_003,2025-06-13T10:07:02,36,12.17,65.5,7.425,0.549618320610687,1.639057239057239,False,No significant deviation or insufficient prior history for this user.
+SAAS-00056,user_024,2025-06-13T10:18:40,81,3.05,56.5,6.255,1.4336283185840708,0.4876099120703437,False,No significant deviation or insufficient prior history for this user.
+SAAS-00181,user_021,2025-06-13T10:20:27,58,4.8,62.0,7.42,0.9354838709677419,0.6469002695417789,False,No significant deviation or insufficient prior history for this user.
+SAAS-01089,user_044,2025-06-13T10:25:52,37,15.64,46.0,6.4,0.8043478260869565,2.44375,False,No significant deviation or insufficient prior history for this user.
+SAAS-00050,user_048,2025-06-13T10:37:13,48,6.16,62.0,6.720000000000001,0.7741935483870968,0.9166666666666666,False,No significant deviation or insufficient prior history for this user.
+SAAS-00404,user_046,2025-06-13T10:44:04,45,3.17,41.0,15.45,1.0975609756097562,0.2051779935275081,False,No significant deviation or insufficient prior history for this user.
+SAAS-00754,user_032,2025-06-13T11:10:59,80,12.84,,,,,False,No significant deviation or insufficient prior history for this user.
+SAAS-00875,user_022,2025-06-13T11:12:07,34,3.28,57.0,11.905000000000001,0.5964912280701754,0.27551448971020576,False,No significant deviation or insufficient prior history for this user.
+SAAS-00511,user_026,2025-06-13T11:35:39,39,15.83,63.0,11.094999999999999,0.6190476190476191,1.4267688147814332,False,No significant deviation or insufficient prior history for this user.
+SAAS-01200,user_026,2025-06-13T12:03:16,37,21.52,61.0,12.42,0.6065573770491803,1.7326892109500804,False,No significant deviation or insufficient prior history for this user.
+SAAS-00714,user_011,2025-06-13T12:49:58,18,12.29,54.0,6.88,0.3333333333333333,1.7863372093023255,False,No significant deviation or insufficient prior history for this user.
+SAAS-01156,user_039,2025-06-13T12:56:12,58,1.21,54.0,10.24,1.0740740740740742,0.1181640625,False,No significant deviation or insufficient prior history for this user.
+SAAS-00834,user_022,2025-06-13T13:02:16,39,3.29,55.0,11.1,0.7090909090909091,0.2963963963963964,False,No significant deviation or insufficient prior history for this user.
+SAAS-00893,user_014,2025-06-13T13:10:27,46,8.18,56.0,8.24,0.8214285714285714,0.9927184466019416,False,No significant deviation or insufficient prior history for this user.
+SAAS-00310,user_014,2025-06-13T13:26:45,43,10.55,55.0,8.18,0.7818181818181819,1.2897310513447433,False,No significant deviation or insufficient prior history for this user.
+SAAS-00917,user_018,2025-06-13T13:35:27,65,8.67,49.0,3.24,1.3265306122448979,2.6759259259259256,False,No significant deviation or insufficient prior history for this user.
+SAAS-00353,user_016,2025-06-13T13:37:09,46,8.62,50.0,8.295,0.92,1.0391802290536467,False,No significant deviation or insufficient prior history for this user.
+SAAS-00166,user_001,2025-06-13T13:38:14,58,1.77,53.5,8.84,1.0841121495327102,0.2002262443438914,False,No significant deviation or insufficient prior history for this user.
+SAAS-00688,user_022,2025-06-13T13:47:26,52,7.67,50.5,9.12,1.0297029702970297,0.8410087719298246,False,No significant deviation or insufficient prior history for this user.
+SAAS-00609,user_022,2025-06-13T14:03:11,89,12.3,52.0,7.67,1.7115384615384615,1.6036505867014343,False,No significant deviation or insufficient prior history for this user.
+SAAS-00614,user_039,2025-06-13T14:37:23,38,2.7,56.0,7.34,0.6785714285714286,0.36784741144414174,False,No significant deviation or insufficient prior history for this user.
+SAAS-00092,user_012,2025-06-13T14:56:50,51,6.38,56.0,5.69,0.9107142857142857,1.1212653778558874,False,No significant deviation or insufficient prior history for this user.
+SAAS-00617,user_026,2025-06-13T15:16:32,37,14.31,56.0,12.440000000000001,0.6607142857142857,1.15032154340836,False,No significant deviation or insufficient prior history for this user.
+SAAS-00107,user_007,2025-06-13T15:18:51,24,8.68,45.0,3.53,0.5333333333333333,2.4589235127478752,False,No significant deviation or insufficient prior history for this user.
+SAAS-00566,user_016,2025-06-13T15:22:29,44,9.6,49.0,8.62,0.8979591836734694,1.1136890951276102,False,No significant deviation or insufficient prior history for this user.
+SAAS-00507,user_041,2025-06-13T15:26:34,40,4.56,55.0,8.29,0.7272727272727273,0.5500603136308806,False,No significant deviation or insufficient prior history for this user.
+SAAS-00109,user_044,2025-06-13T16:04:42,16,11.37,45.5,7.6450000000000005,0.3516483516483517,1.4872465663832568,False,No significant deviation or insufficient prior history for this user.
+SAAS-00607,user_024,2025-06-13T16:20:52,474,13.13,58.0,6.22,8.172413793103448,2.1109324758842445,True,Requests 474 vs historical median 58.00 (8.17x).
+SAAS-00212,user_047,2025-06-13T16:24:18,61,7.75,51.5,8.99,1.1844660194174756,0.8620689655172413,False,No significant deviation or insufficient prior history for this user.
+SAAS-00416,user_038,2025-06-13T16:36:40,64,891.32,46.0,10.645,1.391304347826087,83.73132926256459,True,Upload 891.32 MB vs historical median 10.64 MB (83.73x).
+SAAS-01136,user_050,2025-06-13T16:59:05,56,19.24,59.0,6.75,0.9491525423728814,2.85037037037037,False,No significant deviation or insufficient prior history for this user.
+SAAS-00927,user_046,2025-06-13T17:04:21,55,211.66,42.0,13.26,1.3095238095238095,15.962292609351433,True,Upload 211.66 MB vs historical median 13.26 MB (15.96x).
+SAAS-00691,user_014,2025-06-13T17:39:02,45,18.84,51.5,8.24,0.8737864077669902,2.2864077669902914,False,No significant deviation or insufficient prior history for this user.
+SAAS-00550,user_050,2025-06-13T17:43:31,64,4.54,58.5,8.094999999999999,1.0940170940170941,0.5608400247066091,False,No significant deviation or insufficient prior history for this user.
+SAAS-00439,user_014,2025-06-13T17:45:17,33,10.48,48.0,8.3,0.6875,1.2626506024096384,False,No significant deviation or insufficient prior history for this user.
+SAAS-00846,user_024,2025-06-13T17:57:29,330,2.92,62.5,6.255,5.28,0.46682653876898483,True,Requests 330 vs historical median 62.50 (5.28x).
+SAAS-00826,user_028,2025-06-13T17:58:14,53,7.55,58.0,12.62,0.9137931034482759,0.598256735340729,False,No significant deviation or insufficient prior history for this user.
+SAAS-00313,user_047,2025-06-13T18:24:41,65,4.47,52.0,8.74,1.25,0.511441647597254,False,No significant deviation or insufficient prior history for this user.
+SAAS-00417,user_013,2025-06-13T18:53:45,31,10.73,53.0,5.6,0.5849056603773585,1.9160714285714289,False,No significant deviation or insufficient prior history for this user.
+SAAS-00277,user_015,2025-06-14T01:25:14,58,7.07,35.5,10.515,1.6338028169014085,0.6723728007608178,False,No significant deviation or insufficient prior history for this user.
+SAAS-00447,user_030,2025-06-14T08:02:25,57,1.23,70.5,8.93,0.8085106382978723,0.13773796192609183,False,No significant deviation or insufficient prior history for this user.
+SAAS-00852,user_008,2025-06-14T08:10:01,90,14.39,53.0,6.845,1.6981132075471699,2.102264426588751,False,No significant deviation or insufficient prior history for this user.
+SAAS-00640,user_007,2025-06-14T08:23:54,39,9.55,44.0,6.1049999999999995,0.8863636363636364,1.5642915642915645,False,No significant deviation or insufficient prior history for this user.
+SAAS-00149,user_038,2025-06-14T08:37:43,30,8.68,46.0,10.67,0.6521739130434783,0.8134957825679475,False,No significant deviation or insufficient prior history for this user.
+SAAS-01141,user_012,2025-06-14T08:45:15,24,2.93,53.5,6.035,0.4485981308411215,0.4855012427506214,False,No significant deviation or insufficient prior history for this user.
+SAAS-01119,user_045,2025-06-14T09:08:48,53,2.9,50.0,11.815,1.06,0.24545069826491747,False,No significant deviation or insufficient prior history for this user.
+SAAS-01178,user_021,2025-06-14T09:12:33,63,14.2,60.0,7.295,1.05,1.9465387251542152,False,No significant deviation or insufficient prior history for this user.
+SAAS-00375,user_028,2025-06-14T09:58:30,58,11.44,56.0,12.3,1.0357142857142858,0.930081300813008,False,No significant deviation or insufficient prior history for this user.
+SAAS-00827,user_026,2025-06-14T10:12:57,62,8.47,51.0,12.46,1.2156862745098038,0.6797752808988764,False,No significant deviation or insufficient prior history for this user.
+SAAS-00335,user_033,2025-06-14T10:16:44,80,5.48,54.0,6.8,1.4814814814814814,0.8058823529411766,False,No significant deviation or insufficient prior history for this user.
+SAAS-00642,user_021,2025-06-14T10:20:50,90,4.63,62.0,7.42,1.4516129032258065,0.6239892183288409,False,No significant deviation or insufficient prior history for this user.
+SAAS-00225,user_001,2025-06-14T10:29:52,33,9.43,54.0,4.81,0.6111111111111112,1.9604989604989607,False,No significant deviation or insufficient prior history for this user.
+SAAS-00543,user_023,2025-06-14T10:42:11,80,6.15,63.0,7.81,1.2698412698412698,0.7874519846350833,False,No significant deviation or insufficient prior history for this user.
+SAAS-00243,user_035,2025-06-14T11:06:23,48,3.61,60.0,8.33,0.8,0.43337334933973587,False,No significant deviation or insufficient prior history for this user.
+SAAS-00275,user_041,2025-06-14T11:11:22,81,9.61,47.5,7.574999999999999,1.7052631578947368,1.2686468646864686,False,No significant deviation or insufficient prior history for this user.
+SAAS-00283,user_041,2025-06-14T11:36:34,47,1.22,55.0,8.29,0.8545454545454545,0.1471652593486128,False,No significant deviation or insufficient prior history for this user.
+SAAS-00388,user_004,2025-06-14T11:41:01,453,20.54,50.0,7.09,9.06,2.8970380818053596,True,Requests 453 vs historical median 50.00 (9.06x).
+SAAS-00070,user_002,2025-06-14T12:00:34,31,586.86,48.0,12.19,0.6458333333333334,48.14273995077933,True,Upload 586.86 MB vs historical median 12.19 MB (48.14x).
+SAAS-01164,user_040,2025-06-14T12:02:03,596,8.12,53.0,8.53,11.245283018867925,0.9519343493552168,True,Requests 596 vs historical median 53.00 (11.25x).
+SAAS-00656,user_015,2025-06-14T13:36:57,46,7.61,36.0,9.84,1.2777777777777777,0.7733739837398375,False,No significant deviation or insufficient prior history for this user.
+SAAS-00052,user_031,2025-06-14T14:15:17,53,1.69,41.0,8.27,1.2926829268292683,0.20435308343409916,False,No significant deviation or insufficient prior history for this user.
+SAAS-01087,user_034,2025-06-14T14:17:00,79,7.36,52.0,9.21,1.5192307692307692,0.7991313789359391,False,No significant deviation or insufficient prior history for this user.
+SAAS-00033,user_049,2025-06-14T14:27:41,57,9.95,54.5,6.3,1.0458715596330275,1.5793650793650793,False,No significant deviation or insufficient prior history for this user.
+SAAS-00108,user_019,2025-06-14T14:38:01,32,6.48,61.0,9.01,0.5245901639344263,0.7192008879023308,False,No significant deviation or insufficient prior history for this user.
+SAAS-00692,user_026,2025-06-14T15:03:23,38,7.53,56.0,12.440000000000001,0.6785714285714286,0.6053054662379421,False,No significant deviation or insufficient prior history for this user.
+SAAS-00097,user_003,2025-06-14T15:03:48,53,5.51,61.0,7.64,0.8688524590163934,0.7212041884816754,False,No significant deviation or insufficient prior history for this user.
+SAAS-00808,user_019,2025-06-14T15:06:28,39,6.06,59.0,7.75,0.6610169491525424,0.7819354838709677,False,No significant deviation or insufficient prior history for this user.
+SAAS-00832,user_040,2025-06-14T15:15:36,59,7.18,56.0,8.325,1.0535714285714286,0.8624624624624625,False,No significant deviation or insufficient prior history for this user.
+SAAS-01048,user_003,2025-06-14T15:54:21,52,17.41,57.0,7.425,0.9122807017543859,2.344781144781145,False,No significant deviation or insufficient prior history for this user.
+SAAS-00496,user_010,2025-06-14T16:09:24,43,8.74,55.0,7.19,0.7818181818181819,1.21557719054242,False,No significant deviation or insufficient prior history for this user.
+SAAS-01123,user_043,2025-06-14T17:11:33,38,15.17,48.0,4.34,0.7916666666666666,3.4953917050691246,False,No significant deviation or insufficient prior history for this user.
+SAAS-00038,user_013,2025-06-14T17:13:39,29,1.81,48.0,6.595,0.6041666666666666,0.2744503411675512,False,No significant deviation or insufficient prior history for this user.
+SAAS-00441,user_046,2025-06-14T17:14:40,30,11.58,43.5,15.45,0.6896551724137931,0.7495145631067962,False,No significant deviation or insufficient prior history for this user.
+SAAS-00710,user_040,2025-06-14T17:25:57,42,12.66,59.0,8.12,0.711864406779661,1.559113300492611,False,No significant deviation or insufficient prior history for this user.
+SAAS-00383,user_025,2025-06-14T17:28:07,44,899.57,56.5,7.965,0.7787610619469026,112.94036409290648,True,Upload 899.57 MB vs historical median 7.96 MB (112.94x).
+SAAS-00877,user_005,2025-06-14T18:08:55,61,40.48,57.0,11.76,1.0701754385964912,3.442176870748299,False,No significant deviation or insufficient prior history for this user.
+SAAS-00430,user_014,2025-06-14T18:34:52,52,9.59,47.0,8.84,1.1063829787234043,1.084841628959276,False,No significant deviation or insufficient prior history for this user.
+SAAS-00080,user_019,2025-06-14T18:39:02,41,13.67,52.5,7.605,0.780952380952381,1.7975016436554896,False,No significant deviation or insufficient prior history for this user.
+SAAS-00674,user_049,2025-06-14T22:13:20,85,9.56,57.0,6.35,1.4912280701754386,1.5055118110236223,False,No significant deviation or insufficient prior history for this user.
+SAAS-00044,user_015,2025-06-15T08:13:00,41,649.63,41.0,9.565,1.0,67.91740721380032,True,Upload 649.63 MB vs historical median 9.56 MB (67.92x).
+SAAS-00288,user_035,2025-06-15T08:23:43,37,18.5,58.0,7.87,0.6379310344827587,2.3506988564167726,False,No significant deviation or insufficient prior history for this user.
+SAAS-01042,user_041,2025-06-15T08:28:26,50,32.49,51.0,7.574999999999999,0.9803921568627451,4.289108910891089,True,Upload 32.49 MB vs historical median 7.57 MB (4.29x).
+SAAS-00793,user_027,2025-06-15T08:41:46,8,29.92,63.0,10.23,0.12698412698412698,2.924731182795699,False,No significant deviation or insufficient prior history for this user.
+SAAS-00517,user_022,2025-06-15T08:51:45,649,6.6,53.5,9.385,12.130841121495328,0.7032498668087374,True,Requests 649 vs historical median 53.50 (12.13x).
+SAAS-00082,user_006,2025-06-15T08:54:52,50,5.59,60.0,6.61,0.8333333333333334,0.8456883509833585,False,No significant deviation or insufficient prior history for this user.
+SAAS-00057,user_006,2025-06-15T09:04:08,43,4.35,59.0,6.385,0.7288135593220338,0.6812842599843383,False,No significant deviation or insufficient prior history for this user.
+SAAS-00040,user_050,2025-06-15T09:05:41,72,16.52,59.0,6.75,1.2203389830508475,2.4474074074074075,False,No significant deviation or insufficient prior history for this user.
+SAAS-00500,user_033,2025-06-15T09:21:46,49,3.76,54.5,6.625,0.8990825688073395,0.5675471698113207,False,No significant deviation or insufficient prior history for this user.
+SAAS-01110,user_048,2025-06-15T09:21:56,58,10.89,58.0,6.16,1.0,1.767857142857143,False,No significant deviation or insufficient prior history for this user.
+SAAS-00284,user_023,2025-06-15T09:28:47,84,4.32,66.0,6.98,1.2727272727272727,0.6189111747851003,False,No significant deviation or insufficient prior history for this user.
+SAAS-00892,user_003,2025-06-15T10:05:17,85,3.21,53.0,7.64,1.6037735849056605,0.42015706806282727,False,No significant deviation or insufficient prior history for this user.
+SAAS-01033,user_008,2025-06-15T10:07:16,12,2.86,61.0,7.42,0.19672131147540983,0.38544474393531,False,No significant deviation or insufficient prior history for this user.
+SAAS-00344,user_043,2025-06-15T10:13:35,66,20.36,46.5,6.109999999999999,1.4193548387096775,3.3322422258592472,False,No significant deviation or insufficient prior history for this user.
+SAAS-00637,user_024,2025-06-15T10:40:41,39,2.36,67.0,6.22,0.582089552238806,0.37942122186495175,False,No significant deviation or insufficient prior history for this user.
+SAAS-00650,user_003,2025-06-15T10:46:48,45,6.31,57.0,7.425,0.7894736842105263,0.8498316498316498,False,No significant deviation or insufficient prior history for this user.
+SAAS-01031,user_046,2025-06-15T10:48:45,74,2.86,42.0,13.26,1.7619047619047619,0.2156862745098039,False,No significant deviation or insufficient prior history for this user.
+SAAS-00855,user_020,2025-06-15T10:58:16,52,833.62,60.0,7.29,0.8666666666666667,114.35116598079561,True,Upload 833.62 MB vs historical median 7.29 MB (114.35x).
+SAAS-00586,user_047,2025-06-15T11:05:52,49,30.13,52.5,8.245000000000001,0.9333333333333333,3.6543359611885986,True,Upload 30.13 MB vs historical median 8.25 MB (3.65x).
+SAAS-00058,user_013,2025-06-15T11:20:15,70,7.99,43.0,5.6,1.627906976744186,1.4267857142857143,False,No significant deviation or insufficient prior history for this user.
+SAAS-01140,user_050,2025-06-15T11:27:13,65,26.77,61.5,8.094999999999999,1.056910569105691,3.3069796170475607,False,No significant deviation or insufficient prior history for this user.
+SAAS-00156,user_014,2025-06-15T11:38:43,68,16.33,48.0,9.38,1.4166666666666667,1.7409381663113004,False,No significant deviation or insufficient prior history for this user.
+SAAS-00730,user_032,2025-06-15T11:54:39,90,4.85,68.0,12.84,1.3235294117647058,0.3777258566978193,False,No significant deviation or insufficient prior history for this user.
+SAAS-00930,user_018,2025-06-15T13:23:49,43,7.14,53.0,3.4,0.8113207547169812,2.1,False,No significant deviation or insufficient prior history for this user.
+SAAS-00128,user_042,2025-06-15T13:34:51,42,5.03,51.0,11.17,0.8235294117647058,0.45031333930170103,False,No significant deviation or insufficient prior history for this user.
+SAAS-00418,user_041,2025-06-15T13:36:52,90,7.72,50.0,8.29,1.8,0.93124246079614,False,No significant deviation or insufficient prior history for this user.
+SAAS-00631,user_007,2025-06-15T13:41:37,50,6.87,43.0,8.68,1.1627906976744187,0.7914746543778802,False,No significant deviation or insufficient prior history for this user.
+SAAS-00534,user_033,2025-06-15T13:43:25,417,5.51,54.0,6.45,7.722222222222222,0.8542635658914728,True,Requests 417 vs historical median 54.00 (7.72x).
+SAAS-00291,user_022,2025-06-15T13:55:48,36,4.26,55.0,7.67,0.6545454545454545,0.5554106910039113,False,No significant deviation or insufficient prior history for this user.
+SAAS-00966,user_005,2025-06-15T14:11:31,58,13.71,59.0,12.44,0.9830508474576272,1.102090032154341,False,No significant deviation or insufficient prior history for this user.
+SAAS-00039,user_008,2025-06-15T14:14:30,69,8.5,53.0,6.845,1.3018867924528301,1.241782322863404,False,No significant deviation or insufficient prior history for this user.
+SAAS-00796,user_015,2025-06-15T14:16:37,78,4.65,41.0,9.84,1.9024390243902438,0.47256097560975613,False,No significant deviation or insufficient prior history for this user.
+SAAS-00956,user_047,2025-06-15T14:17:35,55,6.11,52.0,8.74,1.0576923076923077,0.6990846681922197,False,No significant deviation or insufficient prior history for this user.
+SAAS-00324,user_018,2025-06-15T14:34:12,82,7.83,49.0,5.27,1.6734693877551021,1.4857685009487667,False,No significant deviation or insufficient prior history for this user.
+SAAS-00817,user_020,2025-06-15T15:25:09,79,20.33,59.5,9.245,1.3277310924369747,2.1990265008112493,False,No significant deviation or insufficient prior history for this user.
+SAAS-00297,user_026,2025-06-15T15:34:31,62,3.68,51.0,12.42,1.2156862745098038,0.29629629629629634,False,No significant deviation or insufficient prior history for this user.
+SAAS-00195,user_009,2025-06-15T16:10:26,54,10.76,44.0,9.99,1.2272727272727273,1.077077077077077,False,No significant deviation or insufficient prior history for this user.
+SAAS-00118,user_011,2025-06-15T16:48:46,52,1.65,53.5,8.0,0.9719626168224299,0.20625,False,No significant deviation or insufficient prior history for this user.
+SAAS-00717,user_038,2025-06-15T16:53:16,61,3.4,46.0,10.645,1.326086956521739,0.3193987787693753,False,No significant deviation or insufficient prior history for this user.
+SAAS-00537,user_022,2025-06-15T16:55:41,53,10.57,53.5,7.404999999999999,0.9906542056074766,1.4274139095205944,False,No significant deviation or insufficient prior history for this user.
+SAAS-00296,user_002,2025-06-15T17:06:04,53,5.64,47.5,13.295,1.1157894736842104,0.4242196314403911,False,No significant deviation or insufficient prior history for this user.
+SAAS-00878,user_021,2025-06-15T17:18:52,72,342.44,62.5,7.295,1.152,46.94174091843728,True,Upload 342.44 MB vs historical median 7.29 MB (46.94x).
+SAAS-00399,user_043,2025-06-15T17:26:31,65,7.82,48.0,7.88,1.3541666666666667,0.9923857868020305,False,No significant deviation or insufficient prior history for this user.
+SAAS-00828,user_034,2025-06-15T17:27:00,47,4.79,52.5,8.46,0.8952380952380953,0.566193853427896,False,No significant deviation or insufficient prior history for this user.
+SAAS-00077,user_019,2025-06-15T18:12:26,68,1.19,46.0,7.75,1.4782608695652173,0.15354838709677418,False,No significant deviation or insufficient prior history for this user.
+SAAS-00253,user_019,2025-06-15T18:14:56,73,736.2,52.5,7.605,1.3904761904761904,96.80473372781066,True,Upload 736.20 MB vs historical median 7.61 MB (96.80x).
+SAAS-00969,user_002,2025-06-15T18:30:58,77,16.41,48.0,12.19,1.6041666666666667,1.3461853978671043,False,No significant deviation or insufficient prior history for this user.
+SAAS-00681,user_009,2025-06-15T18:31:26,56,7.66,44.0,10.375,1.2727272727272727,0.7383132530120482,False,No significant deviation or insufficient prior history for this user.
+SAAS-00625,user_048,2025-06-15T18:32:54,22,9.03,58.0,7.1850000000000005,0.3793103448275862,1.2567849686847596,False,No significant deviation or insufficient prior history for this user.
+SAAS-00127,user_040,2025-06-15T18:44:02,11,542.07,56.0,8.325,0.19642857142857142,65.11351351351352,True,Upload 542.07 MB vs historical median 8.32 MB (65.11x).
+SAAS-00448,user_050,2025-06-16T08:04:09,50,9.41,64.0,9.44,0.78125,0.9968220338983051,False,No significant deviation or insufficient prior history for this user.
+SAAS-00238,user_022,2025-06-16T08:06:02,56,35.1,53.0,7.67,1.0566037735849056,4.576271186440678,True,Upload 35.10 MB vs historical median 7.67 MB (4.58x).
+SAAS-00219,user_022,2025-06-16T08:07:42,53,632.84,54.0,9.120000000000001,0.9814814814814815,69.39035087719297,True,Upload 632.84 MB vs historical median 9.12 MB (69.39x).
+SAAS-00788,user_024,2025-06-16T08:17:38,472,4.87,62.5,6.13,7.552,0.7944535073409462,True,Requests 472 vs historical median 62.50 (7.55x).
+SAAS-00293,user_015,2025-06-16T08:20:33,63,6.23,43.5,9.565,1.4482758620689655,0.6513329848405647,False,No significant deviation or insufficient prior history for this user.
+SAAS-00401,user_028,2025-06-16T08:28:17,35,1.64,58.0,11.98,0.603448275862069,0.1368948247078464,False,No significant deviation or insufficient prior history for this user.
+SAAS-01186,user_020,2025-06-16T08:40:06,85,10.98,60.0,11.2,1.4166666666666667,0.9803571428571429,False,No significant deviation or insufficient prior history for this user.
+SAAS-00903,user_005,2025-06-16T08:50:06,61,8.65,58.0,13.12,1.0517241379310345,0.659298780487805,False,No significant deviation or insufficient prior history for this user.
+SAAS-00021,user_027,2025-06-16T09:05:40,61,11.48,58.0,11.74,1.0517241379310345,0.9778534923339012,False,No significant deviation or insufficient prior history for this user.
+SAAS-00544,user_050,2025-06-16T09:20:46,55,9.23,61.5,9.425,0.8943089430894309,0.9793103448275862,False,No significant deviation or insufficient prior history for this user.
+SAAS-00355,user_017,2025-06-16T10:07:37,34,5.3,57.0,10.17,0.5964912280701754,0.5211406096361848,False,No significant deviation or insufficient prior history for this user.
+SAAS-01022,user_037,2025-06-16T10:19:07,48,19.67,46.0,11.99,1.0434782608695652,1.6405337781484572,False,No significant deviation or insufficient prior history for this user.
+SAAS-00866,user_042,2025-06-16T11:08:38,51,7.13,50.5,10.215,1.00990099009901,0.6979931473323544,False,No significant deviation or insufficient prior history for this user.
+SAAS-01183,user_038,2025-06-16T11:12:53,53,10.44,46.0,10.62,1.1521739130434783,0.9830508474576272,False,No significant deviation or insufficient prior history for this user.
+SAAS-00468,user_032,2025-06-16T11:16:07,41,1.48,74.0,12.295,0.5540540540540541,0.12037413582757218,False,No significant deviation or insufficient prior history for this user.
+SAAS-00593,user_041,2025-06-16T11:34:08,77,4.08,52.5,8.004999999999999,1.4666666666666666,0.5096814490943161,False,No significant deviation or insufficient prior history for this user.
+SAAS-00205,user_031,2025-06-16T12:28:49,56,28.92,44.0,7.9,1.2727272727272727,3.660759493670886,True,Upload 28.92 MB vs historical median 7.90 MB (3.66x).
+SAAS-00185,user_023,2025-06-16T13:08:47,75,6.96,69.0,6.15,1.0869565217391304,1.1317073170731706,False,No significant deviation or insufficient prior history for this user.
+SAAS-00798,user_024,2025-06-16T13:10:30,75,7.62,67.0,6.04,1.1194029850746268,1.26158940397351,False,No significant deviation or insufficient prior history for this user.
+SAAS-00306,user_003,2025-06-16T13:16:45,33,11.53,53.0,7.21,0.6226415094339622,1.5991678224687933,False,No significant deviation or insufficient prior history for this user.
+SAAS-00215,user_044,2025-06-16T13:17:50,37,7.67,45.0,8.89,0.8222222222222222,0.8627671541057367,False,No significant deviation or insufficient prior history for this user.
+SAAS-01095,user_007,2025-06-16T13:19:00,49,14.61,44.0,7.775,1.1136363636363635,1.8790996784565914,False,No significant deviation or insufficient prior history for this user.
+SAAS-00193,user_038,2025-06-16T13:33:07,106,9.65,46.5,10.53,2.2795698924731185,0.9164292497625832,False,No significant deviation or insufficient prior history for this user.
+SAAS-00845,user_003,2025-06-16T13:39:06,91,3.57,53.0,7.425,1.7169811320754718,0.4808080808080808,False,No significant deviation or insufficient prior history for this user.
+SAAS-01083,user_002,2025-06-16T13:46:27,68,8.39,49.5,13.295,1.3737373737373737,0.6310643098909365,False,No significant deviation or insufficient prior history for this user.
+SAAS-01192,user_043,2025-06-16T13:47:33,30,4.36,53.0,7.85,0.5660377358490566,0.5554140127388536,False,No significant deviation or insufficient prior history for this user.
+SAAS-00872,user_031,2025-06-16T13:48:52,75,7.29,48.0,8.27,1.5625,0.8814993954050786,False,No significant deviation or insufficient prior history for this user.
+SAAS-01150,user_035,2025-06-16T14:11:13,83,7.89,53.0,8.33,1.5660377358490567,0.9471788715486193,False,No significant deviation or insufficient prior history for this user.
+SAAS-00134,user_042,2025-06-16T14:29:28,66,16.89,51.0,9.26,1.2941176470588236,1.8239740820734343,False,No significant deviation or insufficient prior history for this user.
+SAAS-00261,user_013,2025-06-16T14:36:38,68,6.04,48.0,6.595,1.4166666666666667,0.9158453373768006,False,No significant deviation or insufficient prior history for this user.
+SAAS-00028,user_015,2025-06-16T14:42:46,15,7.67,46.0,9.29,0.32608695652173914,0.8256189451022605,False,No significant deviation or insufficient prior history for this user.
+SAAS-00989,user_040,2025-06-16T15:08:20,58,18.28,53.0,8.53,1.0943396226415094,2.143024618991794,False,No significant deviation or insufficient prior history for this user.
+SAAS-00250,user_049,2025-06-16T15:19:05,83,1.49,57.0,6.77,1.456140350877193,0.22008862629246678,False,No significant deviation or insufficient prior history for this user.
+SAAS-00031,user_023,2025-06-16T15:29:26,41,3.69,72.0,6.555,0.5694444444444444,0.562929061784897,False,No significant deviation or insufficient prior history for this user.
+SAAS-01187,user_022,2025-06-16T15:32:43,31,3.12,53.0,10.57,0.5849056603773585,0.29517502365184484,False,No significant deviation or insufficient prior history for this user.
+SAAS-00481,user_027,2025-06-16T15:49:09,546,16.43,61.0,11.48,8.950819672131148,1.4311846689895469,True,Requests 546 vs historical median 61.00 (8.95x).
+SAAS-00367,user_029,2025-06-16T16:18:55,41,9.67,52.0,9.39,0.7884615384615384,1.029818956336528,False,No significant deviation or insufficient prior history for this user.
+SAAS-00110,user_001,2025-06-16T16:33:38,91,3.35,53.5,7.119999999999999,1.7009345794392523,0.47050561797752816,False,No significant deviation or insufficient prior history for this user.
+SAAS-00622,user_034,2025-06-16T16:34:26,43,4.45,52.0,7.71,0.8269230769230769,0.5771725032425422,False,No significant deviation or insufficient prior history for this user.
+SAAS-00571,user_033,2025-06-16T17:14:38,711,1.87,54.5,6.15,13.045871559633028,0.3040650406504065,True,Requests 711 vs historical median 54.50 (13.05x).
+SAAS-00424,user_047,2025-06-16T18:30:37,50,15.57,52.5,8.245000000000001,0.9523809523809523,1.8884172225591265,False,No significant deviation or insufficient prior history for this user.
+SAAS-01077,user_006,2025-06-16T18:38:01,51,10.1,58.0,6.16,0.8793103448275862,1.6396103896103895,False,No significant deviation or insufficient prior history for this user.
+SAAS-01151,user_040,2025-06-16T18:53:12,52,606.44,55.5,8.75,0.9369369369369369,69.30742857142857,True,Upload 606.44 MB vs historical median 8.75 MB (69.31x).
+SAAS-00425,user_004,2025-06-16T22:13:18,78,13.34,50.0,7.91,1.56,1.686472819216182,False,No significant deviation or insufficient prior history for this user.
+SAAS-00314,user_027,2025-06-16T23:27:01,39,8.08,62.0,12.365,0.6290322580645161,0.6534573392640518,False,No significant deviation or insufficient prior history for this user.
+SAAS-00759,user_029,2025-06-17T04:11:57,67,6.64,51.5,9.43,1.3009708737864079,0.704135737009544,False,No significant deviation or insufficient prior history for this user.
+SAAS-00689,user_005,2025-06-17T04:43:11,65,6.49,59.5,12.44,1.0924369747899159,0.5217041800643087,False,No significant deviation or insufficient prior history for this user.
+SAAS-00323,user_007,2025-06-17T08:10:35,66,3.95,45.0,8.68,1.4666666666666666,0.4550691244239632,False,No significant deviation or insufficient prior history for this user.
+SAAS-00551,user_035,2025-06-17T08:29:53,21,3.93,58.0,7.89,0.3620689655172414,0.4980988593155894,False,No significant deviation or insufficient prior history for this user.
+SAAS-00577,user_049,2025-06-17T09:13:18,68,4.06,57.0,6.35,1.1929824561403508,0.6393700787401575,False,No significant deviation or insufficient prior history for this user.
+SAAS-00553,user_050,2025-06-17T09:23:28,298,5.15,59.0,9.41,5.0508474576271185,0.5472901168969182,True,Requests 298 vs historical median 59.00 (5.05x).
+SAAS-00711,user_002,2025-06-17T09:29:59,50,12.67,51.0,12.19,0.9803921568627451,1.0393765381460214,False,No significant deviation or insufficient prior history for this user.
+SAAS-00635,user_045,2025-06-17T09:55:35,76,9.66,52.0,11.37,1.4615384615384615,0.849604221635884,False,No significant deviation or insufficient prior history for this user.
+SAAS-00941,user_040,2025-06-17T10:04:25,64,1.86,53.0,8.97,1.2075471698113207,0.20735785953177258,False,No significant deviation or insufficient prior history for this user.
+SAAS-01108,user_046,2025-06-17T10:04:45,38,4.79,43.5,12.754999999999999,0.8735632183908046,0.3755390043120345,False,No significant deviation or insufficient prior history for this user.
+SAAS-00568,user_034,2025-06-17T11:02:42,70,5.66,49.5,7.5600000000000005,1.4141414141414141,0.7486772486772486,False,No significant deviation or insufficient prior history for this user.
+SAAS-01041,user_001,2025-06-17T11:10:59,86,3.71,54.0,4.81,1.5925925925925926,0.7713097713097714,False,No significant deviation or insufficient prior history for this user.
+SAAS-00359,user_036,2025-06-17T11:21:48,46,2.9,58.0,5.21,0.7931034482758621,0.5566218809980806,False,No significant deviation or insufficient prior history for this user.
+SAAS-00445,user_039,2025-06-17T11:22:57,81,7.86,54.0,4.44,1.5,1.7702702702702702,False,No significant deviation or insufficient prior history for this user.
+SAAS-00975,user_007,2025-06-17T11:24:26,57,16.3,45.5,7.775,1.2527472527472527,2.0964630225080385,False,No significant deviation or insufficient prior history for this user.
+SAAS-00709,user_033,2025-06-17T11:25:39,43,9.27,55.0,5.85,0.7818181818181819,1.5846153846153845,False,No significant deviation or insufficient prior history for this user.
+SAAS-00693,user_013,2025-06-17T11:25:49,62,10.28,53.0,6.04,1.169811320754717,1.7019867549668872,False,No significant deviation or insufficient prior history for this user.
+SAAS-00133,user_045,2025-06-17T11:39:56,49,1.9,52.5,10.515,0.9333333333333333,0.1806942463147884,False,No significant deviation or insufficient prior history for this user.
+SAAS-00639,user_036,2025-06-17T11:52:30,65,1.45,56.0,4.825,1.1607142857142858,0.30051813471502586,False,No significant deviation or insufficient prior history for this user.
+SAAS-00362,user_035,2025-06-17T11:59:39,91,11.19,53.0,7.88,1.7169811320754718,1.4200507614213198,False,No significant deviation or insufficient prior history for this user.
+SAAS-00229,user_014,2025-06-17T12:29:49,55,15.28,50.0,9.485,1.1,1.6109646810753822,False,No significant deviation or insufficient prior history for this user.
+SAAS-00099,user_036,2025-06-17T12:37:48,55,2.41,58.0,4.44,0.9482758620689655,0.5427927927927928,False,No significant deviation or insufficient prior history for this user.
+SAAS-01198,user_012,2025-06-17T13:01:23,55,8.97,51.0,5.69,1.0784313725490196,1.5764499121265378,False,No significant deviation or insufficient prior history for this user.
+SAAS-00338,user_018,2025-06-17T13:06:34,64,8.11,53.0,7.14,1.2075471698113207,1.1358543417366946,False,No significant deviation or insufficient prior history for this user.
+SAAS-00062,user_049,2025-06-17T13:07:39,66,19.56,61.5,6.3,1.0731707317073171,3.104761904761905,False,No significant deviation or insufficient prior history for this user.
+SAAS-00737,user_018,2025-06-17T13:22:44,35,10.58,58.5,7.205,0.5982905982905983,1.4684247050659265,False,No significant deviation or insufficient prior history for this user.
+SAAS-00405,user_023,2025-06-17T14:18:15,38,10.45,69.0,6.15,0.5507246376811594,1.6991869918699185,False,No significant deviation or insufficient prior history for this user.
+SAAS-00063,user_017,2025-06-17T14:21:40,73,7.84,55.0,7.734999999999999,1.3272727272727274,1.0135746606334841,False,No significant deviation or insufficient prior history for this user.
+SAAS-00649,user_031,2025-06-17T14:48:04,51,476.62,52.0,7.9,0.9807692307692307,60.33164556962025,True,Upload 476.62 MB vs historical median 7.90 MB (60.33x).
+SAAS-00226,user_022,2025-06-17T14:53:37,40,8.25,53.0,9.120000000000001,0.7547169811320755,0.9046052631578947,False,No significant deviation or insufficient prior history for this user.
+SAAS-00928,user_040,2025-06-17T14:54:57,50,522.6,55.5,8.75,0.9009009009009009,59.72571428571429,True,Upload 522.60 MB vs historical median 8.75 MB (59.73x).
+SAAS-00645,user_032,2025-06-17T14:59:56,68,4.45,68.0,11.75,1.0,0.37872340425531914,False,No significant deviation or insufficient prior history for this user.
+SAAS-00428,user_032,2025-06-17T15:23:54,33,8.38,68.0,11.05,0.4852941176470588,0.7583710407239819,False,No significant deviation or insufficient prior history for this user.
+SAAS-01047,user_032,2025-06-17T15:32:18,310,15.65,68.0,10.35,4.5588235294117645,1.5120772946859904,True,Requests 310 vs historical median 68.00 (4.56x).
+SAAS-00923,user_020,2025-06-17T15:48:32,77,11.18,62.0,11.09,1.2419354838709677,1.0081154192966637,False,No significant deviation or insufficient prior history for this user.
+SAAS-00414,user_019,2025-06-17T16:13:43,56,8.11,59.0,7.75,0.9491525423728814,1.0464516129032257,False,No significant deviation or insufficient prior history for this user.
+SAAS-00100,user_027,2025-06-17T16:20:07,75,7.39,61.0,11.48,1.2295081967213115,0.6437282229965157,False,No significant deviation or insufficient prior history for this user.
+SAAS-00549,user_040,2025-06-17T16:53:07,39,3.08,53.0,8.97,0.7358490566037735,0.3433667781493868,False,No significant deviation or insufficient prior history for this user.
+SAAS-00206,user_025,2025-06-17T17:09:08,59,13.11,49.0,9.57,1.2040816326530612,1.3699059561128526,False,No significant deviation or insufficient prior history for this user.
+SAAS-00665,user_048,2025-06-17T18:36:13,92,7.91,58.0,8.21,1.5862068965517242,0.9634591961023141,False,No significant deviation or insufficient prior history for this user.
+SAAS-00257,user_043,2025-06-17T18:39:56,47,7.97,48.0,7.82,0.9791666666666666,1.0191815856777493,False,No significant deviation or insufficient prior history for this user.
+SAAS-00541,user_050,2025-06-17T18:54:36,677,11.08,61.5,9.32,11.008130081300813,1.1888412017167382,True,Requests 677 vs historical median 61.50 (11.01x).
+SAAS-00059,user_047,2025-06-18T00:49:41,33,17.3,52.0,8.74,0.6346153846153846,1.9794050343249427,False,No significant deviation or insufficient prior history for this user.
+SAAS-00907,user_001,2025-06-18T08:12:54,48,13.58,56.0,4.26,0.8571428571428571,3.187793427230047,False,No significant deviation or insufficient prior history for this user.
+SAAS-00675,user_043,2025-06-18T08:33:33,446,5.48,47.5,7.85,9.389473684210527,0.6980891719745224,True,Requests 446 vs historical median 47.50 (9.39x).
+SAAS-00347,user_037,2025-06-18T08:36:46,68,29.21,46.5,12.195,1.4623655913978495,2.3952439524395244,False,No significant deviation or insufficient prior history for this user.
+SAAS-00381,user_002,2025-06-18T08:37:08,36,14.52,50.5,12.43,0.7128712871287128,1.168141592920354,False,No significant deviation or insufficient prior history for this user.
+SAAS-00358,user_042,2025-06-18T08:44:04,77,3.69,51.0,10.215,1.5098039215686274,0.36123348017621143,False,No significant deviation or insufficient prior history for this user.
+SAAS-00471,user_015,2025-06-18T08:57:53,32,9.85,43.5,8.719999999999999,0.735632183908046,1.1295871559633028,False,No significant deviation or insufficient prior history for this user.
+SAAS-00701,user_031,2025-06-18T08:59:35,35,8.79,51.5,8.27,0.6796116504854369,1.0628778718258767,False,No significant deviation or insufficient prior history for this user.
+SAAS-00732,user_032,2025-06-18T09:27:37,49,6.18,68.0,11.05,0.7205882352941176,0.5592760180995474,False,No significant deviation or insufficient prior history for this user.
+SAAS-00734,user_011,2025-06-18T09:28:11,50,17.88,53.0,6.88,0.9433962264150944,2.5988372093023253,False,No significant deviation or insufficient prior history for this user.
+SAAS-00795,user_045,2025-06-18T09:37:34,54,15.33,52.0,9.66,1.0384615384615385,1.5869565217391304,False,No significant deviation or insufficient prior history for this user.
+SAAS-01092,user_021,2025-06-18T09:44:03,54,7.03,63.0,7.42,0.8571428571428571,0.9474393530997305,False,No significant deviation or insufficient prior history for this user.
+SAAS-00446,user_012,2025-06-18T09:47:32,54,11.58,53.0,6.035,1.0188679245283019,1.9188069594034796,False,No significant deviation or insufficient prior history for this user.
+SAAS-00153,user_029,2025-06-18T10:19:23,47,7.98,52.0,9.39,0.9038461538461539,0.8498402555910544,False,No significant deviation or insufficient prior history for this user.
+SAAS-00933,user_019,2025-06-18T10:33:30,45,17.22,57.5,7.93,0.782608695652174,2.171500630517024,False,No significant deviation or insufficient prior history for this user.
+SAAS-00098,user_042,2025-06-18T10:51:46,87,33.82,51.0,9.26,1.7058823529411764,3.652267818574514,True,Upload 33.82 MB vs historical median 9.26 MB (3.65x).
+SAAS-00931,user_020,2025-06-18T11:03:34,54,15.27,64.0,11.18,0.84375,1.3658318425760285,False,No significant deviation or insufficient prior history for this user.
+SAAS-00977,user_040,2025-06-18T11:23:31,33,3.12,53.0,8.75,0.6226415094339622,0.3565714285714286,False,No significant deviation or insufficient prior history for this user.
+SAAS-00521,user_034,2025-06-18T11:31:51,53,6.96,52.0,7.41,1.0192307692307692,0.9392712550607287,False,No significant deviation or insufficient prior history for this user.
+SAAS-00825,user_031,2025-06-18T12:08:32,69,2.02,51.0,8.64,1.3529411764705883,0.23379629629629628,False,No significant deviation or insufficient prior history for this user.
+SAAS-00867,user_046,2025-06-18T12:14:12,43,4.54,42.0,12.25,1.0238095238095237,0.3706122448979592,False,No significant deviation or insufficient prior history for this user.
+SAAS-00220,user_038,2025-06-18T12:45:35,35,8.82,47.0,10.44,0.7446808510638298,0.8448275862068966,False,No significant deviation or insufficient prior history for this user.
+SAAS-00981,user_002,2025-06-18T13:17:20,29,6.43,50.0,12.67,0.58,0.5074980268350434,False,No significant deviation or insufficient prior history for this user.
+SAAS-00413,user_040,2025-06-18T13:17:35,54,0.75,53.0,8.53,1.0188679245283019,0.08792497069167644,False,No significant deviation or insufficient prior history for this user.
+SAAS-01006,user_049,2025-06-18T13:30:30,76,215.18,66.0,6.35,1.1515151515151516,33.88661417322835,True,Upload 215.18 MB vs historical median 6.35 MB (33.89x).
+SAAS-00319,user_050,2025-06-18T14:25:07,64,452.97,64.0,9.41,1.0,48.13708820403826,True,Upload 452.97 MB vs historical median 9.41 MB (48.14x).
+SAAS-00266,user_002,2025-06-18T14:40:06,61,13.59,49.0,12.43,1.2448979591836735,1.0933226065969428,False,No significant deviation or insufficient prior history for this user.
+SAAS-00698,user_009,2025-06-18T14:51:18,562,2.93,44.0,9.99,12.772727272727273,0.2932932932932933,True,Requests 562 vs historical median 44.00 (12.77x).
+SAAS-00465,user_009,2025-06-18T14:56:15,71,6.93,44.5,9.215,1.595505617977528,0.7520347259902332,False,No significant deviation or insufficient prior history for this user.
+SAAS-00318,user_048,2025-06-18T15:36:32,38,14.21,58.0,8.06,0.6551724137931034,1.7630272952853598,False,No significant deviation or insufficient prior history for this user.
+SAAS-00580,user_032,2025-06-18T15:51:28,54,1.58,68.0,10.35,0.7941176470588235,0.15265700483091788,False,No significant deviation or insufficient prior history for this user.
+SAAS-00479,user_034,2025-06-18T16:18:02,53,9.9,52.5,7.385,1.0095238095238095,1.3405551794177388,False,No significant deviation or insufficient prior history for this user.
+SAAS-00469,user_017,2025-06-18T16:24:33,71,4.16,57.0,7.84,1.2456140350877194,0.5306122448979592,False,No significant deviation or insufficient prior history for this user.
+SAAS-00921,user_020,2025-06-18T16:24:50,55,17.55,62.0,11.19,0.8870967741935484,1.5683646112600538,False,No significant deviation or insufficient prior history for this user.
+SAAS-00657,user_022,2025-06-18T16:26:25,37,5.0,53.0,8.25,0.6981132075471698,0.6060606060606061,False,No significant deviation or insufficient prior history for this user.
+SAAS-00552,user_035,2025-06-18T16:42:14,48,9.18,58.0,7.89,0.8275862068965517,1.1634980988593155,False,No significant deviation or insufficient prior history for this user.
+SAAS-00904,user_004,2025-06-18T17:06:13,65,8.42,50.0,8.73,1.3,0.9644902634593355,False,No significant deviation or insufficient prior history for this user.
+SAAS-01021,user_025,2025-06-18T17:14:03,66,8.42,54.0,9.77,1.2222222222222223,0.8618219037871034,False,No significant deviation or insufficient prior history for this user.
+SAAS-00303,user_037,2025-06-18T17:21:32,50,30.57,47.0,12.4,1.0638297872340425,2.4653225806451613,False,No significant deviation or insufficient prior history for this user.
+SAAS-00171,user_049,2025-06-18T18:36:28,73,5.86,66.0,6.77,1.106060606060606,0.8655834564254064,False,No significant deviation or insufficient prior history for this user.
+SAAS-00864,user_015,2025-06-18T18:57:25,658,5.24,41.0,9.29,16.048780487804876,0.5640473627556513,True,Requests 658 vs historical median 41.00 (16.05x).
+SAAS-00652,user_011,2025-06-19T04:19:13,33,8.5,52.5,8.0,0.6285714285714286,1.0625,False,No significant deviation or insufficient prior history for this user.
+SAAS-00735,user_013,2025-06-19T08:16:51,62,15.91,57.5,6.8149999999999995,1.0782608695652174,2.3345561261922234,False,No significant deviation or insufficient prior history for this user.
+SAAS-00985,user_039,2025-06-19T08:17:57,90,12.43,56.0,6.15,1.6071428571428572,2.0211382113821137,False,No significant deviation or insufficient prior history for this user.
+SAAS-01107,user_011,2025-06-19T08:32:27,11,652.24,52.0,8.5,0.21153846153846154,76.73411764705882,True,Upload 652.24 MB vs historical median 8.50 MB (76.73x).
+SAAS-00727,user_019,2025-06-19T08:36:56,80,10.58,56.0,8.11,1.4285714285714286,1.3045622688039458,False,No significant deviation or insufficient prior history for this user.
+SAAS-00201,user_005,2025-06-19T09:02:40,45,18.04,61.0,11.76,0.7377049180327869,1.534013605442177,False,No significant deviation or insufficient prior history for this user.
+SAAS-00286,user_030,2025-06-19T09:15:29,37,34.61,68.0,8.04,0.5441176470588235,4.304726368159204,True,Upload 34.61 MB vs historical median 8.04 MB (4.30x).
+SAAS-00438,user_006,2025-06-19T09:26:03,57,2.49,57.5,6.385,0.991304347826087,0.38997650743931095,False,No significant deviation or insufficient prior history for this user.
+SAAS-00562,user_015,2025-06-19T09:30:36,109,4.2,43.5,8.719999999999999,2.5057471264367814,0.4816513761467891,False,No significant deviation or insufficient prior history for this user.
+SAAS-00569,user_011,2025-06-19T09:51:09,48,4.66,51.0,8.809999999999999,0.9411764705882353,0.52894438138479,False,No significant deviation or insufficient prior history for this user.
+SAAS-00677,user_050,2025-06-19T10:06:03,54,14.05,64.0,9.425,0.84375,1.4907161803713527,False,No significant deviation or insufficient prior history for this user.
+SAAS-00178,user_027,2025-06-19T10:06:21,43,675.02,62.0,10.855,0.6935483870967742,62.18516812528788,True,Upload 675.02 MB vs historical median 10.86 MB (62.19x).
+SAAS-00618,user_033,2025-06-19T10:23:38,39,490.04,54.5,6.15,0.7155963302752294,79.68130081300814,True,Upload 490.04 MB vs historical median 6.15 MB (79.68x).
+SAAS-01014,user_050,2025-06-19T10:27:45,53,10.66,64.0,9.44,0.828125,1.1292372881355932,False,No significant deviation or insufficient prior history for this user.
+SAAS-00899,user_027,2025-06-19T10:36:21,86,7.87,61.0,11.48,1.4098360655737705,0.6855400696864111,False,No significant deviation or insufficient prior history for this user.
+SAAS-00743,user_050,2025-06-19T10:51:43,78,696.21,61.5,9.71,1.2682926829268293,71.70030895983521,True,Upload 696.21 MB vs historical median 9.71 MB (71.70x).
+SAAS-00831,user_014,2025-06-19T10:52:10,37,1.97,52.0,9.59,0.7115384615384616,0.205422314911366,False,No significant deviation or insufficient prior history for this user.
+SAAS-00589,user_034,2025-06-19T10:53:51,85,3.07,53.0,7.41,1.6037735849056605,0.41430499325236164,False,No significant deviation or insufficient prior history for this user.
+SAAS-01142,user_028,2025-06-19T10:54:56,95,7.36,56.0,11.71,1.6964285714285714,0.6285226302305721,False,No significant deviation or insufficient prior history for this user.
+SAAS-00065,user_017,2025-06-19T11:33:22,68,7.26,58.5,6.57,1.1623931623931625,1.1050228310502281,False,No significant deviation or insufficient prior history for this user.
+SAAS-00629,user_022,2025-06-19T11:41:25,49,3.05,52.5,7.96,0.9333333333333333,0.3831658291457286,False,No significant deviation or insufficient prior history for this user.
+SAAS-00320,user_020,2025-06-19T11:58:35,68,4.39,60.0,11.2,1.1333333333333333,0.3919642857142857,False,No significant deviation or insufficient prior history for this user.
+SAAS-00010,user_031,2025-06-19T12:03:26,43,14.27,51.5,8.27,0.8349514563106796,1.7255139056831923,False,No significant deviation or insufficient prior history for this user.
+SAAS-01052,user_024,2025-06-19T12:12:38,30,6.64,67.5,6.13,0.4444444444444444,1.0831973898858074,False,No significant deviation or insufficient prior history for this user.
+SAAS-00606,user_013,2025-06-19T12:24:10,49,10.32,62.0,7.59,0.7903225806451613,1.3596837944664033,False,No significant deviation or insufficient prior history for this user.
+SAAS-00876,user_044,2025-06-19T12:46:15,55,2.79,44.5,8.280000000000001,1.2359550561797752,0.3369565217391304,False,No significant deviation or insufficient prior history for this user.
+SAAS-01168,user_045,2025-06-19T12:50:25,99,4.13,52.5,10.515,1.8857142857142857,0.3927722301474084,False,No significant deviation or insufficient prior history for this user.
+SAAS-01112,user_029,2025-06-19T12:51:48,37,19.1,51.5,8.685,0.7184466019417476,2.199194012665515,False,No significant deviation or insufficient prior history for this user.
+SAAS-00422,user_007,2025-06-19T13:25:28,92,17.66,46.0,8.68,2.0,2.0345622119815667,False,No significant deviation or insufficient prior history for this user.
+SAAS-00463,user_017,2025-06-19T13:38:29,67,6.69,60.0,7.26,1.1166666666666667,0.9214876033057852,False,No significant deviation or insufficient prior history for this user.
+SAAS-00423,user_023,2025-06-19T14:16:20,49,15.2,66.0,6.555,0.7424242424242424,2.318840579710145,False,No significant deviation or insufficient prior history for this user.
+SAAS-01096,user_028,2025-06-19T14:34:55,54,22.21,58.0,11.44,0.9310344827586207,1.9414335664335667,False,No significant deviation or insufficient prior history for this user.
+SAAS-00641,user_048,2025-06-19T14:55:06,55,10.84,58.0,8.21,0.9482758620689655,1.3203410475030448,False,No significant deviation or insufficient prior history for this user.
+SAAS-00495,user_007,2025-06-19T15:16:21,575,30.07,47.5,9.02,12.105263157894736,3.3337028824833705,True,Requests 575 vs historical median 47.50 (12.11x).
+SAAS-00780,user_039,2025-06-19T15:30:42,61,8.8,58.0,7.86,1.0517241379310345,1.1195928753180662,False,No significant deviation or insufficient prior history for this user.
+SAAS-00908,user_019,2025-06-19T15:36:03,56,369.3,57.5,9.19,0.9739130434782609,40.18498367791078,True,Upload 369.30 MB vs historical median 9.19 MB (40.18x).
+SAAS-00646,user_027,2025-06-19T15:41:34,31,3.85,62.0,10.855,0.5,0.3546752648549056,False,No significant deviation or insufficient prior history for this user.
+SAAS-01037,user_041,2025-06-19T16:38:22,44,11.36,55.0,7.72,0.8,1.471502590673575,False,No significant deviation or insufficient prior history for this user.
+SAAS-00161,user_028,2025-06-19T17:16:41,63,791.13,56.0,11.71,1.125,67.56020495303159,True,Upload 791.13 MB vs historical median 11.71 MB (67.56x).
+SAAS-00783,user_035,2025-06-19T17:17:49,59,5.5,53.0,8.34,1.1132075471698113,0.6594724220623501,False,No significant deviation or insufficient prior history for this user.
+SAAS-00802,user_014,2025-06-19T17:20:14,68,24.23,50.0,9.485,1.36,2.554559831312599,False,No significant deviation or insufficient prior history for this user.
+SAAS-00176,user_047,2025-06-19T17:20:18,91,7.78,51.5,8.99,1.766990291262136,0.8654060066740823,False,No significant deviation or insufficient prior history for this user.
+SAAS-00309,user_023,2025-06-19T18:38:29,102,10.94,63.0,6.96,1.619047619047619,1.57183908045977,False,No significant deviation or insufficient prior history for this user.
+SAAS-00594,user_015,2025-06-19T18:45:38,49,1.43,46.0,8.15,1.065217391304348,0.1754601226993865,False,No significant deviation or insufficient prior history for this user.
+SAAS-00699,user_044,2025-06-19T18:45:59,37,25.33,45.0,7.67,0.8222222222222222,3.302477183833116,False,No significant deviation or insufficient prior history for this user.
+SAAS-00863,user_048,2025-06-20T02:27:24,28,8.79,56.5,8.39,0.49557522123893805,1.0476758045292012,False,No significant deviation or insufficient prior history for this user.
+SAAS-00462,user_047,2025-06-20T08:13:41,50,6.53,52.0,8.74,0.9615384615384616,0.7471395881006865,False,No significant deviation or insufficient prior history for this user.
+SAAS-00532,user_038,2025-06-20T08:28:43,58,3.2,46.5,10.05,1.2473118279569892,0.31840796019900497,False,No significant deviation or insufficient prior history for this user.
+SAAS-01176,user_004,2025-06-20T08:34:39,42,7.41,50.5,8.575,0.8316831683168316,0.8641399416909622,False,No significant deviation or insufficient prior history for this user.
+SAAS-00581,user_021,2025-06-20T09:06:21,70,5.39,62.5,7.295,1.12,0.7388622344071282,False,No significant deviation or insufficient prior history for this user.
+SAAS-01172,user_034,2025-06-20T09:23:56,79,7.2,53.0,7.385,1.490566037735849,0.9749492213947191,False,No significant deviation or insufficient prior history for this user.
+SAAS-00602,user_035,2025-06-20T09:26:18,60,8.34,58.0,7.89,1.0344827586206897,1.0570342205323193,False,No significant deviation or insufficient prior history for this user.
+SAAS-00294,user_014,2025-06-20T09:34:59,63,16.43,52.0,9.59,1.2115384615384615,1.713242961418144,False,No significant deviation or insufficient prior history for this user.
+SAAS-00869,user_015,2025-06-20T09:52:21,55,12.43,47.5,8.105,1.1578947368421053,1.5336212214682294,False,No significant deviation or insufficient prior history for this user.
+SAAS-00419,user_050,2025-06-20T09:55:09,47,14.19,64.0,9.98,0.734375,1.4218436873747493,False,No significant deviation or insufficient prior history for this user.
+SAAS-00120,user_021,2025-06-20T09:58:09,60,8.85,63.0,7.17,0.9523809523809523,1.2343096234309623,False,No significant deviation or insufficient prior history for this user.
+SAAS-00572,user_044,2025-06-20T10:23:51,60,387.64,44.5,8.280000000000001,1.348314606741573,46.81642512077294,True,Upload 387.64 MB vs historical median 8.28 MB (46.82x).
+SAAS-00366,user_015,2025-06-20T10:38:45,482,10.87,49.0,8.15,9.83673469387755,1.3337423312883434,True,Requests 482 vs historical median 49.00 (9.84x).
+SAAS-00961,user_045,2025-06-20T10:50:57,73,6.81,53.0,9.66,1.3773584905660377,0.7049689440993788,False,No significant deviation or insufficient prior history for this user.
+SAAS-00377,user_016,2025-06-20T11:04:00,30,2.08,48.0,9.11,0.625,0.2283205268935236,False,No significant deviation or insufficient prior history for this user.
+SAAS-01009,user_019,2025-06-20T11:15:51,45,9.42,56.0,10.27,0.8035714285714286,0.9172346640701071,False,No significant deviation or insufficient prior history for this user.
+SAAS-00075,user_004,2025-06-20T11:43:52,51,9.72,50.0,8.42,1.02,1.154394299287411,False,No significant deviation or insufficient prior history for this user.
+SAAS-01158,user_015,2025-06-20T12:08:58,65,15.67,52.0,8.719999999999999,1.25,1.7970183486238533,False,No significant deviation or insufficient prior history for this user.
+SAAS-00902,user_049,2025-06-20T12:26:18,77,6.12,66.0,6.35,1.1666666666666667,0.9637795275590552,False,No significant deviation or insufficient prior history for this user.
+SAAS-00690,user_020,2025-06-20T12:38:33,750,4.23,62.0,11.19,12.096774193548388,0.37801608579088475,True,Requests 750 vs historical median 62.00 (12.10x).
+SAAS-00411,user_019,2025-06-20T12:48:49,46,9.87,56.0,9.844999999999999,0.8214285714285714,1.0025393600812595,False,No significant deviation or insufficient prior history for this user.
+SAAS-00935,user_005,2025-06-20T12:51:47,50,4.78,59.5,12.44,0.8403361344537815,0.38424437299035374,False,No significant deviation or insufficient prior history for this user.
+SAAS-00634,user_013,2025-06-20T13:17:33,37,4.86,57.5,7.79,0.6434782608695652,0.6238767650834404,False,No significant deviation or insufficient prior history for this user.
+SAAS-01091,user_046,2025-06-20T13:59:14,698,7.43,42.5,11.915,16.423529411764704,0.6235837180025179,True,Requests 698 vs historical median 42.50 (16.42x).
+SAAS-00748,user_028,2025-06-20T14:02:27,67,11.81,58.0,11.98,1.1551724137931034,0.9858096828046745,False,No significant deviation or insufficient prior history for this user.
+SAAS-01197,user_028,2025-06-20T14:02:55,58,9.07,58.0,11.895,1.0,0.762505254308533,False,No significant deviation or insufficient prior history for this user.
+SAAS-00147,user_007,2025-06-20T14:40:33,35,242.43,49.0,9.36,0.7142857142857143,25.90064102564103,True,Upload 242.43 MB vs historical median 9.36 MB (25.90x).
+SAAS-00379,user_008,2025-06-20T14:42:33,75,5.92,61.0,7.42,1.2295081967213115,0.7978436657681941,False,No significant deviation or insufficient prior history for this user.
+SAAS-00839,user_007,2025-06-20T14:46:36,68,7.14,47.5,9.455,1.431578947368421,0.7551560021152829,False,No significant deviation or insufficient prior history for this user.
+SAAS-00889,user_013,2025-06-20T14:53:34,61,6.25,53.0,7.59,1.150943396226415,0.8234519104084321,False,No significant deviation or insufficient prior history for this user.
+SAAS-00764,user_031,2025-06-20T15:06:24,63,19.05,51.0,8.64,1.2352941176470589,2.204861111111111,False,No significant deviation or insufficient prior history for this user.
+SAAS-00114,user_003,2025-06-20T15:11:44,69,6.7,53.0,7.21,1.3018867924528301,0.9292649098474342,False,No significant deviation or insufficient prior history for this user.
+SAAS-01104,user_043,2025-06-20T15:51:02,64,6.83,48.0,7.82,1.3333333333333333,0.8734015345268542,False,No significant deviation or insufficient prior history for this user.
+SAAS-01165,user_042,2025-06-20T16:12:32,37,16.85,54.5,10.215,0.6788990825688074,1.6495349975526188,False,No significant deviation or insufficient prior history for this user.
+SAAS-01171,user_038,2025-06-20T16:24:51,45,7.38,47.0,9.66,0.9574468085106383,0.7639751552795031,False,No significant deviation or insufficient prior history for this user.
+SAAS-00086,user_028,2025-06-20T16:28:27,52,1.4,58.0,11.81,0.896551724137931,0.11854360711261641,False,No significant deviation or insufficient prior history for this user.
+SAAS-00638,user_032,2025-06-20T16:42:29,39,9.31,61.5,9.365,0.6341463414634146,0.994127068873465,False,No significant deviation or insufficient prior history for this user.
+SAAS-01101,user_013,2025-06-20T17:11:34,74,6.76,57.0,6.92,1.2982456140350878,0.976878612716763,False,No significant deviation or insufficient prior history for this user.
+SAAS-00860,user_008,2025-06-20T17:29:38,8,7.11,63.5,6.845,0.12598425196850394,1.0387143900657414,False,No significant deviation or insufficient prior history for this user.
+SAAS-00624,user_030,2025-06-20T17:30:23,67,6.97,62.5,8.93,1.072,0.780515117581187,False,No significant deviation or insufficient prior history for this user.
+SAAS-01189,user_042,2025-06-20T17:52:41,77,7.47,51.0,11.17,1.5098039215686274,0.6687555953446732,False,No significant deviation or insufficient prior history for this user.
+SAAS-00626,user_028,2025-06-20T18:24:17,40,10.91,58.0,11.625,0.6896551724137931,0.938494623655914,False,No significant deviation or insufficient prior history for this user.
+SAAS-00069,user_047,2025-06-20T18:33:04,76,0.78,51.5,8.26,1.4757281553398058,0.09443099273607748,False,No significant deviation or insufficient prior history for this user.
+SAAS-01002,user_036,2025-06-21T08:14:19,64,21.82,56.5,4.42,1.1327433628318584,4.9366515837104075,True,Upload 21.82 MB vs historical median 4.42 MB (4.94x).
+SAAS-00623,user_041,2025-06-21T08:24:43,74,9.19,52.5,8.004999999999999,1.4095238095238096,1.1480324797001875,False,No significant deviation or insufficient prior history for this user.
+SAAS-00605,user_018,2025-06-21T08:28:43,46,12.45,53.0,7.27,0.8679245283018868,1.7125171939477304,False,No significant deviation or insufficient prior history for this user.
+SAAS-00578,user_050,2025-06-21T08:32:24,61,17.62,61.5,10.32,0.991869918699187,1.7073643410852715,False,No significant deviation or insufficient prior history for this user.
+SAAS-00087,user_006,2025-06-21T08:34:46,38,4.36,57.0,6.16,0.6666666666666666,0.7077922077922079,False,No significant deviation or insufficient prior history for this user.
+SAAS-00361,user_016,2025-06-21T08:36:03,71,3.95,47.0,8.62,1.5106382978723405,0.4582366589327147,False,No significant deviation or insufficient prior history for this user.
+SAAS-00121,user_021,2025-06-21T08:45:58,77,2.08,62.5,7.295,1.232,0.2851267991775189,False,No significant deviation or insufficient prior history for this user.
+SAAS-00885,user_018,2025-06-21T08:58:44,56,5.04,49.5,7.55,1.1313131313131313,0.6675496688741722,False,No significant deviation or insufficient prior history for this user.
+SAAS-00150,user_047,2025-06-21T09:04:24,11,517.19,52.0,7.78,0.21153846153846154,66.47686375321338,True,Upload 517.19 MB vs historical median 7.78 MB (66.48x).
+SAAS-00789,user_042,2025-06-21T09:07:12,55,5.78,54.5,10.215,1.0091743119266054,0.5658345570239843,False,No significant deviation or insufficient prior history for this user.
+SAAS-00716,user_032,2025-06-21T09:07:33,90,1.85,55.0,9.31,1.6363636363636365,0.19871106337271752,False,No significant deviation or insufficient prior history for this user.
+SAAS-00712,user_035,2025-06-21T09:12:35,69,2.49,58.5,8.115,1.1794871794871795,0.3068391866913124,False,No significant deviation or insufficient prior history for this user.
+SAAS-00308,user_041,2025-06-21T09:13:51,68,14.1,55.0,8.29,1.2363636363636363,1.7008443908323283,False,No significant deviation or insufficient prior history for this user.
+SAAS-00101,user_012,2025-06-21T10:33:06,28,5.53,54.0,6.38,0.5185185185185185,0.8667711598746082,False,No significant deviation or insufficient prior history for this user.
+SAAS-00968,user_020,2025-06-21T10:49:58,53,5.81,64.0,11.18,0.828125,0.5196779964221825,False,No significant deviation or insufficient prior history for this user.
+SAAS-00384,user_002,2025-06-21T11:02:55,46,19.13,50.0,12.67,0.92,1.5098658247829517,False,No significant deviation or insufficient prior history for this user.
+SAAS-00011,user_029,2025-06-21T11:32:31,79,1.18,51.0,9.39,1.5490196078431373,0.12566560170394034,False,No significant deviation or insufficient prior history for this user.
+SAAS-00129,user_020,2025-06-21T11:40:15,26,9.8,62.0,11.08,0.41935483870967744,0.8844765342960289,False,No significant deviation or insufficient prior history for this user.
+SAAS-00325,user_040,2025-06-21T11:42:05,20,8.12,53.0,8.325,0.37735849056603776,0.9753753753753753,False,No significant deviation or insufficient prior history for this user.
+SAAS-01113,user_015,2025-06-21T12:13:00,65,230.4,55.0,9.29,1.1818181818181819,24.800861141011843,True,Upload 230.40 MB vs historical median 9.29 MB (24.80x).
+SAAS-00023,user_019,2025-06-21T12:44:44,53,9.56,56.0,9.87,0.9464285714285714,0.9685916919959474,False,No significant deviation or insufficient prior history for this user.
+SAAS-00744,user_038,2025-06-21T12:57:12,65,1.22,46.5,9.655000000000001,1.3978494623655915,0.12635939927498704,False,No significant deviation or insufficient prior history for this user.
+SAAS-00936,user_006,2025-06-21T13:23:11,56,3.34,57.0,5.925000000000001,0.9824561403508771,0.5637130801687763,False,No significant deviation or insufficient prior history for this user.
+SAAS-01045,user_047,2025-06-21T13:32:39,46,7.38,51.5,8.26,0.8932038834951457,0.8934624697336562,False,No significant deviation or insufficient prior history for this user.
+SAAS-00224,user_031,2025-06-21T14:02:53,75,3.11,51.5,8.71,1.4563106796116505,0.357060849598163,False,No significant deviation or insufficient prior history for this user.
+SAAS-00329,user_046,2025-06-21T14:06:15,39,12.81,43.0,11.58,0.9069767441860465,1.1062176165803108,False,No significant deviation or insufficient prior history for this user.
+SAAS-00332,user_038,2025-06-21T14:11:03,36,13.64,47.0,9.65,0.7659574468085106,1.4134715025906737,False,No significant deviation or insufficient prior history for this user.
+SAAS-00051,user_001,2025-06-21T14:23:49,87,5.43,54.0,4.81,1.6111111111111112,1.128898128898129,False,No significant deviation or insufficient prior history for this user.
+SAAS-00898,user_047,2025-06-21T14:45:30,296,6.52,51.0,7.78,5.803921568627451,0.8380462724935732,True,Requests 296 vs historical median 51.00 (5.80x).
+SAAS-00152,user_039,2025-06-21T15:01:12,52,4.79,59.0,8.33,0.8813559322033898,0.575030012004802,False,No significant deviation or insufficient prior history for this user.
+SAAS-00940,user_045,2025-06-21T15:30:59,25,24.51,53.5,9.31,0.4672897196261682,2.63265306122449,False,No significant deviation or insufficient prior history for this user.
+SAAS-00913,user_047,2025-06-21T15:47:48,95,16.6,51.5,7.765000000000001,1.8446601941747574,2.137797810688989,False,No significant deviation or insufficient prior history for this user.
+SAAS-00950,user_039,2025-06-21T15:50:19,713,11.8,58.0,7.86,12.293103448275861,1.5012722646310432,True,Requests 713 vs historical median 58.00 (12.29x).
+SAAS-00946,user_045,2025-06-21T15:58:06,76,5.47,53.0,9.66,1.4339622641509433,0.5662525879917184,False,No significant deviation or insufficient prior history for this user.
+SAAS-00022,user_015,2025-06-21T16:16:59,49,5.13,56.5,9.565,0.8672566371681416,0.5363303711447988,False,No significant deviation or insufficient prior history for this user.
+SAAS-00159,user_021,2025-06-21T16:20:25,55,501.32,63.0,7.17,0.873015873015873,69.91910739191074,True,Upload 501.32 MB vs historical median 7.17 MB (69.92x).
+SAAS-00382,user_022,2025-06-21T16:34:32,73,18.3,52.0,7.67,1.4038461538461537,2.385919165580183,False,No significant deviation or insufficient prior history for this user.
+SAAS-00516,user_026,2025-06-21T16:37:03,51,7.98,56.0,11.094999999999999,0.9107142857142857,0.719242902208202,False,No significant deviation or insufficient prior history for this user.
+SAAS-01180,user_021,2025-06-21T16:44:11,61,3.17,62.5,7.295,0.976,0.4345442083618917,False,No significant deviation or insufficient prior history for this user.
+SAAS-00130,user_027,2025-06-21T16:55:09,35,6.92,61.0,10.23,0.5737704918032787,0.6764418377321603,False,No significant deviation or insufficient prior history for this user.
+SAAS-00604,user_044,2025-06-21T16:59:19,60,10.12,45.0,8.89,1.3333333333333333,1.138357705286839,False,No significant deviation or insufficient prior history for this user.
+SAAS-00386,user_028,2025-06-21T17:06:05,59,689.53,58.0,11.44,1.0172413793103448,60.2736013986014,True,Upload 689.53 MB vs historical median 11.44 MB (60.27x).
+SAAS-01159,user_004,2025-06-21T17:09:34,68,5.08,50.5,8.575,1.3465346534653466,0.5924198250728864,False,No significant deviation or insufficient prior history for this user.
+SAAS-00449,user_045,2025-06-21T17:11:45,91,779.3,53.5,9.31,1.7009345794392523,83.70569280343716,True,Upload 779.30 MB vs historical median 9.31 MB (83.71x).
+SAAS-00024,user_030,2025-06-21T17:19:25,53,4.15,67.0,8.04,0.7910447761194029,0.5161691542288558,False,No significant deviation or insufficient prior history for this user.
+SAAS-01167,user_034,2025-06-21T17:20:51,533,26.33,53.0,7.36,10.056603773584905,3.5774456521739126,True,Requests 533 vs historical median 53.00 (10.06x). Upload 26.33 MB vs historical median 7.36 MB (3.58x).
+SAAS-01029,user_012,2025-06-21T17:51:57,53,8.17,52.5,6.035,1.0095238095238095,1.3537696768848384,False,No significant deviation or insufficient prior history for this user.
+SAAS-01116,user_007,2025-06-21T18:00:24,64,8.76,49.0,9.36,1.3061224489795917,0.9358974358974359,False,No significant deviation or insufficient prior history for this user.
+SAAS-00453,user_046,2025-06-21T18:13:15,80,8.96,42.5,11.915,1.8823529411764706,0.7519932857742343,False,No significant deviation or insufficient prior history for this user.
+SAAS-01051,user_013,2025-06-21T18:36:30,16,7.78,61.0,6.76,0.26229508196721313,1.150887573964497,False,No significant deviation or insufficient prior history for this user.
+SAAS-00947,user_005,2025-06-21T18:43:57,47,8.92,58.0,11.76,0.8103448275862069,0.7585034013605442,False,No significant deviation or insufficient prior history for this user.
+SAAS-00610,user_018,2025-06-22T02:42:48,58,3.05,53.0,7.27,1.0943396226415094,0.4195323246217332,False,No significant deviation or insufficient prior history for this user.
+SAAS-00840,user_027,2025-06-22T08:06:24,41,5.48,57.0,9.940000000000001,0.7192982456140351,0.5513078470824949,False,No significant deviation or insufficient prior history for this user.
+SAAS-00753,user_003,2025-06-22T08:22:16,78,1.81,57.0,6.955,1.368421052631579,0.26024442846872753,False,No significant deviation or insufficient prior history for this user.
+SAAS-00217,user_032,2025-06-22T08:22:17,74,5.97,61.5,8.845,1.2032520325203253,0.6749576031656302,False,No significant deviation or insufficient prior history for this user.
+SAAS-01063,user_039,2025-06-22T08:44:05,49,6.59,59.0,8.33,0.8305084745762712,0.7911164465786314,False,No significant deviation or insufficient prior history for this user.
+SAAS-00262,user_030,2025-06-22T09:22:19,52,8.07,62.0,7.504999999999999,0.8387096774193549,1.0752831445702866,False,No significant deviation or insufficient prior history for this user.
+SAAS-00560,user_019,2025-06-22T09:29:22,61,0.55,54.5,9.715,1.1192660550458715,0.05661348430262481,False,No significant deviation or insufficient prior history for this user.
+SAAS-00528,user_041,2025-06-22T10:11:40,43,10.87,56.5,8.739999999999998,0.7610619469026548,1.2437070938215105,False,No significant deviation or insufficient prior history for this user.
+SAAS-00684,user_045,2025-06-22T10:32:59,70,10.1,54.0,9.66,1.2962962962962963,1.0455486542443064,False,No significant deviation or insufficient prior history for this user.
+SAAS-01003,user_005,2025-06-22T10:38:22,101,4.75,57.5,11.515,1.7565217391304349,0.4125054277029961,False,No significant deviation or insufficient prior history for this user.
+SAAS-00705,user_031,2025-06-22T10:44:16,47,25.85,52.0,8.64,0.9038461538461539,2.991898148148148,False,No significant deviation or insufficient prior history for this user.
+SAAS-00932,user_033,2025-06-22T10:50:20,98,9.82,54.0,6.45,1.8148148148148149,1.5224806201550387,False,No significant deviation or insufficient prior history for this user.
+SAAS-00165,user_047,2025-06-22T11:44:13,467,18.25,52.0,7.78,8.98076923076923,2.345758354755784,True,Requests 467 vs historical median 52.00 (8.98x).
+SAAS-00865,user_020,2025-06-22T11:53:29,37,4.08,60.0,10.98,0.6166666666666667,0.3715846994535519,False,No significant deviation or insufficient prior history for this user.
+SAAS-00378,user_024,2025-06-22T11:57:19,74,2.37,67.0,6.22,1.1044776119402986,0.38102893890675243,False,No significant deviation or insufficient prior history for this user.
+SAAS-00506,user_045,2025-06-22T12:24:38,68,12.56,57.0,9.879999999999999,1.1929824561403508,1.2712550607287452,False,No significant deviation or insufficient prior history for this user.
+SAAS-01025,user_042,2025-06-22T12:54:54,73,3.32,55.0,9.26,1.3272727272727274,0.35853131749460043,False,No significant deviation or insufficient prior history for this user.
+SAAS-00273,user_048,2025-06-22T13:01:06,91,1.43,55.0,8.57,1.6545454545454545,0.16686114352392065,False,No significant deviation or insufficient prior history for this user.
+SAAS-00926,user_005,2025-06-22T13:06:41,592,9.98,58.0,11.27,10.206896551724139,0.8855368234250223,True,Requests 592 vs historical median 58.00 (10.21x).
+SAAS-00676,user_004,2025-06-22T13:35:53,51,12.94,51.0,8.42,1.0,1.5368171021377672,False,No significant deviation or insufficient prior history for this user.
+SAAS-00268,user_033,2025-06-22T13:49:22,24,6.35,54.5,6.625,0.44036697247706424,0.9584905660377357,False,No significant deviation or insufficient prior history for this user.
+SAAS-00241,user_030,2025-06-22T13:53:23,15,8.32,57.0,8.04,0.2631578947368421,1.0348258706467663,False,No significant deviation or insufficient prior history for this user.
+SAAS-00126,user_003,2025-06-22T14:07:07,74,811.21,61.0,6.7,1.2131147540983607,121.07611940298507,True,Upload 811.21 MB vs historical median 6.70 MB (121.08x).
+SAAS-00456,user_023,2025-06-22T14:27:22,57,10.46,66.0,7.385,0.8636363636363636,1.4163845633039946,False,No significant deviation or insufficient prior history for this user.
+SAAS-00575,user_034,2025-06-22T14:47:27,54,5.2,53.0,7.385,1.0188679245283019,0.7041299932295193,False,No significant deviation or insufficient prior history for this user.
+SAAS-00854,user_003,2025-06-22T15:16:45,71,1.97,65.0,6.955,1.0923076923076922,0.28324946081955427,False,No significant deviation or insufficient prior history for this user.
+SAAS-00047,user_026,2025-06-22T15:27:18,18,4.87,51.0,9.77,0.35294117647058826,0.49846468781985676,False,No significant deviation or insufficient prior history for this user.
+SAAS-01024,user_008,2025-06-22T15:53:21,43,12.06,61.0,7.11,0.7049180327868853,1.6962025316455696,False,No significant deviation or insufficient prior history for this user.
+SAAS-00271,user_017,2025-06-22T15:53:46,73,3.67,63.5,6.975,1.1496062992125984,0.5261648745519714,False,No significant deviation or insufficient prior history for this user.
+SAAS-00766,user_039,2025-06-22T15:59:19,62,10.28,58.0,7.86,1.0689655172413792,1.307888040712468,False,No significant deviation or insufficient prior history for this user.
+SAAS-00962,user_044,2025-06-22T16:00:42,41,12.58,45.5,9.11,0.9010989010989011,1.3809001097694842,False,No significant deviation or insufficient prior history for this user.
+SAAS-00184,user_046,2025-06-22T16:30:37,45,27.28,43.0,11.58,1.0465116279069768,2.3557858376511227,False,No significant deviation or insufficient prior history for this user.
+SAAS-00984,user_004,2025-06-22T16:35:53,53,649.34,51.0,8.575,1.0392156862745099,75.72478134110789,True,Upload 649.34 MB vs historical median 8.57 MB (75.72x).
+SAAS-00199,user_026,2025-06-22T16:50:28,69,8.0,51.0,9.120000000000001,1.3529411764705883,0.8771929824561403,False,No significant deviation or insufficient prior history for this user.
+SAAS-00643,user_011,2025-06-22T17:37:39,54,7.25,50.0,8.5,1.08,0.8529411764705882,False,No significant deviation or insufficient prior history for this user.
+SAAS-00348,user_014,2025-06-22T17:45:32,44,4.52,53.5,10.035,0.822429906542056,0.45042351768809163,False,No significant deviation or insufficient prior history for this user.
+SAAS-00667,user_021,2025-06-22T18:24:44,49,9.48,62.0,7.17,0.7903225806451613,1.3221757322175733,False,No significant deviation or insufficient prior history for this user.
+SAAS-00436,user_011,2025-06-22T18:31:35,65,4.1,51.0,7.875,1.2745098039215685,0.5206349206349206,False,No significant deviation or insufficient prior history for this user.
+SAAS-00811,user_043,2025-06-22T18:42:55,55,2.43,53.0,7.325,1.0377358490566038,0.331740614334471,False,No significant deviation or insufficient prior history for this user.
+SAAS-01111,user_047,2025-06-22T18:43:53,81,11.61,52.5,8.26,1.542857142857143,1.4055690072639224,False,No significant deviation or insufficient prior history for this user.
+SAAS-00546,user_002,2025-06-23T01:53:33,64,43.4,49.0,13.129999999999999,1.3061224489795917,3.3054074638233057,False,No significant deviation or insufficient prior history for this user.
+SAAS-00376,user_028,2025-06-23T08:06:48,65,11.91,58.0,11.625,1.1206896551724137,1.024516129032258,False,No significant deviation or insufficient prior history for this user.
+SAAS-00742,user_004,2025-06-23T08:41:30,335,12.19,51.0,8.73,6.568627450980392,1.3963344788087055,True,Requests 335 vs historical median 51.00 (6.57x).
+SAAS-01060,user_046,2025-06-23T08:48:13,59,12.82,44.0,11.915,1.3409090909090908,1.0759546789760808,False,No significant deviation or insufficient prior history for this user.
+SAAS-00651,user_033,2025-06-23T09:14:18,39,7.95,54.0,6.45,0.7222222222222222,1.2325581395348837,False,No significant deviation or insufficient prior history for this user.
+SAAS-00988,user_014,2025-06-23T09:36:25,81,9.23,52.0,9.59,1.5576923076923077,0.9624608967674662,False,No significant deviation or insufficient prior history for this user.
+SAAS-00486,user_047,2025-06-23T10:19:36,48,7.98,53.0,8.74,0.9056603773584906,0.9130434782608696,False,No significant deviation or insufficient prior history for this user.
+SAAS-00929,user_034,2025-06-23T10:23:02,59,12.13,53.0,7.36,1.1132075471698113,1.6480978260869565,False,No significant deviation or insufficient prior history for this user.
+SAAS-00661,user_032,2025-06-23T10:53:25,38,21.49,68.0,8.38,0.5588235294117647,2.5644391408114555,False,No significant deviation or insufficient prior history for this user.
+SAAS-00499,user_012,2025-06-23T10:56:26,58,16.13,53.0,6.38,1.0943396226415094,2.5282131661442007,False,No significant deviation or insufficient prior history for this user.
+SAAS-00218,user_030,2025-06-23T11:03:42,69,246.81,55.0,8.055,1.2545454545454546,30.640595903165735,True,Upload 246.81 MB vs historical median 8.05 MB (30.64x).
+SAAS-01143,user_012,2025-06-23T11:14:23,26,7.55,53.5,7.275,0.48598130841121495,1.0378006872852232,False,No significant deviation or insufficient prior history for this user.
+SAAS-00997,user_027,2025-06-23T11:57:36,348,16.27,53.0,9.65,6.566037735849057,1.6860103626943004,True,Requests 348 vs historical median 53.00 (6.57x).
+SAAS-00599,user_011,2025-06-23T12:07:40,49,16.53,52.0,7.25,0.9423076923076923,2.2800000000000002,False,No significant deviation or insufficient prior history for this user.
+SAAS-01097,user_016,2025-06-23T12:08:24,699,2.3,48.0,7.685,14.5625,0.2992843201040989,True,Requests 699 vs historical median 48.00 (14.56x).
+SAAS-00542,user_030,2025-06-23T12:24:12,18,9.34,57.0,8.07,0.3157894736842105,1.1573729863692688,False,No significant deviation or insufficient prior history for this user.
+SAAS-00881,user_005,2025-06-23T13:05:42,44,371.96,59.5,10.625,0.7394957983193278,35.007999999999996,True,Upload 371.96 MB vs historical median 10.62 MB (35.01x).
+SAAS-00823,user_002,2025-06-23T13:29:06,22,13.09,50.0,13.59,0.44,0.9632082413539367,False,No significant deviation or insufficient prior history for this user.
+SAAS-00103,user_038,2025-06-23T13:48:08,58,4.58,46.5,9.655000000000001,1.2473118279569892,0.4743656136716727,False,No significant deviation or insufficient prior history for this user.
+SAAS-00986,user_044,2025-06-23T13:50:51,72,12.03,45.0,9.33,1.6,1.2893890675241158,False,No significant deviation or insufficient prior history for this user.
+SAAS-00254,user_006,2025-06-23T14:06:55,37,9.08,57.0,5.69,0.6491228070175439,1.595782073813708,False,No significant deviation or insufficient prior history for this user.
+SAAS-00673,user_013,2025-06-23T14:34:02,26,13.99,57.0,7.175,0.45614035087719296,1.9498257839721256,False,No significant deviation or insufficient prior history for this user.
+SAAS-00387,user_005,2025-06-23T14:36:12,58,11.69,58.0,11.27,1.0,1.0372670807453417,False,No significant deviation or insufficient prior history for this user.
+SAAS-00407,user_002,2025-06-23T14:38:00,44,11.43,49.0,13.34,0.8979591836734694,0.8568215892053973,False,No significant deviation or insufficient prior history for this user.
+SAAS-00720,user_048,2025-06-23T15:55:08,82,22.3,56.5,8.39,1.4513274336283186,2.6579261025029797,False,No significant deviation or insufficient prior history for this user.
+SAAS-00480,user_021,2025-06-23T16:42:14,75,4.14,61.5,7.295,1.2195121951219512,0.5675119945167922,False,No significant deviation or insufficient prior history for this user.
+SAAS-00833,user_037,2025-06-23T16:45:48,36,7.91,47.5,13.24,0.7578947368421053,0.5974320241691843,False,No significant deviation or insufficient prior history for this user.
+SAAS-00776,user_049,2025-06-23T16:59:27,65,4.85,67.0,6.3,0.9701492537313433,0.7698412698412698,False,No significant deviation or insufficient prior history for this user.
+SAAS-00801,user_042,2025-06-23T17:02:28,44,3.19,56.5,9.215,0.7787610619469026,0.34617471513836134,False,No significant deviation or insufficient prior history for this user.
+SAAS-01039,user_031,2025-06-23T17:06:21,41,15.7,51.5,8.71,0.7961165048543689,1.8025258323765785,False,No significant deviation or insufficient prior history for this user.
+SAAS-00458,user_017,2025-06-23T17:30:13,65,8.24,67.0,6.69,0.9701492537313433,1.2316890881913303,False,No significant deviation or insufficient prior history for this user.
+SAAS-01121,user_035,2025-06-23T17:30:57,51,825.25,59.0,7.89,0.864406779661017,104.59442332065906,True,Upload 825.25 MB vs historical median 7.89 MB (104.59x).
+SAAS-00144,user_038,2025-06-23T17:41:19,67,3.98,47.0,9.65,1.425531914893617,0.41243523316062175,False,No significant deviation or insufficient prior history for this user.
+SAAS-00952,user_004,2025-06-23T17:55:20,60,5.91,51.0,9.225000000000001,1.1764705882352942,0.6406504065040649,False,No significant deviation or insufficient prior history for this user.
+SAAS-01138,user_031,2025-06-23T17:56:12,84,4.13,51.0,8.78,1.6470588235294117,0.4703872437357631,False,No significant deviation or insufficient prior history for this user.
+SAAS-00061,user_021,2025-06-23T18:10:48,33,7.95,62.0,7.17,0.532258064516129,1.108786610878661,False,No significant deviation or insufficient prior history for this user.
+SAAS-00042,user_034,2025-06-23T18:24:23,447,6.08,53.0,7.385,8.433962264150944,0.8232904536222072,True,Requests 447 vs historical median 53.00 (8.43x).
+SAAS-00371,user_007,2025-06-23T18:40:27,52,4.61,49.5,9.059999999999999,1.0505050505050506,0.5088300220750553,False,No significant deviation or insufficient prior history for this user.
+SAAS-00410,user_025,2025-06-23T18:48:26,36,11.13,59.0,9.57,0.6101694915254238,1.1630094043887147,False,No significant deviation or insufficient prior history for this user.
+SAAS-00792,user_020,2025-06-24T04:19:31,60,15.39,59.5,10.39,1.0084033613445378,1.4812319538017324,False,No significant deviation or insufficient prior history for this user.
+SAAS-00658,user_017,2025-06-24T08:02:46,35,16.1,66.0,6.975,0.5303030303030303,2.3082437275985668,False,No significant deviation or insufficient prior history for this user.
+SAAS-00822,user_027,2025-06-24T08:11:10,65,1.25,57.0,9.940000000000001,1.1403508771929824,0.12575452716297786,False,No significant deviation or insufficient prior history for this user.
+SAAS-00125,user_040,2025-06-24T08:13:31,74,2.59,53.0,8.12,1.3962264150943395,0.31896551724137934,False,No significant deviation or insufficient prior history for this user.
+SAAS-00859,user_043,2025-06-24T08:57:53,43,7.87,55.0,6.83,0.7818181818181819,1.1522693997071742,False,No significant deviation or insufficient prior history for this user.
+SAAS-00636,user_007,2025-06-24T09:06:41,58,0.33,50.0,8.76,1.16,0.037671232876712334,False,No significant deviation or insufficient prior history for this user.
+SAAS-00140,user_042,2025-06-24T09:17:12,73,2.14,55.0,9.17,1.3272727272727274,0.23336968375136316,False,No significant deviation or insufficient prior history for this user.
+SAAS-00666,user_046,2025-06-24T09:24:34,322,8.95,45.0,12.25,7.155555555555556,0.7306122448979592,True,Requests 322 vs historical median 45.00 (7.16x).
+SAAS-01126,user_039,2025-06-24T09:35:18,36,10.32,59.0,8.33,0.6101694915254238,1.2388955582232892,False,No significant deviation or insufficient prior history for this user.
+SAAS-00157,user_043,2025-06-24T10:18:56,83,3.63,51.5,7.325,1.6116504854368932,0.4955631399317406,False,No significant deviation or insufficient prior history for this user.
+SAAS-00670,user_029,2025-06-24T10:27:51,62,9.08,51.5,8.685,1.203883495145631,1.0454807138744961,False,No significant deviation or insufficient prior history for this user.
+SAAS-00117,user_037,2025-06-24T10:40:00,73,0.73,47.0,12.4,1.553191489361702,0.05887096774193548,False,No significant deviation or insufficient prior history for this user.
+SAAS-01153,user_015,2025-06-24T10:57:45,53,5.63,55.0,9.29,0.9636363636363636,0.6060279870828849,False,No significant deviation or insufficient prior history for this user.
+SAAS-00285,user_041,2025-06-24T11:09:05,52,17.57,55.0,9.19,0.9454545454545454,1.911860718171926,False,No significant deviation or insufficient prior history for this user.
+SAAS-01026,user_047,2025-06-24T11:32:39,36,13.01,52.5,8.36,0.6857142857142857,1.55622009569378,False,No significant deviation or insufficient prior history for this user.
+SAAS-00013,user_020,2025-06-24T12:21:07,55,10.19,60.0,10.98,0.9166666666666666,0.9280510018214936,False,No significant deviation or insufficient prior history for this user.
+SAAS-00995,user_023,2025-06-24T12:23:41,26,14.75,63.0,7.81,0.4126984126984127,1.8886043533930859,False,No significant deviation or insufficient prior history for this user.
+SAAS-01184,user_021,2025-06-24T12:24:23,88,8.81,61.5,7.295,1.4308943089430894,1.2076764907470872,False,No significant deviation or insufficient prior history for this user.
+SAAS-00008,user_037,2025-06-24T12:50:24,56,6.69,47.5,12.195,1.1789473684210525,0.5485854858548586,False,No significant deviation or insufficient prior history for this user.
+SAAS-01166,user_039,2025-06-24T12:56:55,35,11.5,58.0,8.8,0.603448275862069,1.3068181818181817,False,No significant deviation or insufficient prior history for this user.
+SAAS-00186,user_017,2025-06-24T13:19:00,86,6.55,65.0,7.26,1.323076923076923,0.9022038567493113,False,No significant deviation or insufficient prior history for this user.
+SAAS-00501,user_033,2025-06-24T13:22:02,19,7.17,53.5,6.625,0.35514018691588783,1.0822641509433961,False,No significant deviation or insufficient prior history for this user.
+SAAS-01004,user_027,2025-06-24T13:22:50,66,6.17,61.0,9.65,1.0819672131147542,0.6393782383419688,False,No significant deviation or insufficient prior history for this user.
+SAAS-00556,user_002,2025-06-24T13:54:30,47,21.06,48.0,13.09,0.9791666666666666,1.6088617265087852,False,No significant deviation or insufficient prior history for this user.
+SAAS-00467,user_020,2025-06-24T14:46:25,46,5.1,59.5,10.585,0.773109243697479,0.48181388757675947,False,No significant deviation or insufficient prior history for this user.
+SAAS-00982,user_041,2025-06-24T14:51:03,50,4.05,53.5,9.399999999999999,0.9345794392523364,0.4308510638297873,False,No significant deviation or insufficient prior history for this user.
+SAAS-00343,user_025,2025-06-24T15:01:46,31,5.28,54.0,9.77,0.5740740740740741,0.5404298874104402,False,No significant deviation or insufficient prior history for this user.
+SAAS-00302,user_035,2025-06-24T15:04:27,31,21.44,58.5,8.115,0.5299145299145299,2.642020948860136,False,No significant deviation or insufficient prior history for this user.
+SAAS-00334,user_003,2025-06-24T15:07:12,70,15.93,69.0,6.7,1.0144927536231885,2.3776119402985074,False,No significant deviation or insufficient prior history for this user.
+SAAS-00104,user_036,2025-06-24T15:08:04,35,9.37,58.0,4.44,0.603448275862069,2.11036036036036,False,No significant deviation or insufficient prior history for this user.
+SAAS-00763,user_038,2025-06-24T16:03:37,53,9.91,50.0,9.235,1.06,1.0730914997292909,False,No significant deviation or insufficient prior history for this user.
+SAAS-00292,user_013,2025-06-24T16:18:08,648,6.08,53.0,7.59,12.226415094339623,0.8010540184453229,True,Requests 648 vs historical median 53.00 (12.23x).
+SAAS-00736,user_046,2025-06-24T16:31:50,31,7.49,45.0,11.915,0.6888888888888889,0.6286193873268989,False,No significant deviation or insufficient prior history for this user.
+SAAS-00588,user_040,2025-06-24T16:58:40,58,7.24,53.0,8.12,1.0943396226415094,0.8916256157635469,False,No significant deviation or insufficient prior history for this user.
+SAAS-00111,user_042,2025-06-24T16:59:40,50,13.06,56.5,8.32,0.8849557522123894,1.5697115384615385,False,No significant deviation or insufficient prior history for this user.
+SAAS-00628,user_015,2025-06-24T17:04:24,8,3.53,54.0,8.719999999999999,0.14814814814814814,0.40481651376146793,False,No significant deviation or insufficient prior history for this user.
+SAAS-00526,user_025,2025-06-24T17:16:59,65,8.44,49.0,9.57,1.3265306122448979,0.8819226750261232,False,No significant deviation or insufficient prior history for this user.
+SAAS-00680,user_007,2025-06-24T18:02:44,74,4.14,51.0,8.719999999999999,1.4509803921568627,0.4747706422018349,False,No significant deviation or insufficient prior history for this user.
+SAAS-00949,user_006,2025-06-24T18:35:00,87,1.45,56.5,5.925000000000001,1.5398230088495575,0.24472573839662443,False,No significant deviation or insufficient prior history for this user.
+SAAS-00757,user_033,2025-06-24T18:36:34,65,2.61,53.0,6.8,1.2264150943396226,0.3838235294117647,False,No significant deviation or insufficient prior history for this user.
+SAAS-00669,user_050,2025-06-24T18:51:13,65,8.59,61.0,10.66,1.0655737704918034,0.8058161350844277,False,No significant deviation or insufficient prior history for this user.
+SAAS-00299,user_050,2025-06-25T04:38:33,67,7.07,62.5,10.32,1.072,0.685077519379845,False,No significant deviation or insufficient prior history for this user.
+SAAS-00322,user_013,2025-06-25T08:16:42,83,7.14,57.0,7.175,1.456140350877193,0.9951219512195122,False,No significant deviation or insufficient prior history for this user.
+SAAS-00135,user_021,2025-06-25T08:21:44,52,2.17,62.0,7.42,0.8387096774193549,0.29245283018867924,False,No significant deviation or insufficient prior history for this user.
+SAAS-00440,user_039,2025-06-25T08:30:09,53,4.61,56.0,9.52,0.9464285714285714,0.48424369747899165,False,No significant deviation or insufficient prior history for this user.
+SAAS-00539,user_005,2025-06-25T08:30:24,17,3.94,58.0,11.48,0.29310344827586204,0.34320557491289194,False,No significant deviation or insufficient prior history for this user.
+SAAS-00365,user_009,2025-06-25T09:08:34,42,6.66,45.0,8.44,0.9333333333333333,0.7890995260663508,False,No significant deviation or insufficient prior history for this user.
+SAAS-00004,user_034,2025-06-25T09:14:15,51,6.92,53.0,7.36,0.9622641509433962,0.9402173913043478,False,No significant deviation or insufficient prior history for this user.
+SAAS-00258,user_035,2025-06-25T09:15:05,32,2.34,58.0,8.34,0.5517241379310345,0.2805755395683453,False,No significant deviation or insufficient prior history for this user.
+SAAS-00620,user_033,2025-06-25T09:19:42,53,5.28,53.5,6.625,0.9906542056074766,0.7969811320754717,False,No significant deviation or insufficient prior history for this user.
+SAAS-00084,user_010,2025-06-25T09:42:32,69,9.9,55.0,7.43,1.2545454545454546,1.3324360699865412,False,No significant deviation or insufficient prior history for this user.
+SAAS-00894,user_007,2025-06-25T10:14:09,60,7.16,52.0,8.68,1.1538461538461537,0.8248847926267282,False,No significant deviation or insufficient prior history for this user.
+SAAS-00797,user_014,2025-06-25T10:17:31,53,21.91,53.5,9.485,0.9906542056074766,2.3099630996309966,False,No significant deviation or insufficient prior history for this user.
+SAAS-00760,user_039,2025-06-25T10:32:05,44,2.27,54.0,8.8,0.8148148148148148,0.25795454545454544,False,No significant deviation or insufficient prior history for this user.
+SAAS-01144,user_047,2025-06-25T10:56:56,25,13.53,52.0,8.74,0.4807692307692308,1.5480549199084668,False,No significant deviation or insufficient prior history for this user.
+SAAS-00595,user_014,2025-06-25T11:28:11,604,7.88,53.0,9.59,11.39622641509434,0.821689259645464,True,Requests 604 vs historical median 53.00 (11.40x).
+SAAS-00739,user_007,2025-06-25T11:58:03,428,2.64,53.0,7.92,8.075471698113208,0.33333333333333337,True,Requests 428 vs historical median 53.00 (8.08x).
+SAAS-00778,user_029,2025-06-25T12:47:36,53,9.34,52.0,9.08,1.0192307692307692,1.02863436123348,False,No significant deviation or insufficient prior history for this user.
+SAAS-00548,user_017,2025-06-25T13:01:50,65,8.64,66.0,6.975,0.9848484848484849,1.238709677419355,False,No significant deviation or insufficient prior history for this user.
+SAAS-00647,user_012,2025-06-25T13:14:04,76,19.59,53.0,7.55,1.4339622641509433,2.5947019867549668,False,No significant deviation or insufficient prior history for this user.
+SAAS-00533,user_020,2025-06-25T13:32:37,48,18.23,59.0,10.19,0.8135593220338984,1.78900883218842,False,No significant deviation or insufficient prior history for this user.
+SAAS-00091,user_026,2025-06-25T14:39:51,525,17.71,51.0,8.47,10.294117647058824,2.090909090909091,True,Requests 525 vs historical median 51.00 (10.29x).
+SAAS-00976,user_007,2025-06-25T15:31:56,30,13.88,54.0,7.16,0.5555555555555556,1.9385474860335197,False,No significant deviation or insufficient prior history for this user.
+SAAS-00779,user_017,2025-06-25T15:46:49,61,7.62,65.0,7.26,0.9384615384615385,1.0495867768595042,False,No significant deviation or insufficient prior history for this user.
+SAAS-00232,user_037,2025-06-25T15:50:04,49,5.1,48.0,11.99,1.0208333333333333,0.42535446205170974,False,No significant deviation or insufficient prior history for this user.
+SAAS-01195,user_039,2025-06-25T16:01:07,59,2.82,53.5,8.33,1.102803738317757,0.33853541416566624,False,No significant deviation or insufficient prior history for this user.
+SAAS-00389,user_027,2025-06-25T16:17:54,84,5.09,62.0,8.865,1.3548387096774193,0.5741680767061478,False,No significant deviation or insufficient prior history for this user.
+SAAS-00965,user_008,2025-06-25T16:31:23,76,1.03,53.0,7.265000000000001,1.4339622641509433,0.14177563661390227,False,No significant deviation or insufficient prior history for this user.
+SAAS-00513,user_031,2025-06-25T16:36:30,58,9.62,51.5,8.71,1.1262135922330097,1.1044776119402984,False,No significant deviation or insufficient prior history for this user.
+SAAS-00784,user_017,2025-06-25T17:30:53,65,7.58,65.0,7.4399999999999995,1.0,1.0188172043010753,False,No significant deviation or insufficient prior history for this user.
+SAAS-00079,user_041,2025-06-25T17:38:21,62,10.13,52.0,9.19,1.1923076923076923,1.102285092491839,False,No significant deviation or insufficient prior history for this user.
+SAAS-00403,user_034,2025-06-25T17:41:55,69,3.87,53.0,7.28,1.3018867924528301,0.5315934065934066,False,No significant deviation or insufficient prior history for this user.
+SAAS-00455,user_011,2025-06-25T17:45:18,674,9.32,51.0,7.875,13.215686274509803,1.1834920634920636,True,Requests 674 vs historical median 51.00 (13.22x).
+SAAS-00487,user_038,2025-06-25T17:51:17,62,2.6,53.0,9.65,1.169811320754717,0.2694300518134715,False,No significant deviation or insufficient prior history for this user.
+SAAS-00089,user_034,2025-06-25T18:02:14,49,6.41,53.0,7.2,0.9245283018867925,0.8902777777777777,False,No significant deviation or insufficient prior history for this user.
+SAAS-00037,user_021,2025-06-25T18:17:58,59,6.67,61.5,7.295,0.959349593495935,0.914324880054832,False,No significant deviation or insufficient prior history for this user.
+SAAS-00991,user_019,2025-06-25T18:27:11,46,2.58,56.0,9.56,0.8214285714285714,0.2698744769874477,False,No significant deviation or insufficient prior history for this user.
+SAAS-00030,user_020,2025-06-25T18:36:21,69,11.81,57.0,10.585,1.2105263157894737,1.1157298063297119,False,No significant deviation or insufficient prior history for this user.
+SAAS-00398,user_013,2025-06-25T18:51:04,26,5.88,61.0,7.14,0.4262295081967213,0.823529411764706,False,No significant deviation or insufficient prior history for this user.
+SAAS-00477,user_021,2025-06-26T00:50:49,67,11.39,61.0,7.17,1.098360655737705,1.588563458856346,False,No significant deviation or insufficient prior history for this user.
+SAAS-00918,user_019,2025-06-26T01:17:37,12,5.99,54.5,9.49,0.22018348623853212,0.6311907270811381,False,No significant deviation or insufficient prior history for this user.
+SAAS-01162,user_012,2025-06-26T08:06:59,57,6.77,53.5,7.859999999999999,1.0654205607476634,0.861323155216285,False,No significant deviation or insufficient prior history for this user.
+SAAS-00746,user_030,2025-06-26T08:24:10,81,9.69,55.0,8.195,1.4727272727272727,1.1824283099450883,False,No significant deviation or insufficient prior history for this user.
+SAAS-00703,user_032,2025-06-26T08:24:45,71,209.63,61.5,8.845,1.1544715447154472,23.70039570378745,True,Upload 209.63 MB vs historical median 8.85 MB (23.70x).
+SAAS-01062,user_050,2025-06-26T08:59:41,52,10.89,64.0,9.98,0.8125,1.091182364729459,False,No significant deviation or insufficient prior history for this user.
+SAAS-00163,user_023,2025-06-26T09:00:32,67,11.08,61.0,9.129999999999999,1.098360655737705,1.213581599123768,False,No significant deviation or insufficient prior history for this user.
+SAAS-00695,user_019,2025-06-26T09:29:28,55,2.37,53.0,9.42,1.0377358490566038,0.2515923566878981,False,No significant deviation or insufficient prior history for this user.
+SAAS-01148,user_007,2025-06-26T09:35:30,61,11.81,53.0,7.92,1.150943396226415,1.4911616161616161,False,No significant deviation or insufficient prior history for this user.
+SAAS-01050,user_036,2025-06-26T09:41:06,78,5.72,56.5,4.825,1.3805309734513274,1.1854922279792746,False,No significant deviation or insufficient prior history for this user.
+SAAS-00724,user_026,2025-06-26T09:57:55,65,9.79,56.0,9.120000000000001,1.1607142857142858,1.0734649122807016,False,No significant deviation or insufficient prior history for this user.
+SAAS-00814,user_042,2025-06-26T10:10:25,85,7.61,55.0,9.17,1.5454545454545454,0.8298800436205017,False,No significant deviation or insufficient prior history for this user.
+SAAS-00627,user_021,2025-06-26T10:35:05,44,20.46,61.5,7.295,0.7154471544715447,2.804660726525017,False,No significant deviation or insufficient prior history for this user.
+SAAS-00663,user_037,2025-06-26T11:26:08,41,6.62,48.5,10.885,0.845360824742268,0.6081763895268719,False,No significant deviation or insufficient prior history for this user.
+SAAS-00032,user_032,2025-06-26T11:50:56,32,6.41,68.0,9.31,0.47058823529411764,0.6885069817400644,False,No significant deviation or insufficient prior history for this user.
+SAAS-01157,user_036,2025-06-26T11:59:22,62,1.5,58.0,5.21,1.0689655172413792,0.28790786948176583,False,No significant deviation or insufficient prior history for this user.
+SAAS-00341,user_029,2025-06-26T12:14:55,57,9.34,52.5,9.21,1.0857142857142856,1.0141150922909878,False,No significant deviation or insufficient prior history for this user.
+SAAS-00612,user_012,2025-06-26T12:44:45,35,7.24,54.0,7.55,0.6481481481481481,0.9589403973509935,False,No significant deviation or insufficient prior history for this user.
+SAAS-00708,user_037,2025-06-26T12:45:31,61,5.89,48.0,9.78,1.2708333333333333,0.6022494887525562,False,No significant deviation or insufficient prior history for this user.
+SAAS-00349,user_016,2025-06-26T12:52:10,18,2.57,49.0,6.75,0.3673469387755102,0.3807407407407407,False,No significant deviation or insufficient prior history for this user.
+SAAS-01036,user_022,2025-06-26T12:52:44,75,5.4,52.5,7.96,1.4285714285714286,0.678391959798995,False,No significant deviation or insufficient prior history for this user.
+SAAS-00747,user_029,2025-06-26T12:54:31,48,488.99,53.0,9.34,0.9056603773584906,52.35438972162741,True,Upload 488.99 MB vs historical median 9.34 MB (52.35x).
+SAAS-01103,user_035,2025-06-26T13:05:44,31,6.4,54.5,8.115,0.5688073394495413,0.7886629698089958,False,No significant deviation or insufficient prior history for this user.
+SAAS-01073,user_014,2025-06-26T13:58:22,35,19.12,54.0,9.485,0.6481481481481481,2.0158144438587247,False,No significant deviation or insufficient prior history for this user.
+SAAS-00758,user_044,2025-06-26T14:09:59,53,20.82,45.5,9.725,1.164835164835165,2.140874035989717,False,No significant deviation or insufficient prior history for this user.
+SAAS-01081,user_019,2025-06-26T14:21:09,47,4.7,54.0,8.765,0.8703703703703703,0.5362236166571591,False,No significant deviation or insufficient prior history for this user.
+SAAS-01040,user_033,2025-06-26T14:57:21,26,10.85,53.0,6.45,0.49056603773584906,1.6821705426356588,False,No significant deviation or insufficient prior history for this user.
+SAAS-00259,user_002,2025-06-26T14:59:12,47,17.28,47.5,13.34,0.9894736842105263,1.295352323838081,False,No significant deviation or insufficient prior history for this user.
+SAAS-00909,user_025,2025-06-26T15:19:47,59,8.4,54.0,9.004999999999999,1.0925925925925926,0.9328151027207109,False,No significant deviation or insufficient prior history for this user.
+SAAS-00396,user_046,2025-06-26T15:33:31,385,5.29,45.0,11.58,8.555555555555555,0.45682210708117443,True,Requests 385 vs historical median 45.00 (8.56x).
+SAAS-00235,user_006,2025-06-26T15:45:15,62,27.54,57.0,5.69,1.087719298245614,4.8400702987697715,True,Upload 27.54 MB vs historical median 5.69 MB (4.84x).
+SAAS-00777,user_009,2025-06-26T16:06:37,58,9.73,44.5,8.05,1.303370786516854,1.208695652173913,False,No significant deviation or insufficient prior history for this user.
+SAAS-01129,user_036,2025-06-26T16:19:57,33,2.35,60.0,4.825,0.55,0.48704663212435234,False,No significant deviation or insufficient prior history for this user.
+SAAS-00502,user_042,2025-06-26T16:28:31,47,7.61,56.5,8.39,0.831858407079646,0.9070321811680572,False,No significant deviation or insufficient prior history for this user.
+SAAS-00443,user_002,2025-06-26T16:47:52,79,22.27,47.0,13.59,1.6808510638297873,1.6387049300956587,False,No significant deviation or insufficient prior history for this user.
+SAAS-00731,user_018,2025-06-26T18:18:18,60,7.11,54.5,7.205,1.1009174311926606,0.9868147120055517,False,No significant deviation or insufficient prior history for this user.
+SAAS-00154,user_033,2025-06-26T18:30:09,72,1.07,53.0,6.625,1.3584905660377358,0.16150943396226417,False,No significant deviation or insufficient prior history for this user.
+SAAS-00850,user_011,2025-06-26T18:39:49,78,4.18,52.0,8.5,1.5,0.4917647058823529,False,No significant deviation or insufficient prior history for this user.
+SAAS-01130,user_008,2025-06-27T00:12:50,12,6.47,61.0,7.11,0.19672131147540983,0.9099859353023909,False,No significant deviation or insufficient prior history for this user.
+SAAS-00307,user_030,2025-06-27T01:13:49,25,4.91,57.0,8.32,0.43859649122807015,0.5901442307692307,False,No significant deviation or insufficient prior history for this user.
+SAAS-00276,user_044,2025-06-27T02:20:03,38,8.62,46.0,10.12,0.8260869565217391,0.8517786561264822,False,No significant deviation or insufficient prior history for this user.
+SAAS-00672,user_041,2025-06-27T08:24:30,38,6.14,53.5,9.399999999999999,0.7102803738317757,0.6531914893617022,False,No significant deviation or insufficient prior history for this user.
+SAAS-00654,user_032,2025-06-27T08:39:26,48,8.77,61.5,8.845,0.7804878048780488,0.9915206331260598,False,No significant deviation or insufficient prior history for this user.
+SAAS-00346,user_001,2025-06-27T08:48:32,27,6.11,56.0,5.119999999999999,0.48214285714285715,1.1933593750000002,False,No significant deviation or insufficient prior history for this user.
+SAAS-01105,user_024,2025-06-27T09:02:38,64,376.82,67.5,6.13,0.9481481481481482,61.47145187601958,True,Upload 376.82 MB vs historical median 6.13 MB (61.47x).
+SAAS-00964,user_029,2025-06-27T09:04:15,43,6.78,52.5,9.34,0.819047619047619,0.7259100642398287,False,No significant deviation or insufficient prior history for this user.
+SAAS-01049,user_002,2025-06-27T09:17:11,32,11.74,47.5,13.995000000000001,0.6736842105263158,0.8388710253662022,False,No significant deviation or insufficient prior history for this user.
+SAAS-00503,user_013,2025-06-27T09:40:10,40,13.79,57.0,6.949999999999999,0.7017543859649122,1.9841726618705038,False,No significant deviation or insufficient prior history for this user.
+SAAS-00906,user_010,2025-06-27T10:00:16,49,9.43,55.0,7.67,0.8909090909090909,1.2294654498044328,False,No significant deviation or insufficient prior history for this user.
+SAAS-01194,user_033,2025-06-27T10:10:42,33,3.23,53.0,6.45,0.6226415094339622,0.5007751937984496,False,No significant deviation or insufficient prior history for this user.
+SAAS-00078,user_007,2025-06-27T10:24:13,88,10.33,54.0,8.68,1.6296296296296295,1.1900921658986177,False,No significant deviation or insufficient prior history for this user.
+SAAS-00514,user_018,2025-06-27T11:31:29,490,11.5,56.0,7.14,8.75,1.6106442577030813,True,Requests 490 vs historical median 56.00 (8.75x).
+SAAS-00900,user_022,2025-06-27T11:49:56,79,6.71,53.0,7.67,1.490566037735849,0.8748370273794003,False,No significant deviation or insufficient prior history for this user.
+SAAS-01161,user_009,2025-06-27T12:39:08,25,6.77,45.0,8.44,0.5555555555555556,0.8021327014218009,False,No significant deviation or insufficient prior history for this user.
+SAAS-01109,user_048,2025-06-27T12:39:30,34,17.12,58.0,8.57,0.5862068965517241,1.9976662777129521,False,No significant deviation or insufficient prior history for this user.
+SAAS-00459,user_017,2025-06-27T12:40:39,62,32.98,65.0,7.58,0.9538461538461539,4.350923482849604,True,Upload 32.98 MB vs historical median 7.58 MB (4.35x).
+SAAS-00169,user_009,2025-06-27T13:01:18,34,7.64,44.5,8.05,0.7640449438202247,0.9490683229813663,False,No significant deviation or insufficient prior history for this user.
+SAAS-00174,user_019,2025-06-27T13:44:05,83,7.29,53.0,8.11,1.5660377358490567,0.8988902589395809,False,No significant deviation or insufficient prior history for this user.
+SAAS-00653,user_046,2025-06-27T13:59:21,64,732.14,45.0,11.45,1.4222222222222223,63.94235807860262,True,Upload 732.14 MB vs historical median 11.45 MB (63.94x).
+SAAS-00497,user_009,2025-06-27T14:02:25,66,7.54,44.0,7.66,1.5,0.9843342036553525,False,No significant deviation or insufficient prior history for this user.
+SAAS-00979,user_045,2025-06-27T14:43:45,96,11.47,60.0,10.1,1.6,1.1356435643564358,False,No significant deviation or insufficient prior history for this user.
+SAAS-00512,user_034,2025-06-27T15:03:43,58,6.87,53.0,7.08,1.0943396226415094,0.9703389830508474,False,No significant deviation or insufficient prior history for this user.
+SAAS-00351,user_020,2025-06-27T15:45:17,65,2.56,59.0,10.98,1.1016949152542372,0.2331511839708561,False,No significant deviation or insufficient prior history for this user.
+SAAS-00327,user_040,2025-06-27T15:52:55,360,8.27,53.0,8.12,6.7924528301886795,1.0184729064039408,True,Requests 360 vs historical median 53.00 (6.79x).
+SAAS-00064,user_021,2025-06-27T16:23:46,72,19.2,61.0,7.42,1.180327868852459,2.5876010781671157,False,No significant deviation or insufficient prior history for this user.
+SAAS-01018,user_017,2025-06-27T16:43:32,72,10.1,65.0,7.6,1.1076923076923078,1.3289473684210527,False,No significant deviation or insufficient prior history for this user.
+SAAS-00081,user_003,2025-06-27T16:50:54,67,23.56,69.5,6.955,0.9640287769784173,3.3874910136592375,False,No significant deviation or insufficient prior history for this user.
+SAAS-00072,user_039,2025-06-27T16:51:51,37,7.76,54.0,7.86,0.6851851851851852,0.9872773536895674,False,No significant deviation or insufficient prior history for this user.
+SAAS-00385,user_004,2025-06-27T16:56:31,74,12.29,51.0,8.73,1.4509803921568627,1.4077892325315005,False,No significant deviation or insufficient prior history for this user.
+SAAS-00561,user_032,2025-06-27T16:57:32,59,7.31,55.0,8.77,1.0727272727272728,0.8335233751425314,False,No significant deviation or insufficient prior history for this user.
+SAAS-00068,user_047,2025-06-27T17:23:06,43,7.6,51.5,8.99,0.8349514563106796,0.8453837597330367,False,No significant deviation or insufficient prior history for this user.
+SAAS-00255,user_049,2025-06-27T17:38:31,37,12.28,66.0,6.25,0.5606060606060606,1.9647999999999999,False,No significant deviation or insufficient prior history for this user.
+SAAS-00214,user_033,2025-06-27T17:44:24,52,5.19,53.0,6.4,0.9811320754716981,0.8109375,False,No significant deviation or insufficient prior history for this user.
+SAAS-01094,user_017,2025-06-27T18:01:47,60,3.78,65.0,7.62,0.9230769230769231,0.4960629921259842,False,No significant deviation or insufficient prior history for this user.
+SAAS-00910,user_030,2025-06-27T23:10:18,17,4.87,55.0,8.195,0.3090909090909091,0.5942647956070775,False,No significant deviation or insufficient prior history for this user.
+SAAS-01132,user_035,2025-06-27T23:45:42,41,8.45,51.0,7.89,0.803921568627451,1.0709759188846641,False,No significant deviation or insufficient prior history for this user.
+SAAS-00491,user_036,2025-06-28T04:22:05,41,7.78,58.0,4.44,0.7068965517241379,1.7522522522522521,False,No significant deviation or insufficient prior history for this user.
+SAAS-00829,user_009,2025-06-28T08:14:19,51,12.02,44.5,7.65,1.146067415730337,1.5712418300653594,False,No significant deviation or insufficient prior history for this user.
+SAAS-00685,user_033,2025-06-28T08:20:55,78,3.3,53.0,6.35,1.471698113207547,0.5196850393700787,False,No significant deviation or insufficient prior history for this user.
+SAAS-01017,user_031,2025-06-28T08:27:40,38,13.62,52.0,8.78,0.7307692307692307,1.5512528473804101,False,No significant deviation or insufficient prior history for this user.
+SAAS-00924,user_028,2025-06-28T09:00:54,42,16.61,58.0,11.81,0.7241379310344828,1.4064352243861133,False,No significant deviation or insufficient prior history for this user.
+SAAS-00426,user_009,2025-06-28T09:13:18,37,6.03,45.0,7.66,0.8222222222222222,0.7872062663185379,False,No significant deviation or insufficient prior history for this user.
+SAAS-00095,user_022,2025-06-28T09:29:30,43,9.62,53.0,7.404999999999999,0.8113207547169812,1.2991222147197838,False,No significant deviation or insufficient prior history for this user.
+SAAS-00223,user_045,2025-06-28T09:42:35,71,10.49,61.5,10.735,1.1544715447154472,0.9771774569166279,False,No significant deviation or insufficient prior history for this user.
+SAAS-00173,user_043,2025-06-28T09:43:01,68,1.46,55.0,6.83,1.2363636363636363,0.21376281112737922,False,No significant deviation or insufficient prior history for this user.
+SAAS-01115,user_005,2025-06-28T09:43:21,78,8.53,58.0,11.27,1.3448275862068966,0.7568766637089618,False,No significant deviation or insufficient prior history for this user.
+SAAS-00016,user_024,2025-06-28T09:49:49,23,10.22,67.0,6.22,0.34328358208955223,1.6430868167202575,False,No significant deviation or insufficient prior history for this user.
+SAAS-00131,user_050,2025-06-28T10:05:35,55,9.12,62.5,10.32,0.88,0.883720930232558,False,No significant deviation or insufficient prior history for this user.
+SAAS-00330,user_008,2025-06-28T10:15:28,47,7.69,53.0,6.79,0.8867924528301887,1.1325478645066274,False,No significant deviation or insufficient prior history for this user.
+SAAS-00891,user_016,2025-06-28T10:26:21,39,9.53,48.0,6.295,0.8125,1.5138999205718824,False,No significant deviation or insufficient prior history for this user.
+SAAS-00187,user_037,2025-06-28T10:47:30,43,11.12,48.5,8.844999999999999,0.8865979381443299,1.257207461842849,False,No significant deviation or insufficient prior history for this user.
+SAAS-00170,user_047,2025-06-28T10:54:13,64,10.91,51.0,8.74,1.2549019607843137,1.2482837528604118,False,No significant deviation or insufficient prior history for this user.
+SAAS-00540,user_049,2025-06-28T11:07:36,54,835.05,66.0,6.3,0.8181818181818182,132.54761904761904,True,Upload 835.05 MB vs historical median 6.30 MB (132.55x).
+SAAS-00886,user_045,2025-06-28T11:15:39,73,8.85,63.0,10.49,1.1587301587301588,0.8436606291706387,False,No significant deviation or insufficient prior history for this user.
+SAAS-00083,user_029,2025-06-28T11:18:47,61,2.85,52.0,9.34,1.1730769230769231,0.30513918629550324,False,No significant deviation or insufficient prior history for this user.
+SAAS-00198,user_011,2025-06-28T11:55:02,46,4.53,52.5,7.875,0.8761904761904762,0.5752380952380952,False,No significant deviation or insufficient prior history for this user.
+SAAS-00963,user_020,2025-06-28T11:59:37,35,8.9,59.5,10.585,0.5882352941176471,0.8408124704770902,False,No significant deviation or insufficient prior history for this user.
+SAAS-00987,user_047,2025-06-28T12:01:18,42,6.47,51.5,8.99,0.8155339805825242,0.7196885428253614,False,No significant deviation or insufficient prior history for this user.
+SAAS-00060,user_027,2025-06-28T12:02:12,68,4.74,63.0,8.08,1.0793650793650793,0.5866336633663366,False,No significant deviation or insufficient prior history for this user.
+SAAS-00442,user_017,2025-06-28T12:06:34,91,3.15,65.0,7.6,1.4,0.4144736842105263,False,No significant deviation or insufficient prior history for this user.
+SAAS-00591,user_047,2025-06-28T12:39:21,644,15.11,51.0,8.74,12.627450980392156,1.72883295194508,True,Requests 644 vs historical median 51.00 (12.63x).
+SAAS-01154,user_006,2025-06-28T12:40:24,29,4.71,57.0,5.925000000000001,0.5087719298245614,0.7949367088607594,False,No significant deviation or insufficient prior history for this user.
+SAAS-01145,user_011,2025-06-28T12:55:38,61,11.2,52.0,7.25,1.1730769230769231,1.5448275862068965,False,No significant deviation or insufficient prior history for this user.
+SAAS-00574,user_001,2025-06-28T13:01:29,34,8.92,54.0,5.43,0.6296296296296297,1.6427255985267035,False,No significant deviation or insufficient prior history for this user.
+SAAS-00719,user_050,2025-06-28T13:45:47,54,11.39,61.0,9.98,0.8852459016393442,1.1412825651302605,False,No significant deviation or insufficient prior history for this user.
+SAAS-00573,user_039,2025-06-28T13:52:51,25,20.04,53.5,7.8100000000000005,0.4672897196261682,2.5659411011523683,False,No significant deviation or insufficient prior history for this user.
+SAAS-00678,user_023,2025-06-28T13:56:30,40,9.72,63.0,10.45,0.6349206349206349,0.9301435406698566,False,No significant deviation or insufficient prior history for this user.
+SAAS-00139,user_003,2025-06-28T14:07:08,36,8.18,69.0,7.21,0.5217391304347826,1.1345353675450762,False,No significant deviation or insufficient prior history for this user.
+SAAS-00515,user_020,2025-06-28T14:09:02,65,4.17,59.0,10.19,1.1016949152542372,0.40922473012757604,False,No significant deviation or insufficient prior history for this user.
+SAAS-01137,user_025,2025-06-28T14:12:41,30,11.4,59.0,8.44,0.5084745762711864,1.3507109004739337,False,No significant deviation or insufficient prior history for this user.
+SAAS-00415,user_046,2025-06-28T14:23:00,52,14.92,45.0,11.58,1.1555555555555554,1.2884283246977548,False,No significant deviation or insufficient prior history for this user.
+SAAS-01000,user_048,2025-06-28T14:32:48,40,15.22,56.5,8.68,0.7079646017699115,1.7534562211981568,False,No significant deviation or insufficient prior history for this user.
+SAAS-00567,user_025,2025-06-28T14:39:53,51,2.79,54.0,9.004999999999999,0.9444444444444444,0.3098278734036647,False,No significant deviation or insufficient prior history for this user.
+SAAS-00856,user_017,2025-06-28T15:07:06,46,4.99,65.0,7.58,0.7076923076923077,0.658311345646438,False,No significant deviation or insufficient prior history for this user.
+SAAS-00049,user_043,2025-06-28T15:10:26,56,7.47,56.5,6.155,0.9911504424778761,1.2136474411047928,False,No significant deviation or insufficient prior history for this user.
+SAAS-00799,user_041,2025-06-28T15:14:51,95,8.65,52.0,9.19,1.8269230769230769,0.9412404787812841,False,No significant deviation or insufficient prior history for this user.
+SAAS-00951,user_041,2025-06-28T15:22:26,669,3.97,53.5,8.92,12.504672897196262,0.44506726457399104,True,Requests 669 vs historical median 53.50 (12.50x).
+SAAS-00957,user_047,2025-06-28T15:50:53,32,19.62,51.5,8.99,0.6213592233009708,2.182424916573971,False,No significant deviation or insufficient prior history for this user.
+SAAS-00598,user_001,2025-06-28T15:55:11,59,1.23,53.5,5.77,1.102803738317757,0.21317157712305027,False,No significant deviation or insufficient prior history for this user.
+SAAS-00857,user_040,2025-06-28T16:12:56,49,4.48,53.5,8.12,0.9158878504672897,0.5517241379310346,False,No significant deviation or insufficient prior history for this user.
+SAAS-00816,user_022,2025-06-28T16:31:27,57,21.34,53.0,7.67,1.0754716981132075,2.7822685788787482,False,No significant deviation or insufficient prior history for this user.
+SAAS-00369,user_009,2025-06-28T16:58:35,51,39.31,44.5,7.65,1.146067415730337,5.138562091503268,True,Upload 39.31 MB vs historical median 7.65 MB (5.14x).
+SAAS-01182,user_019,2025-06-28T17:07:18,34,2.22,54.0,7.93,0.6296296296296297,0.27994955863808324,False,No significant deviation or insufficient prior history for this user.
+SAAS-00915,user_018,2025-06-28T17:38:02,42,9.96,57.0,7.205,0.7368421052631579,1.382373351839001,False,No significant deviation or insufficient prior history for this user.
+SAAS-01071,user_040,2025-06-28T17:39:41,58,20.35,53.0,8.12,1.0943396226415094,2.506157635467981,False,No significant deviation or insufficient prior history for this user.
+SAAS-00188,user_037,2025-06-28T18:58:15,53,2.29,48.0,9.78,1.1041666666666667,0.2341513292433538,False,No significant deviation or insufficient prior history for this user.

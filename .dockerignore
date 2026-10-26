@@ -1,0 +1,9 @@
+.git/
+.agents/
+.codex/
+__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+TECHNICAL_LEARNING_DOCUMENT.md

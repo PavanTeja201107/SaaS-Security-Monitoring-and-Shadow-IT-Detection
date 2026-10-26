@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import json
-from typing import Iterable
+from typing import Iterable, Mapping
 
 import pandas as pd
 
@@ -24,6 +24,7 @@ def _build_security_events(
     shadow_it_alerts: pd.DataFrame,
     shadow_ai_alerts: pd.DataFrame,
     cloud_alerts: pd.DataFrame,
+    behavioral_alerts: pd.DataFrame | None,
     saas_data: pd.DataFrame,
     cloud_data: pd.DataFrame,
     large_upload_threshold_mb: float,
@@ -33,6 +34,7 @@ def _build_security_events(
         "Shadow IT": shadow_it_alerts,
         "Shadow AI": shadow_ai_alerts,
         "Cloud security": cloud_alerts,
+        "Behavioral": behavioral_alerts if behavioral_alerts is not None else pd.DataFrame(columns=ALERT_COLUMNS),
     }.items():
         _validate_alerts(alerts, name)
     required_saas = {"event_id", "user_id", "timestamp", "data_uploaded_mb"}
@@ -44,7 +46,10 @@ def _build_security_events(
     if large_upload_threshold_mb <= 0:
         raise ValueError("large_upload_threshold_mb must be positive.")
 
-    alert_events = pd.concat([shadow_it_alerts, shadow_ai_alerts, cloud_alerts], ignore_index=True)
+    alert_sources = [shadow_it_alerts, shadow_ai_alerts, cloud_alerts]
+    if behavioral_alerts is not None:
+        alert_sources.append(behavioral_alerts)
+    alert_events = pd.concat(alert_sources, ignore_index=True)
     cloud_context = cloud_data[["event_id", "source_ip", "resource"]].copy()
     events = alert_events.merge(cloud_context, on="event_id", how="left")
 
@@ -102,8 +107,10 @@ def correlate_events(
     cloud_alerts: pd.DataFrame,
     saas_data: pd.DataFrame,
     cloud_data: pd.DataFrame,
+    behavioral_alerts: pd.DataFrame | None = None,
     time_window_hours: int = 12,
     large_upload_threshold_mb: float = 150.0,
+    risk_weights: Mapping[str, int] | None = None,
 ) -> pd.DataFrame:
     """Return simple incidents correlated by user and a 12-hour default window.
 
@@ -114,14 +121,14 @@ def correlate_events(
     if time_window_hours <= 0:
         raise ValueError("time_window_hours must be positive.")
     events = _build_security_events(
-        shadow_it_alerts, shadow_ai_alerts, cloud_alerts, saas_data, cloud_data, large_upload_threshold_mb
+        shadow_it_alerts, shadow_ai_alerts, cloud_alerts, behavioral_alerts, saas_data, cloud_data, large_upload_threshold_mb
     )
     if events.empty:
         return pd.DataFrame(columns=INCIDENT_COLUMNS)
 
     records = []
     for number, group in enumerate(_split_time_groups(events, pd.Timedelta(hours=time_window_hours)), start=1):
-        score, level, contributions = calculate_risk_score(group["alert_type"])
+        score, level, contributions = calculate_risk_score(group["alert_type"], weights=risk_weights)
         event_details = [
             {
                 "event_id": row.event_id,

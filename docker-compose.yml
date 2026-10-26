@@ -1,0 +1,5 @@
+services:
+  saas-security-monitor:
+    build: .
+    ports:
+      - "8501:8501"

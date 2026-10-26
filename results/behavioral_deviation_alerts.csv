@@ -1,0 +1,127 @@
+event_id,user_id,timestamp,alert_type,severity,reason
+SAAS-00326,user_042,2025-06-04T16:59:10,Behavioral Deviation,Medium,Requests 560 vs historical median 43.00 (13.02x).
+SAAS-00331,user_047,2025-06-05T04:49:16,Behavioral Deviation,Medium,Upload 23.27 MB vs historical median 5.05 MB (4.61x).
+SAAS-00014,user_042,2025-06-05T09:22:33,Behavioral Deviation,Medium,Upload 32.51 MB vs historical median 9.26 MB (3.51x).
+SAAS-00953,user_031,2025-06-05T16:35:25,Behavioral Deviation,Medium,Upload 32.36 MB vs historical median 8.34 MB (3.88x).
+SAAS-00221,user_036,2025-06-05T17:45:38,Behavioral Deviation,Medium,Requests 647 vs historical median 68.00 (9.51x).
+SAAS-00741,user_034,2025-06-05T18:55:45,Behavioral Deviation,Medium,Upload 31.38 MB vs historical median 7.71 MB (4.07x).
+SAAS-01001,user_047,2025-06-06T10:15:12,Behavioral Deviation,Medium,Upload 654.69 MB vs historical median 6.54 MB (100.11x).
+SAAS-01070,user_036,2025-06-06T10:45:12,Behavioral Deviation,Medium,Upload 484.35 MB vs historical median 5.21 MB (92.97x).
+SAAS-00333,user_047,2025-06-06T14:36:47,Behavioral Deviation,Medium,Upload 585.37 MB vs historical median 7.44 MB (78.68x).
+SAAS-00659,user_027,2025-06-06T14:53:57,Behavioral Deviation,Medium,Requests 677 vs historical median 63.00 (10.75x).
+SAAS-00555,user_009,2025-06-06T15:53:13,Behavioral Deviation,Medium,Upload 519.55 MB vs historical median 11.55 MB (44.98x).
+SAAS-00282,user_020,2025-06-07T10:29:33,Behavioral Deviation,Medium,Upload 12.96 MB vs historical median 3.14 MB (4.13x).
+SAAS-00146,user_050,2025-06-07T11:20:33,Behavioral Deviation,Medium,Requests 761 vs historical median 58.00 (13.12x). Upload 27.98 MB vs historical median 6.75 MB (4.15x).
+SAAS-01010,user_043,2025-06-07T16:04:23,Behavioral Deviation,Medium,Upload 16.49 MB vs historical median 4.12 MB (4.00x).
+SAAS-00971,user_031,2025-06-08T10:27:07,Behavioral Deviation,Medium,Upload 711.74 MB vs historical median 8.78 MB (81.06x).
+SAAS-00751,user_003,2025-06-09T10:25:43,Behavioral Deviation,Medium,Upload 661.46 MB vs historical median 6.65 MB (99.47x).
+SAAS-00020,user_047,2025-06-09T12:43:43,Behavioral Deviation,Medium,Upload 33.50 MB vs historical median 8.99 MB (3.73x).
+SAAS-00740,user_044,2025-06-09T14:19:20,Behavioral Deviation,Medium,Upload 252.86 MB vs historical median 5.14 MB (49.19x).
+SAAS-00587,user_043,2025-06-09T17:55:04,Behavioral Deviation,Medium,Requests 625 vs historical median 48.00 (13.02x).
+SAAS-00755,user_045,2025-06-09T18:12:42,Behavioral Deviation,Medium,Upload 481.34 MB vs historical median 12.26 MB (39.26x).
+SAAS-00483,user_011,2025-06-10T10:55:03,Behavioral Deviation,Medium,Requests 388 vs historical median 59.00 (6.58x).
+SAAS-00393,user_025,2025-06-10T11:35:51,Behavioral Deviation,Medium,Upload 24.42 MB vs historical median 5.42 MB (4.51x).
+SAAS-00106,user_012,2025-06-10T12:43:14,Behavioral Deviation,Medium,Requests 470 vs historical median 47.00 (10.00x).
+SAAS-00017,user_038,2025-06-10T14:03:55,Behavioral Deviation,Medium,Upload 751.42 MB vs historical median 9.66 MB (77.79x).
+SAAS-00210,user_007,2025-06-10T15:29:26,Behavioral Deviation,Medium,Upload 32.67 MB vs historical median 3.04 MB (10.73x).
+SAAS-00772,user_013,2025-06-10T16:20:55,Behavioral Deviation,Medium,Requests 715 vs historical median 53.00 (13.49x).
+SAAS-00773,user_031,2025-06-10T17:44:48,Behavioral Deviation,Medium,Upload 340.88 MB vs historical median 8.78 MB (38.82x).
+SAAS-00806,user_034,2025-06-11T11:50:09,Behavioral Deviation,Medium,Requests 411 vs historical median 52.50 (7.83x).
+SAAS-00394,user_020,2025-06-11T12:00:53,Behavioral Deviation,Medium,Requests 469 vs historical median 62.00 (7.56x).
+SAAS-01046,user_029,2025-06-11T12:59:31,Behavioral Deviation,Medium,Upload 22.51 MB vs historical median 6.37 MB (3.53x).
+SAAS-00809,user_035,2025-06-11T16:34:56,Behavioral Deviation,Medium,Upload 265.58 MB vs historical median 8.33 MB (31.88x).
+SAAS-00819,user_029,2025-06-12T11:09:55,Behavioral Deviation,Medium,Upload 34.24 MB vs historical median 9.39 MB (3.65x).
+SAAS-00395,user_026,2025-06-12T14:00:39,Behavioral Deviation,Medium,Upload 803.72 MB vs historical median 9.12 MB (88.13x).
+SAAS-01019,user_018,2025-06-12T14:12:04,Behavioral Deviation,Medium,Upload 13.15 MB vs historical median 3.08 MB (4.27x).
+SAAS-00882,user_003,2025-06-12T17:21:14,Behavioral Deviation,Medium,Upload 25.80 MB vs historical median 7.21 MB (3.58x).
+SAAS-00189,user_007,2025-06-12T17:51:23,Behavioral Deviation,Medium,Upload 17.14 MB vs historical median 3.30 MB (5.19x).
+SAAS-00074,user_025,2025-06-12T18:22:07,Behavioral Deviation,Medium,Requests 497 vs historical median 46.50 (10.69x).
+SAAS-00920,user_030,2025-06-13T09:09:09,Behavioral Deviation,Medium,Upload 631.28 MB vs historical median 8.04 MB (78.52x).
+SAAS-00454,user_033,2025-06-13T10:01:51,Behavioral Deviation,Medium,Upload 23.59 MB vs historical median 6.62 MB (3.56x).
+SAAS-00607,user_024,2025-06-13T16:20:52,Behavioral Deviation,Medium,Requests 474 vs historical median 58.00 (8.17x).
+SAAS-00416,user_038,2025-06-13T16:36:40,Behavioral Deviation,Medium,Upload 891.32 MB vs historical median 10.64 MB (83.73x).
+SAAS-00927,user_046,2025-06-13T17:04:21,Behavioral Deviation,Medium,Upload 211.66 MB vs historical median 13.26 MB (15.96x).
+SAAS-00846,user_024,2025-06-13T17:57:29,Behavioral Deviation,Medium,Requests 330 vs historical median 62.50 (5.28x).
+SAAS-00388,user_004,2025-06-14T11:41:01,Behavioral Deviation,Medium,Requests 453 vs historical median 50.00 (9.06x).
+SAAS-00070,user_002,2025-06-14T12:00:34,Behavioral Deviation,Medium,Upload 586.86 MB vs historical median 12.19 MB (48.14x).
+SAAS-01164,user_040,2025-06-14T12:02:03,Behavioral Deviation,Medium,Requests 596 vs historical median 53.00 (11.25x).
+SAAS-00383,user_025,2025-06-14T17:28:07,Behavioral Deviation,Medium,Upload 899.57 MB vs historical median 7.96 MB (112.94x).
+SAAS-00044,user_015,2025-06-15T08:13:00,Behavioral Deviation,Medium,Upload 649.63 MB vs historical median 9.56 MB (67.92x).
+SAAS-01042,user_041,2025-06-15T08:28:26,Behavioral Deviation,Medium,Upload 32.49 MB vs historical median 7.57 MB (4.29x).
+SAAS-00517,user_022,2025-06-15T08:51:45,Behavioral Deviation,Medium,Requests 649 vs historical median 53.50 (12.13x).
+SAAS-00855,user_020,2025-06-15T10:58:16,Behavioral Deviation,Medium,Upload 833.62 MB vs historical median 7.29 MB (114.35x).
+SAAS-00586,user_047,2025-06-15T11:05:52,Behavioral Deviation,Medium,Upload 30.13 MB vs historical median 8.25 MB (3.65x).
+SAAS-00534,user_033,2025-06-15T13:43:25,Behavioral Deviation,Medium,Requests 417 vs historical median 54.00 (7.72x).
+SAAS-00878,user_021,2025-06-15T17:18:52,Behavioral Deviation,Medium,Upload 342.44 MB vs historical median 7.29 MB (46.94x).
+SAAS-00253,user_019,2025-06-15T18:14:56,Behavioral Deviation,Medium,Upload 736.20 MB vs historical median 7.61 MB (96.80x).
+SAAS-00127,user_040,2025-06-15T18:44:02,Behavioral Deviation,Medium,Upload 542.07 MB vs historical median 8.32 MB (65.11x).
+SAAS-00238,user_022,2025-06-16T08:06:02,Behavioral Deviation,Medium,Upload 35.10 MB vs historical median 7.67 MB (4.58x).
+SAAS-00219,user_022,2025-06-16T08:07:42,Behavioral Deviation,Medium,Upload 632.84 MB vs historical median 9.12 MB (69.39x).
+SAAS-00788,user_024,2025-06-16T08:17:38,Behavioral Deviation,Medium,Requests 472 vs historical median 62.50 (7.55x).
+SAAS-00205,user_031,2025-06-16T12:28:49,Behavioral Deviation,Medium,Upload 28.92 MB vs historical median 7.90 MB (3.66x).
+SAAS-00481,user_027,2025-06-16T15:49:09,Behavioral Deviation,Medium,Requests 546 vs historical median 61.00 (8.95x).
+SAAS-00571,user_033,2025-06-16T17:14:38,Behavioral Deviation,Medium,Requests 711 vs historical median 54.50 (13.05x).
+SAAS-01151,user_040,2025-06-16T18:53:12,Behavioral Deviation,Medium,Upload 606.44 MB vs historical median 8.75 MB (69.31x).
+SAAS-00553,user_050,2025-06-17T09:23:28,Behavioral Deviation,Medium,Requests 298 vs historical median 59.00 (5.05x).
+SAAS-00649,user_031,2025-06-17T14:48:04,Behavioral Deviation,Medium,Upload 476.62 MB vs historical median 7.90 MB (60.33x).
+SAAS-00928,user_040,2025-06-17T14:54:57,Behavioral Deviation,Medium,Upload 522.60 MB vs historical median 8.75 MB (59.73x).
+SAAS-01047,user_032,2025-06-17T15:32:18,Behavioral Deviation,Medium,Requests 310 vs historical median 68.00 (4.56x).
+SAAS-00541,user_050,2025-06-17T18:54:36,Behavioral Deviation,Medium,Requests 677 vs historical median 61.50 (11.01x).
+SAAS-00675,user_043,2025-06-18T08:33:33,Behavioral Deviation,Medium,Requests 446 vs historical median 47.50 (9.39x).
+SAAS-00098,user_042,2025-06-18T10:51:46,Behavioral Deviation,Medium,Upload 33.82 MB vs historical median 9.26 MB (3.65x).
+SAAS-01006,user_049,2025-06-18T13:30:30,Behavioral Deviation,Medium,Upload 215.18 MB vs historical median 6.35 MB (33.89x).
+SAAS-00319,user_050,2025-06-18T14:25:07,Behavioral Deviation,Medium,Upload 452.97 MB vs historical median 9.41 MB (48.14x).
+SAAS-00698,user_009,2025-06-18T14:51:18,Behavioral Deviation,Medium,Requests 562 vs historical median 44.00 (12.77x).
+SAAS-00864,user_015,2025-06-18T18:57:25,Behavioral Deviation,Medium,Requests 658 vs historical median 41.00 (16.05x).
+SAAS-01107,user_011,2025-06-19T08:32:27,Behavioral Deviation,Medium,Upload 652.24 MB vs historical median 8.50 MB (76.73x).
+SAAS-00286,user_030,2025-06-19T09:15:29,Behavioral Deviation,Medium,Upload 34.61 MB vs historical median 8.04 MB (4.30x).
+SAAS-00178,user_027,2025-06-19T10:06:21,Behavioral Deviation,Medium,Upload 675.02 MB vs historical median 10.86 MB (62.19x).
+SAAS-00618,user_033,2025-06-19T10:23:38,Behavioral Deviation,Medium,Upload 490.04 MB vs historical median 6.15 MB (79.68x).
+SAAS-00743,user_050,2025-06-19T10:51:43,Behavioral Deviation,Medium,Upload 696.21 MB vs historical median 9.71 MB (71.70x).
+SAAS-00495,user_007,2025-06-19T15:16:21,Behavioral Deviation,Medium,Requests 575 vs historical median 47.50 (12.11x).
+SAAS-00908,user_019,2025-06-19T15:36:03,Behavioral Deviation,Medium,Upload 369.30 MB vs historical median 9.19 MB (40.18x).
+SAAS-00161,user_028,2025-06-19T17:16:41,Behavioral Deviation,Medium,Upload 791.13 MB vs historical median 11.71 MB (67.56x).
+SAAS-00572,user_044,2025-06-20T10:23:51,Behavioral Deviation,Medium,Upload 387.64 MB vs historical median 8.28 MB (46.82x).
+SAAS-00366,user_015,2025-06-20T10:38:45,Behavioral Deviation,Medium,Requests 482 vs historical median 49.00 (9.84x).
+SAAS-00690,user_020,2025-06-20T12:38:33,Behavioral Deviation,Medium,Requests 750 vs historical median 62.00 (12.10x).
+SAAS-01091,user_046,2025-06-20T13:59:14,Behavioral Deviation,Medium,Requests 698 vs historical median 42.50 (16.42x).
+SAAS-00147,user_007,2025-06-20T14:40:33,Behavioral Deviation,Medium,Upload 242.43 MB vs historical median 9.36 MB (25.90x).
+SAAS-01002,user_036,2025-06-21T08:14:19,Behavioral Deviation,Medium,Upload 21.82 MB vs historical median 4.42 MB (4.94x).
+SAAS-00150,user_047,2025-06-21T09:04:24,Behavioral Deviation,Medium,Upload 517.19 MB vs historical median 7.78 MB (66.48x).
+SAAS-01113,user_015,2025-06-21T12:13:00,Behavioral Deviation,Medium,Upload 230.40 MB vs historical median 9.29 MB (24.80x).
+SAAS-00898,user_047,2025-06-21T14:45:30,Behavioral Deviation,Medium,Requests 296 vs historical median 51.00 (5.80x).
+SAAS-00950,user_039,2025-06-21T15:50:19,Behavioral Deviation,Medium,Requests 713 vs historical median 58.00 (12.29x).
+SAAS-00159,user_021,2025-06-21T16:20:25,Behavioral Deviation,Medium,Upload 501.32 MB vs historical median 7.17 MB (69.92x).
+SAAS-00386,user_028,2025-06-21T17:06:05,Behavioral Deviation,Medium,Upload 689.53 MB vs historical median 11.44 MB (60.27x).
+SAAS-00449,user_045,2025-06-21T17:11:45,Behavioral Deviation,Medium,Upload 779.30 MB vs historical median 9.31 MB (83.71x).
+SAAS-01167,user_034,2025-06-21T17:20:51,Behavioral Deviation,Medium,Requests 533 vs historical median 53.00 (10.06x). Upload 26.33 MB vs historical median 7.36 MB (3.58x).
+SAAS-00165,user_047,2025-06-22T11:44:13,Behavioral Deviation,Medium,Requests 467 vs historical median 52.00 (8.98x).
+SAAS-00926,user_005,2025-06-22T13:06:41,Behavioral Deviation,Medium,Requests 592 vs historical median 58.00 (10.21x).
+SAAS-00126,user_003,2025-06-22T14:07:07,Behavioral Deviation,Medium,Upload 811.21 MB vs historical median 6.70 MB (121.08x).
+SAAS-00984,user_004,2025-06-22T16:35:53,Behavioral Deviation,Medium,Upload 649.34 MB vs historical median 8.57 MB (75.72x).
+SAAS-00742,user_004,2025-06-23T08:41:30,Behavioral Deviation,Medium,Requests 335 vs historical median 51.00 (6.57x).
+SAAS-00218,user_030,2025-06-23T11:03:42,Behavioral Deviation,Medium,Upload 246.81 MB vs historical median 8.05 MB (30.64x).
+SAAS-00997,user_027,2025-06-23T11:57:36,Behavioral Deviation,Medium,Requests 348 vs historical median 53.00 (6.57x).
+SAAS-01097,user_016,2025-06-23T12:08:24,Behavioral Deviation,Medium,Requests 699 vs historical median 48.00 (14.56x).
+SAAS-00881,user_005,2025-06-23T13:05:42,Behavioral Deviation,Medium,Upload 371.96 MB vs historical median 10.62 MB (35.01x).
+SAAS-01121,user_035,2025-06-23T17:30:57,Behavioral Deviation,Medium,Upload 825.25 MB vs historical median 7.89 MB (104.59x).
+SAAS-00042,user_034,2025-06-23T18:24:23,Behavioral Deviation,Medium,Requests 447 vs historical median 53.00 (8.43x).
+SAAS-00666,user_046,2025-06-24T09:24:34,Behavioral Deviation,Medium,Requests 322 vs historical median 45.00 (7.16x).
+SAAS-00292,user_013,2025-06-24T16:18:08,Behavioral Deviation,Medium,Requests 648 vs historical median 53.00 (12.23x).
+SAAS-00595,user_014,2025-06-25T11:28:11,Behavioral Deviation,Medium,Requests 604 vs historical median 53.00 (11.40x).
+SAAS-00739,user_007,2025-06-25T11:58:03,Behavioral Deviation,Medium,Requests 428 vs historical median 53.00 (8.08x).
+SAAS-00091,user_026,2025-06-25T14:39:51,Behavioral Deviation,Medium,Requests 525 vs historical median 51.00 (10.29x).
+SAAS-00455,user_011,2025-06-25T17:45:18,Behavioral Deviation,Medium,Requests 674 vs historical median 51.00 (13.22x).
+SAAS-00703,user_032,2025-06-26T08:24:45,Behavioral Deviation,Medium,Upload 209.63 MB vs historical median 8.85 MB (23.70x).
+SAAS-00747,user_029,2025-06-26T12:54:31,Behavioral Deviation,Medium,Upload 488.99 MB vs historical median 9.34 MB (52.35x).
+SAAS-00396,user_046,2025-06-26T15:33:31,Behavioral Deviation,Medium,Requests 385 vs historical median 45.00 (8.56x).
+SAAS-00235,user_006,2025-06-26T15:45:15,Behavioral Deviation,Medium,Upload 27.54 MB vs historical median 5.69 MB (4.84x).
+SAAS-01105,user_024,2025-06-27T09:02:38,Behavioral Deviation,Medium,Upload 376.82 MB vs historical median 6.13 MB (61.47x).
+SAAS-00514,user_018,2025-06-27T11:31:29,Behavioral Deviation,Medium,Requests 490 vs historical median 56.00 (8.75x).
+SAAS-00459,user_017,2025-06-27T12:40:39,Behavioral Deviation,Medium,Upload 32.98 MB vs historical median 7.58 MB (4.35x).
+SAAS-00653,user_046,2025-06-27T13:59:21,Behavioral Deviation,Medium,Upload 732.14 MB vs historical median 11.45 MB (63.94x).
+SAAS-00327,user_040,2025-06-27T15:52:55,Behavioral Deviation,Medium,Requests 360 vs historical median 53.00 (6.79x).
+SAAS-00540,user_049,2025-06-28T11:07:36,Behavioral Deviation,Medium,Upload 835.05 MB vs historical median 6.30 MB (132.55x).
+SAAS-00591,user_047,2025-06-28T12:39:21,Behavioral Deviation,Medium,Requests 644 vs historical median 51.00 (12.63x).
+SAAS-00951,user_041,2025-06-28T15:22:26,Behavioral Deviation,Medium,Requests 669 vs historical median 53.50 (12.50x).
+SAAS-00369,user_009,2025-06-28T16:58:35,Behavioral Deviation,Medium,Upload 39.31 MB vs historical median 7.65 MB (5.14x).

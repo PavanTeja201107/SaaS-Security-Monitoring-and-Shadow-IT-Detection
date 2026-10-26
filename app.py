@@ -1,4 +1,4 @@
-"""Streamlit dashboard for the SaaS Security Monitoring System.
+"""Streamlit demonstration dashboard for SaaS security monitoring.
 
 Run from the project root:
     streamlit run app.py
@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
+import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
 
@@ -20,23 +21,26 @@ RESULTS_DIR = ROOT_DIR / "results"
 
 @st.cache_data
 def load_csv(path: Path) -> pd.DataFrame:
-    """Load a CSV once per dashboard refresh, with errors shown by the caller."""
+    """Read a generated project artifact once per dashboard refresh."""
     return pd.read_csv(path)
 
 
 def load_project_data() -> tuple[dict[str, pd.DataFrame], list[str]]:
-    """Load only generated project artifacts; do not substitute fake values."""
+    """Load real pipeline outputs; never substitute placeholder values."""
     paths = {
         "saas": DATA_DIR / "saas_activity.csv",
         "cloud": DATA_DIR / "cloudtrail_logs.csv",
         "shadow_it": RESULTS_DIR / "shadow_it_alerts.csv",
         "shadow_ai": RESULTS_DIR / "shadow_ai_alerts.csv",
         "cloud_alerts": RESULTS_DIR / "cloud_security_alerts.csv",
+        "behavior_baselines": RESULTS_DIR / "user_behavior_baselines.csv",
+        "behavior_alerts": RESULTS_DIR / "behavioral_deviation_alerts.csv",
         "incidents": RESULTS_DIR / "correlated_incidents.csv",
         "comparison": RESULTS_DIR / "algorithm_comparison.csv",
+        "hybrid_votes": RESULTS_DIR / "hybrid_holdout_predictions.csv",
+        "system_comparison": RESULTS_DIR / "system_comparison.csv",
     }
-    data: dict[str, pd.DataFrame] = {}
-    errors: list[str] = []
+    data, errors = {}, []
     for name, path in paths.items():
         if not path.exists():
             errors.append(f"Missing `{path.relative_to(ROOT_DIR)}`.")
@@ -49,160 +53,221 @@ def load_project_data() -> tuple[dict[str, pd.DataFrame], list[str]]:
 
 
 def enrich_saas_alerts(alerts: pd.DataFrame, saas: pd.DataFrame) -> pd.DataFrame:
-    """Show detected SaaS alerts together with their original application fields."""
-    source_fields = ["event_id", "application", "application_category", "requests", "data_uploaded_mb", "approved"]
-    return alerts.merge(saas[source_fields], on="event_id", how="left")
+    fields = ["event_id", "application", "application_category", "requests", "data_uploaded_mb", "approved"]
+    return alerts.merge(saas[fields], on="event_id", how="left")
 
 
 def enrich_cloud_alerts(alerts: pd.DataFrame, cloud: pd.DataFrame) -> pd.DataFrame:
-    """Show CloudTrail context for each rule alert."""
-    source_fields = ["event_id", "event_name", "resource", "source_ip", "region", "status"]
-    return alerts.merge(cloud[source_fields], on="event_id", how="left")
+    fields = ["event_id", "event_name", "resource", "source_ip", "region", "status"]
+    return alerts.merge(cloud[fields], on="event_id", how="left")
+
+
+def parse_events(value: str) -> list[dict]:
+    """Decode an incident event list without failing the dashboard on bad text."""
+    try:
+        return json.loads(value)
+    except (TypeError, json.JSONDecodeError):
+        return []
 
 
 def show_overview(data: dict[str, pd.DataFrame]) -> None:
     st.header("Overview")
-    st.caption("A single view of SaaS activity, security alerts, and correlated incidents for project demonstration.")
-    saas, cloud = data["saas"], data["cloud"]
-    total_users = pd.concat([saas["user_id"], cloud["user_id"]]).nunique()
-    high_risk = int((data["incidents"]["risk_level"] == "High").sum())
-    metrics = st.columns(6)
-    metrics[0].metric("Total users", total_users)
-    metrics[1].metric("SaaS applications", saas["application"].nunique())
-    metrics[2].metric("Shadow IT", len(data["shadow_it"]))
-    metrics[3].metric("Shadow AI", len(data["shadow_ai"]))
-    metrics[4].metric("Cloud alerts", len(data["cloud_alerts"]))
-    metrics[5].metric("High-risk incidents", high_risk)
+    st.caption("Compact view of current SaaS, cloud, behavioural, and incident risk signals.")
+    incidents = data["incidents"]
+    total_activities = len(data["saas"]) + len(data["cloud"])
+    anomaly_alerts = len(data["shadow_it"]) + len(data["shadow_ai"]) + len(data["behavior_alerts"])
+    high_risk = int(incidents["risk_level"].eq("High").sum())
+    total_users = pd.concat([data["saas"]["user_id"], data["cloud"]["user_id"]]).nunique()
 
-    st.subheader("Incident risk levels")
-    risk_counts = data["incidents"]["risk_level"].value_counts().reindex(["Low", "Medium", "High"], fill_value=0)
-    st.bar_chart(risk_counts)
+    metrics = st.columns(4)
+    metrics[0].metric("Total activities", f"{total_activities:,}")
+    metrics[1].metric("Users monitored", total_users)
+    metrics[2].metric("SaaS anomaly alerts", anomaly_alerts)
+    metrics[3].metric("High-risk incidents", high_risk)
 
-    st.subheader("Quick Demo")
-    st.caption("These are the highest-risk correlated incidents currently produced by the pipeline.")
-    demo_columns = ["incident_id", "user_id", "risk_score", "risk_level", "reason"]
-    st.dataframe(
-        data["incidents"].sort_values("risk_score", ascending=False).head(3)[demo_columns],
-        hide_index=True,
-        use_container_width=True,
-    )
+    left, right = st.columns([1, 2])
+    with left:
+        st.subheader("Security-risk summary")
+        risk_counts = incidents["risk_level"].value_counts().reindex(["Low", "Medium", "High"], fill_value=0)
+        st.bar_chart(risk_counts)
+    with right:
+        st.subheader("Priority incidents")
+        top = incidents.sort_values(["risk_score", "incident_id"], ascending=[False, True]).head(5)
+        st.dataframe(top[["incident_id", "user_id", "risk_score", "risk_level", "reason"]], hide_index=True, width="stretch")
 
 
-def show_algorithm_comparison(comparison: pd.DataFrame) -> None:
-    st.header("Algorithm Comparison")
-    st.caption("Metrics are calculated on the common labelled holdout set generated by the project evaluation pipeline.")
-    display_columns = ["method", "precision", "recall", "f1_score", "false_positive_rate"]
-    st.dataframe(comparison[display_columns].round(4), hide_index=True, use_container_width=True)
+def show_detection_performance(data: dict[str, pd.DataFrame]) -> None:
+    st.header("Detection Performance")
+    st.caption("All five methods use the same labelled holdout set. Results are loaded from the evaluation pipeline.")
+    comparison = data["comparison"]
+    metric_columns = ["method", "precision", "recall", "f1_score", "false_positive_rate"]
+    st.dataframe(comparison[metric_columns].round(4), hide_index=True, width="stretch")
 
-    chart_path = RESULTS_DIR / "algorithm_performance.png"
-    if chart_path.exists():
-        st.image(str(chart_path), caption="Precision, recall, and F1-score by detection method.", use_container_width=True)
-    else:
-        st.bar_chart(comparison.set_index("method")[["precision", "recall", "f1_score"]])
+    chart_data = comparison.set_index("method")[["precision", "recall", "f1_score"]]
+    fig, ax = plt.subplots(figsize=(10, 4.5))
+    chart_data.plot(kind="bar", ax=ax, color=["#2563EB", "#F59E0B", "#16A34A"], width=0.78)
+    ax.set_ylim(0, 1.05)
+    ax.set_xlabel("")
+    ax.set_ylabel("Score")
+    ax.set_title("Precision, Recall, and F1-score")
+    ax.legend(["Precision", "Recall", "F1-score"], ncol=3, loc="upper center")
+    ax.tick_params(axis="x", rotation=18)
+    ax.grid(axis="y", alpha=0.25)
+    fig.tight_layout()
+    st.pyplot(fig, width="stretch")
+    plt.close(fig)
+
+    st.subheader("Original and behavioural-enhanced comparison")
+    st.caption("The enhanced system alerts when either the original Hybrid or the historical behaviour baseline alerts.")
+    system_cols = ["method", "precision", "recall", "f1_score", "false_positive_rate", "true_negatives", "false_positives", "false_negatives", "true_positives", "behavioral_holdout_alerts", "new_behavioral_predictions"]
+    st.dataframe(data["system_comparison"][system_cols].round(4), hide_index=True, width="stretch")
+
+    with st.expander("Show hybrid voting examples"):
+        st.caption("A Hybrid alert needs at least two suspicious votes from IQR, K-Means, Isolation Forest, and Random Forest.")
+        columns = ["source_row_index", "ground_truth", "IQR", "K-Means", "Isolation Forest", "Random Forest", "suspicious_votes", "hybrid_confidence", "hybrid_prediction"]
+        st.dataframe(data["hybrid_votes"][columns].head(20), hide_index=True, width="stretch")
 
 
-def show_shadow_apps(data: dict[str, pd.DataFrame]) -> None:
-    st.header("Shadow IT / Shadow AI")
-    st.caption("Unauthorized applications are detected using the approved flag and the configurable AI application list.")
+def show_saas_security(data: dict[str, pd.DataFrame]) -> None:
+    st.header("SaaS Security")
+    st.caption("Shadow IT is an unauthorized non-AI app. Shadow AI is an unauthorized app in the configured AI list.")
+    cards = st.columns(2)
+    cards[0].metric("Shadow IT alerts", len(data["shadow_it"]))
+    cards[1].metric("Shadow AI alerts", len(data["shadow_ai"]))
     tab_it, tab_ai = st.tabs(["Shadow IT", "Shadow AI"])
     with tab_it:
-        st.dataframe(enrich_saas_alerts(data["shadow_it"], data["saas"]), hide_index=True, use_container_width=True)
+        st.caption("Unauthorized non-AI SaaS applications.")
+        with st.expander("View Shadow IT alert records", expanded=True):
+            st.dataframe(enrich_saas_alerts(data["shadow_it"], data["saas"]), hide_index=True, width="stretch")
     with tab_ai:
-        st.dataframe(enrich_saas_alerts(data["shadow_ai"], data["saas"]), hide_index=True, use_container_width=True)
+        st.caption("Unauthorized applications in the configured AI application list.")
+        with st.expander("View Shadow AI alert records", expanded=True):
+            st.dataframe(enrich_saas_alerts(data["shadow_ai"], data["saas"]), hide_index=True, width="stretch")
 
+
+def show_user_behavior(data: dict[str, pd.DataFrame]) -> None:
+    st.header("User Behaviour")
+    st.caption("Current activity is compared with each user's earlier historical median. A behavioural alert requires five earlier records and a 3.5× request or upload deviation.")
+    baselines = data["behavior_baselines"].copy()
+    baselines["parsed_timestamp"] = pd.to_datetime(baselines["timestamp"], errors="coerce")
+    user_id = st.selectbox("User", sorted(baselines["user_id"].unique()))
+    measure = st.radio("Activity measure", ["Request count", "Upload volume (MB)"], horizontal=True)
+    user_rows = baselines.loc[baselines["user_id"].eq(user_id)].sort_values("parsed_timestamp").reset_index(drop=True)
+
+    if measure == "Request count":
+        actual_col, baseline_col, ratio_col, y_label = "requests", "historical_request_baseline", "request_deviation_ratio", "Requests"
+    else:
+        actual_col, baseline_col, ratio_col, y_label = "data_uploaded_mb", "historical_upload_baseline_mb", "upload_deviation_ratio", "Upload volume (MB)"
+
+    event_options = list(range(len(user_rows)))
+    selected_position = st.selectbox(
+        "Inspect activity", event_options, index=len(event_options) - 1,
+        format_func=lambda index: f"{user_rows.iloc[index]['timestamp']} | {user_rows.iloc[index]['event_id']}",
+    )
+    current = user_rows.iloc[selected_position]
+
+    fig, ax = plt.subplots(figsize=(11, 4.6))
+    ax.plot(user_rows["parsed_timestamp"], user_rows[actual_col], marker="o", linewidth=1.8, markersize=4, label="Actual activity", color="#2563EB")
+    ax.plot(user_rows["parsed_timestamp"], user_rows[baseline_col], linestyle="--", linewidth=2, label="Historical median baseline", color="#64748B")
+    anomalous = user_rows.loc[user_rows["behavioral_alert"].fillna(False)]
+    ax.scatter(anomalous["parsed_timestamp"], anomalous[actual_col], color="#DC2626", s=58, zorder=4, label="Behavioural deviation")
+    ax.axvline(current["parsed_timestamp"], color="#0F172A", alpha=0.35, linewidth=1)
+    ax.set_title(f"{user_id}: {y_label} versus historical baseline")
+    ax.set_xlabel("Activity timestamp")
+    ax.set_ylabel(y_label)
+    ax.grid(alpha=0.22)
+    ax.legend(loc="best")
+    fig.autofmt_xdate()
+    fig.tight_layout()
+    st.pyplot(fig, width="stretch")
+    plt.close(fig)
+
+    has_baseline = pd.notna(current[baseline_col])
+    cards = st.columns(3)
+    if has_baseline:
+        cards[0].metric("Historical baseline", f"{current[baseline_col]:.2f}")
+        cards[1].metric("Current activity", f"{current[actual_col]:.2f}")
+        cards[2].metric("Deviation ratio", f"{current[ratio_col]:.2f}×")
+        if bool(current["behavioral_alert"]):
+            st.warning(f"Behavioural deviation detected: {current['behavioral_explanation']}")
+        else:
+            st.success("Activity is within the configured behavioural deviation thresholds.")
+    else:
+        cards[0].metric("Current activity", f"{current[actual_col]:.2f}")
+        cards[1].metric("Historical baseline", "—")
+        cards[2].metric("Deviation ratio", "—")
+        st.info("Insufficient historical data: this user has fewer than five earlier activity records for a valid baseline.")
 
 def show_cloud_security(data: dict[str, pd.DataFrame]) -> None:
     st.header("Cloud Security")
-    st.caption("Rule-based CloudTrail-style alerts. One audit event may appear more than once when it violates multiple rules.")
+    st.caption("CloudTrail-style rule alerts. The same cloud event may show more than once if it breaks more than one rule.")
     alerts = enrich_cloud_alerts(data["cloud_alerts"], data["cloud"])
-    alert_types = sorted(alerts["alert_type"].unique())
-    selected = st.multiselect("Filter by alert type", alert_types, default=alert_types)
-    st.dataframe(alerts.loc[alerts["alert_type"].isin(selected)], hide_index=True, use_container_width=True)
+    severity_counts = alerts["severity"].value_counts()
+    columns = st.columns(3)
+    columns[0].metric("Cloud alerts", len(alerts))
+    columns[1].metric("High severity", int(severity_counts.get("High", 0)))
+    columns[2].metric("Medium severity", int(severity_counts.get("Medium", 0)))
+    selected_types = st.multiselect("Alert type", sorted(alerts["alert_type"].unique()), default=sorted(alerts["alert_type"].unique()))
+    filtered = alerts.loc[alerts["alert_type"].isin(selected_types)]
+    with st.expander("View filtered cloud alert records", expanded=True):
+        st.dataframe(filtered, hide_index=True, width="stretch")
 
 
-def show_incidents(incidents: pd.DataFrame) -> None:
-    st.header("Correlated Incidents")
-    st.caption("Alerts are grouped by user and a 12-hour time window; IP and resource context is included where available.")
-    levels = st.multiselect("Filter by risk level", ["Low", "Medium", "High"], default=["Low", "Medium", "High"])
-    filtered = incidents.loc[incidents["risk_level"].isin(levels)].sort_values(["risk_score", "incident_id"], ascending=[False, True])
-    st.dataframe(filtered, hide_index=True, use_container_width=True)
+def show_incidents(data: dict[str, pd.DataFrame]) -> None:
+    st.header("Incidents")
+    st.caption("Related alerts are grouped by user and a 12-hour time window. Expand a selected incident to inspect all contributing alerts and risk reasons.")
+    incidents = data["incidents"].copy()
+    levels = st.multiselect("Risk level", ["Low", "Medium", "High"], default=["Low", "Medium", "High"])
+    filtered = incidents.loc[incidents["risk_level"].isin(levels)].copy()
+    filtered["event_count"] = filtered["events"].map(lambda value: len(parse_events(value)))
+    filtered["first_timestamp"] = filtered["events"].map(lambda value: (parse_events(value) or [{}])[0].get("timestamp", ""))
+    filtered = filtered.sort_values(["risk_score", "incident_id"], ascending=[False, True])
+    summary_columns = ["incident_id", "user_id", "event_count", "first_timestamp", "risk_score", "risk_level", "reason"]
+    st.dataframe(filtered[summary_columns], hide_index=True, width="stretch")
 
-
-def show_event_details(data: dict[str, pd.DataFrame]) -> None:
-    st.header("Event Details")
-    st.caption("Select an alert or a correlated incident to inspect the source details used by the dashboard.")
-    choice = st.radio("View", ["Alert", "Incident"], horizontal=True)
-    if choice == "Alert":
-        alerts = pd.concat(
-            [
-                data["shadow_it"].assign(source="Shadow IT"),
-                data["shadow_ai"].assign(source="Shadow AI"),
-                data["cloud_alerts"].assign(source="Cloud Security"),
-            ],
-            ignore_index=True,
-        )
-        labels = alerts.apply(lambda row: f"{row['source']} | {row['event_id']} | {row['alert_type']}", axis=1)
-        selected_label = st.selectbox("Select alert", labels)
-        selected = alerts.loc[labels == selected_label].iloc[0]
-        st.json(selected.to_dict())
-    else:
-        incidents = data["incidents"]
-        incident_id = st.selectbox("Select incident", incidents["incident_id"])
-        selected = incidents.loc[incidents["incident_id"] == incident_id].iloc[0]
-        st.subheader(f"{selected['incident_id']} — {selected['risk_level']} risk ({selected['risk_score']}/100)")
-        st.write(selected["reason"])
-        try:
-            st.json(json.loads(selected["events"]))
-        except (TypeError, json.JSONDecodeError):
-            st.code(selected["events"])
-
-
-def show_conclusion(data: dict[str, pd.DataFrame]) -> None:
-    """Keep the demonstration closing summary grounded in current result files."""
-    st.header("Project Conclusion")
-    comparison = data["comparison"]
-    best_method = comparison.loc[comparison["f1_score"].idxmax()]
-    high_risk = int((data["incidents"]["risk_level"] == "High").sum())
-    st.write(
-        f"The monitoring pipeline detected unauthorized SaaS use, suspicious cloud activity, and {high_risk} high-risk correlated incidents."
-    )
-    st.write(
-        f"On the current common holdout evaluation set, the Hybrid method achieved the highest F1-score ({best_method['f1_score']:.4f})."
-    )
-    st.caption("This comparison is specific to the generated course-project dataset and should be re-evaluated with real organizational data before operational use.")
+    if filtered.empty:
+        st.info("No incidents match the selected risk levels.")
+        return
+    incident_id = st.selectbox("Inspect incident", filtered["incident_id"].tolist())
+    incident = filtered.loc[filtered["incident_id"].eq(incident_id)].iloc[0]
+    with st.expander(f"Incident {incident_id}: related alerts and risk explanation", expanded=True):
+        cards = st.columns(3)
+        cards[0].metric("Risk score", f"{incident['risk_score']}/100")
+        cards[1].metric("Risk level", incident["risk_level"])
+        cards[2].metric("Related alerts", incident["event_count"])
+        st.write(incident["reason"])
+        event_details = parse_events(incident["events"])
+        if event_details:
+            st.dataframe(pd.DataFrame(event_details), hide_index=True, width="stretch")
+        else:
+            st.code(incident["events"])
 
 
 def main() -> None:
-    st.set_page_config(page_title="SaaS Security Monitoring", page_icon="🛡️", layout="wide")
+    st.set_page_config(page_title="SaaS Security Monitoring", layout="wide")
     st.title("SaaS Security Monitoring and Shadow IT Detection")
     st.caption("Cloud Computing Course Project | Member 1: 231IT030 | Member 2: 231IT074")
-
     data, errors = load_project_data()
     if errors:
-        st.error("The dashboard needs generated project artifacts before it can display results.")
+        st.error("Required pipeline artifacts are missing.")
         for error in errors:
             st.write(f"- {error}")
-        st.code("python generate_data.py\npython evaluate.py\npython run_detections.py\npython run_correlation.py")
+        st.code("python generate_data.py\npython evaluate.py\npython run_detections.py\npython run_behavioral_baseline.py\npython run_correlation.py")
         return
 
-    page = st.sidebar.radio(
-        "Dashboard section",
-        ["Overview", "Algorithm Comparison", "Shadow IT / Shadow AI", "Cloud Security", "Correlated Incidents", "Event Details", "Project Conclusion"],
-    )
-    if page == "Overview":
+    section = st.sidebar.radio("Navigation", ["Overview", "Detection Performance", "SaaS Security", "User Behaviour", "Cloud Security", "Incidents"])
+    if section == "Overview":
         show_overview(data)
-    elif page == "Algorithm Comparison":
-        show_algorithm_comparison(data["comparison"])
-    elif page == "Shadow IT / Shadow AI":
-        show_shadow_apps(data)
-    elif page == "Cloud Security":
+    elif section == "Detection Performance":
+        show_detection_performance(data)
+    elif section == "SaaS Security":
+        show_saas_security(data)
+    elif section == "User Behaviour":
+        show_user_behavior(data)
+    elif section == "Cloud Security":
         show_cloud_security(data)
-    elif page == "Correlated Incidents":
-        show_incidents(data["incidents"])
-    elif page == "Event Details":
-        show_event_details(data)
     else:
-        show_conclusion(data)
+        show_incidents(data)
 
 
 if __name__ == "__main__":

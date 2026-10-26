@@ -1,0 +1,10 @@
+{
+  "training_records": 900,
+  "holdout_records": 300,
+  "minimum_history": 5,
+  "ratio_threshold": 3.5,
+  "risk_points": 5,
+  "behavioral_holdout_alerts": 23,
+  "new_behavioral_predictions": 0,
+  "integration_rule": "improved_prediction = hybrid_prediction OR behavioral_prediction"
+}

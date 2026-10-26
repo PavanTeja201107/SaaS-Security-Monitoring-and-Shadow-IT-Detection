@@ -25,6 +25,8 @@ from algorithms.hybrid import combine_predictions
 from algorithms.isolation_forest import detect_isolation_forest_anomalies, fit_isolation_forest, predict_isolation_forest_anomalies
 from algorithms.kmeans import detect_kmeans_anomalies, fit_kmeans_detector, predict_kmeans_anomalies
 from algorithms.random_forest import train_random_forest
+from config import BEHAVIORAL_MINIMUM_HISTORY, BEHAVIORAL_RATIO_THRESHOLD, BEHAVIORAL_RISK_POINTS
+from detection.behavior_baseline import calculate_baselines_from_history
 
 
 DATA_PATH = Path("data") / "saas_activity.csv"
@@ -119,22 +121,75 @@ def main() -> None:
     comparison_records.append(hybrid_metrics)
     comparison_matrices["Hybrid"] = hybrid_matrix
     comparison_metrics = pd.DataFrame(comparison_records)
+
+    # Compare the original Hybrid with the same Hybrid plus a behaviour signal.
+    # Holdout baselines use only earlier timestamped records in training_data.
+    behavioral_analysis = calculate_baselines_from_history(
+        holdout_data,
+        training_data,
+        minimum_history=BEHAVIORAL_MINIMUM_HISTORY,
+        request_ratio_threshold=BEHAVIORAL_RATIO_THRESHOLD,
+        upload_ratio_threshold=BEHAVIORAL_RATIO_THRESHOLD,
+    ).set_index("event_id")
+    holdout_event_ids = holdout_data["event_id"]
+    behavioral_predictions = pd.Series(
+        behavioral_analysis.loc[holdout_event_ids, "behavioral_alert"].astype(int).to_numpy(),
+        index=holdout_index,
+        name="behavioral_prediction",
+    )
+    improved_predictions = (hybrid_output["hybrid_prediction"].eq(1) | behavioral_predictions.eq(1)).astype(int)
+    improved_predictions.name = "improved_prediction"
+    new_behavioral_predictions = int((behavioral_predictions.eq(1) & hybrid_output["hybrid_prediction"].eq(0)).sum())
+    original_system_metrics, original_system_matrix = calculate_metrics(common_truth, hybrid_output["hybrid_prediction"], "Original Hybrid")
+    improved_system_metrics, improved_system_matrix = calculate_metrics(common_truth, improved_predictions, "Hybrid + Behavioural Baseline")
+    system_comparison = pd.DataFrame([original_system_metrics, improved_system_metrics])
+    system_comparison["behavioral_holdout_alerts"] = [0, int(behavioral_predictions.sum())]
+    system_comparison["new_behavioral_predictions"] = [0, new_behavioral_predictions]
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     MODELS_DIR.mkdir(parents=True, exist_ok=True)
     pd.DataFrame([iqr_metrics, kmeans_metrics]).to_csv(RESULTS_DIR / "stage2_algorithm_metrics.csv", index=False)
     pd.DataFrame([isolation_metrics, random_forest_metrics]).to_csv(RESULTS_DIR / "stage3_4_algorithm_metrics.csv", index=False)
     comparison_metrics.to_csv(RESULTS_DIR / "algorithm_comparison.csv", index=False)
+    system_comparison.to_csv(RESULTS_DIR / "system_comparison.csv", index=False)
     iqr_matrix.to_csv(RESULTS_DIR / "iqr_confusion_matrix.csv")
     kmeans_matrix.to_csv(RESULTS_DIR / "kmeans_confusion_matrix.csv")
     isolation_matrix.to_csv(RESULTS_DIR / "isolation_forest_confusion_matrix.csv")
     random_forest_matrix.to_csv(RESULTS_DIR / "random_forest_confusion_matrix.csv")
     hybrid_matrix.to_csv(RESULTS_DIR / "hybrid_confusion_matrix.csv")
+    original_system_matrix.to_csv(RESULTS_DIR / "original_hybrid_confusion_matrix.csv")
+    improved_system_matrix.to_csv(RESULTS_DIR / "improved_system_confusion_matrix.csv")
     calculate_iqr_bounds(data).round(4).to_csv(RESULTS_DIR / "iqr_bounds.csv")
     (RESULTS_DIR / "kmeans_details.json").write_text(json.dumps(kmeans_details, indent=2), encoding="utf-8")
     (RESULTS_DIR / "isolation_forest_details.json").write_text(json.dumps(isolation_details, indent=2), encoding="utf-8")
     (RESULTS_DIR / "random_forest_details.json").write_text(json.dumps(random_forest_details, indent=2), encoding="utf-8")
     hybrid_output.insert(0, "ground_truth", common_truth)
     hybrid_output.to_csv(RESULTS_DIR / "hybrid_holdout_predictions.csv", index_label="source_row_index")
+    behavioral_holdout = behavioral_analysis.loc[holdout_event_ids, [
+        "user_id", "timestamp", "requests", "data_uploaded_mb", "historical_request_baseline",
+        "historical_upload_baseline_mb", "request_deviation_ratio", "upload_deviation_ratio",
+        "behavioral_explanation",
+    ]].copy()
+    behavioral_holdout.insert(0, "ground_truth", common_truth.to_numpy())
+    behavioral_holdout.insert(1, "original_hybrid_prediction", hybrid_output["hybrid_prediction"].to_numpy())
+    behavioral_holdout.insert(2, "behavioral_prediction", behavioral_predictions.to_numpy())
+    behavioral_holdout.insert(3, "improved_prediction", improved_predictions.to_numpy())
+    behavioral_holdout.to_csv(RESULTS_DIR / "behavioral_holdout_predictions.csv", index_label="event_id")
+    (RESULTS_DIR / "behavioral_evaluation_details.json").write_text(
+        json.dumps(
+            {
+                "training_records": int(len(training_data)),
+                "holdout_records": int(len(holdout_data)),
+                "minimum_history": BEHAVIORAL_MINIMUM_HISTORY,
+                "ratio_threshold": BEHAVIORAL_RATIO_THRESHOLD,
+                "risk_points": BEHAVIORAL_RISK_POINTS,
+                "behavioral_holdout_alerts": int(behavioral_predictions.sum()),
+                "new_behavioral_predictions": new_behavioral_predictions,
+                "integration_rule": "improved_prediction = hybrid_prediction OR behavioral_prediction",
+            },
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
     save_performance_chart(comparison_metrics, RESULTS_DIR / "algorithm_performance.png")
     joblib.dump(random_forest_model, MODELS_DIR / "random_forest_saas_model.joblib")
 
@@ -146,6 +201,8 @@ def main() -> None:
     print(json.dumps(random_forest_details, indent=2))
     print("\nCommon-holdout algorithm comparison:")
     print(comparison_metrics.round(4).to_string(index=False))
+    print("\nOriginal versus behavioural-enhanced system comparison:")
+    print(system_comparison.round(4).to_string(index=False))
     print(f"\nResults saved to: {RESULTS_DIR}")
 
 

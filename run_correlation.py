@@ -18,12 +18,13 @@ def main() -> None:
         "shadow_it": RESULTS_DIR / "shadow_it_alerts.csv",
         "shadow_ai": RESULTS_DIR / "shadow_ai_alerts.csv",
         "cloud": RESULTS_DIR / "cloud_security_alerts.csv",
+        "behavioral": RESULTS_DIR / "behavioral_deviation_alerts.csv",
         "saas": DATA_DIR / "saas_activity.csv",
         "cloud_data": DATA_DIR / "cloudtrail_logs.csv",
     }
     missing = [str(path) for path in required_paths.values() if not path.exists()]
     if missing:
-        raise FileNotFoundError("Missing required files. Run generate_data.py and run_detections.py first: " + ", ".join(missing))
+        raise FileNotFoundError("Missing required files. Run generate_data.py, run_detections.py, and run_behavioral_baseline.py first: " + ", ".join(missing))
 
     incidents = correlate_events(
         pd.read_csv(required_paths["shadow_it"]),
@@ -31,6 +32,7 @@ def main() -> None:
         pd.read_csv(required_paths["cloud"]),
         pd.read_csv(required_paths["saas"]),
         pd.read_csv(required_paths["cloud_data"]),
+        behavioral_alerts=pd.read_csv(required_paths["behavioral"]),
     )
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     incidents.to_csv(RESULTS_DIR / "correlated_incidents.csv", index=False)
